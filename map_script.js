@@ -1,7 +1,7 @@
 var ids = {A:0,B:0,E:1,CD:2,K:3,L:3,M:3,F:4,P:4,Q:4,U:4,W:4,G:5,N:6,T:7,J:8,R:9,I:10,O:11,H:12};
 
 function get_rooms() {
-  var rooms = new Array(), str = "", index = 0, flag = 0;
+  var rooms = new Array(), str = "", index = 0;
   for (var id in ids) {
     if (index == ids[id]) {
       str += id;
