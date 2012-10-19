@@ -1,0 +1,320 @@
+<?xml version="1.0" encoding="utf-8"?>
+<!-- Generator: Adobe Illustrator 16.0.0, SVG Export Plug-In . SVG Version: 6.00 Build 0)  -->
+<!DOCTYPE svg PUBLIC "-//W3C//DTD SVG 1.1//EN" "http://www.w3.org/Graphics/SVG/1.1/DTD/svg11.dtd">
+<svg version="1.1" id="レイヤー_1" xmlns="http://www.w3.org/2000/svg" xmlns:xlink="http://www.w3.org/1999/xlink" x="0px" y="0px" width="480px" height="720px" viewBox="0 0 480 720" enable-background="new 0 0 480 720" xml:space="preserve">
+<g id="森">
+<path opacity="0.7" fill="#5FAC3B" d="M175.668,182.084c3.587,13.549,19.778,20.205,36.158,14.862 c16.385-5.344,26.761-20.663,23.174-34.213c-3.584-13.551-19.774-20.207-36.159-14.861 C182.46,153.213,172.081,168.536,175.668,182.084z"/>
+<path opacity="0.7" fill="#5FAC3B" d="M276.145,281.002c-3.721,6.487-13.676,6.837-22.233,0.785 c-8.556-6.052-12.467-16.218-8.738-22.702c3.723-6.491,13.679-6.834,22.236-0.789C275.96,264.352,279.872,274.519,276.145,281.002z"/>
+<path opacity="0.7" fill="#5FAC3B" d="M335.839,347.234c0,19.961-15.112,36.143-33.77,36.143c-18.652,0-33.772-16.182-33.772-36.143 c0-19.96,15.12-36.138,33.772-36.138C320.727,311.096,335.839,327.274,335.839,347.234z"/>
+<path opacity="0.7" fill="#5FAC3B" d="M273.77,178.48c-11.978,4.067-8.32,42.958,7.425,36.205 c7.824-3.355,10.266-12.773,9.163-20.581c-1.288-9.174-6.478-15.934-14.274-16.406"/>
+<path opacity="0.7" fill="#5FAC3B" d="M190.255,268.57c1.245,15.362,6.016,19.311,11.295,30.223 c2.992,6.174,16.051,22.662,14.261,29.984c-1.912,7.808-14.546,1.686-19.306,6.959c-2.618,2.901-2.507,25.485-6.735,24.68 c-4.486-0.856-11.198-22.598-11.113-26.606c0.147-6.586,3.803-12.064,5.137-18.484c1.171-5.621,0.421-10.957,0.76-16.595 c0.362-6.167-0.593-14.141-1.149-20.198C183.213,276.389,186.254,260.378,190.255,268.57"/>
+<ellipse opacity="0.7" fill="#5FAC3B" cx="143.668" cy="184.123" rx="19.836" ry="15.765"/>
+</g>
+<g id="建物_xFF08_黄色_xFF09_">
+<a onclick="exe(0)"><polygon id="roomABb" fill="#F5A623" points="212.437,270.167 195.566,282.906 186.296,267.791 203.17,255.049"/></a>
+<a onclick="exe(1)"><polygon id="roomEb" fill="#F5A623" points="219.301,291.143 206.07,301.014 196.214,284.748 209.448,274.872"/></a>
+<a onclick="exe(2)"><polygon id="roomCDb" fill="#F5A623" points="237.626,311.767 221.671,323.886 213.595,308.49 228.508,297.371"/></a>
+<a onclick="exe(3)"><rect id="roomKLMb" x="305.552" y="248.082" fill="#F4A000" width="23.051" height="28.551"/></a>
+<a onclick="exe(4)"><polygon id="roomFPQUWb" fill="#F4A000" points="239.702,313.343 223.577,325.418 221.705,338.211 198.653,340.587 199.725,362.604 247.966,359.032 249.039,332.263 "/></a>
+<a onclick="exe(5)"><rect id="roomGb" x="339.404" y="395.392" fill="#F4A000" width="17.959" height="15.536"/></a>
+<a onclick="exe(6)"><rect id="roomNb" x="306.093" y="196.271" fill="#F4A000" width="18.487" height="48.49"/></a>
+<a onclick="exe(7)"><rect id="roomTb" x="254.669" y="523.482" fill="#F4A000" width="17.689" height="13.385"/></a>
+<a onclick="exe(8)"><polygon id="roomJb" fill="#F4A000" points="233.7,447.476 220.119,458.819 214.056,449.881 227.64,438.538 "/></a>
+<a onclick="exe(9)"><rect id="roomRb" x="236.405" y="193.297" fill="#F4A000" width="19.831" height="26.772"/></a>
+<a onclick="exe(10)"><polygon id="roomIb" fill="#F4A000" points="208.518,404.606 197.106,412.965 180.105,384.385 191.511,376.025 "/></a>
+<a onclick="exe(11)"><polygon id="roomOb" fill="#F4A000" points="136.777,119.377 115.392,134.628 121.615,145.37 142.992,130.12 "/></a>
+<a onclick="exe(12)"><rect id="roomHb" x="344.578" y="444.059" fill="#F4A000" width="15.014" height="22.311"/></a>
+</g>
+<g id="歩道">
+<polyline fill="none" stroke="#9B806A" stroke-width="1.9893" stroke-miterlimit="1" points="257.347,362.305 196.24,367.656 168.632,385.457 "/>
+<line fill="none" stroke="#9B806A" stroke-width="1.9893" stroke-miterlimit="1" x1="367.778" y1="439.299" x2="290.052" y2="439.943"/>
+<polyline fill="none" stroke="#9B806A" stroke-width="2.984" points="297.811,218.231 277.809,219.069 265.89,226.317 175.831,224.531"/>
+<polyline fill="none" stroke="#9B806A" stroke-width="3.4813" points="263.208,228.446 261.596,179.067 279.555,163.849"/>
+<polyline fill="none" stroke="#9B806A" stroke-width="1.9893" stroke-miterlimit="1" points="264.05,226.432 262.818,269.061 230.395,294.047"/>
+<line fill="none" stroke="#9B806A" stroke-width="1.9893" stroke-miterlimit="1" x1="254.246" y1="275.604" x2="276.338" y2="308.716"/>
+<line fill="none" stroke="#9B806A" stroke-width="1.9893" x1="243.314" y1="419.732" x2="253.329" y2="495.523"/>
+<line fill="none" stroke="#9B806A" stroke-width="1.9893" stroke-miterlimit="1" x1="232.313" y1="293.08" x2="259.989" y2="335.484"/>
+<polyline fill="none" stroke="#9B806A" stroke-width="1.9893" stroke-miterlimit="1" points="324.091,493.143 323.82,410.492 339.9,410.492"/>
+<line fill="none" stroke="#9B806A" stroke-width="1.9893" stroke-linecap="round" stroke-miterlimit="1" x1="249.806" y1="79.075" x2="249.806" y2="108.521"/>
+<line fill="none" stroke="#9B806A" stroke-width="1.9893" x1="299.119" y1="251.65" x2="218.445" y2="251.008"/>
+<path fill="none" stroke="#9B806A" stroke-width="4.9733" stroke-linejoin="round" stroke-miterlimit="1" d="M292.419,596.707 l-1.074-190.968c0,0-83.352-71.399,7.774-111.852v-98.162l-55.748-87.455"/>
+<line fill="none" stroke="#9B806A" stroke-width="1.9893" x1="275.912" y1="393.613" x2="206.158" y2="450.903"/>
+<polyline fill="none" stroke="#9B806A" stroke-width="1.9893" stroke-linecap="round" stroke-miterlimit="1" points="126.823,483.674 172.251,482.171 201.331,505.931"/>
+<line fill="none" stroke="#A29790" stroke-width="1.9893" stroke-miterlimit="1" x1="298.047" y1="193.643" x2="328.603" y2="182.644"/>
+<line fill="none" stroke="#A29790" stroke-width="1.9893" stroke-miterlimit="1" x1="223.001" y1="199.888" x2="222.463" y2="224.874"/>
+<line fill="none" stroke="#A29790" stroke-width="1.9893" stroke-linecap="round" x1="218.176" y1="250.458" x2="143.668" y2="250.458"/>
+<line fill="none" stroke="#A29790" stroke-width="1.9893" stroke-miterlimit="1" x1="113.648" y1="190.075" x2="144.737" y2="250.757"/>
+<line fill="none" stroke="#9B9A98" stroke-width="1.9893" stroke-miterlimit="1" x1="300.729" y1="280.799" x2="365.053" y2="280.204"/>
+<line fill="none" stroke="#9B9A98" stroke-width="1.9893" stroke-linecap="round" stroke-miterlimit="3" x1="230.545" y1="492.25" x2="171.865" y2="523.003"/>
+<line fill="none" stroke="#9B9A98" stroke-width="3.9786" stroke-linecap="round" stroke-miterlimit="1" x1="381.137" y1="95.779" x2="349.529" y2="118.882"/>
+<line fill="none" stroke="#9B9A98" stroke-width="3.9786" stroke-linecap="round" stroke-miterlimit="1" x1="138.537" y1="80.262" x2="146.309" y2="105.297"/>
+<polyline fill="none" stroke="#9B9A98" stroke-width="2.4866" stroke-miterlimit="1" points="187.397,347.385 189.357,344.102 193.991,333.555 188.948,323.677 "/>
+<polyline fill="none" stroke="#9B9A98" stroke-width="2.0185" stroke-linecap="round" points="176.982,250.972 190.563,293.818 171.812,303.357 "/>
+<line fill="none" stroke="#9B9A98" stroke-width="2.4866" stroke-miterlimit="1" x1="176.14" y1="331.916" x2="235.368" y2="427.997"/>
+<polyline fill="none" stroke="#9B9A98" stroke-width="3.9786" stroke-linecap="round" stroke-linejoin="round" points="225.684,637.754 367.2,554.465 367.466,494.925 367.466,148.678 343.078,108.521 145.274,106.739 88.991,145.11 113.915,190.625 "/>
+<polyline fill="none" stroke="#9B9A98" stroke-width="2.4866" stroke-miterlimit="1" points="217.642,249.518 216.84,267.068 231.847,291.76 150.906,353.036 "/>
+<polyline fill="none" stroke="#9B9A98" stroke-width="3.9786" stroke-linecap="round" stroke-linejoin="bevel" points="365.096,495.57 233.493,495.523 142.097,343.562 100.285,340.883 "/>
+<line fill="none" stroke="#9B9A98" stroke-width="2.984" stroke-linecap="round" stroke-miterlimit="1" x1="363.754" y1="168.609" x2="327.034" y2="182.644"/>
+<polyline fill="none" stroke="#9B9A98" stroke-width="1.9893" stroke-linecap="round" stroke-linejoin="round" stroke-miterlimit="1" points="201.023,200.486 221.393,200.486 234.26,187.994 256.022,178.864 206.653,105.844 "/>
+<line fill="none" stroke="#9B9A98" stroke-width="2.4866" stroke-miterlimit="1" x1="200.673" y1="312.477" x2="188.497" y2="292.32"/>
+</g>
+<path opacity="0.8" fill="#9B9A98" stroke="#9B9A98" stroke-width="0.6578" d="M360.242,542.185c0,1.368-0.974,2.48-2.171,2.48 h-55.841c-1.205,0-2.178-1.112-2.178-2.48v-37.19c0-1.372,0.973-2.482,2.178-2.482h55.841c1.197,0,2.171,1.11,2.171,2.482V542.185z"/>
+<path opacity="0.8" fill="#9B9A98" stroke="#9B9A98" stroke-width="0.6578" d="M237.78,558.629 c0,12.815-11.518,23.204-25.726,23.204c-14.209,0-25.734-10.389-25.734-23.204c0-12.814,11.524-23.206,25.734-23.206 C226.261,535.423,237.78,545.814,237.78,558.629z"/>
+<rect x="339.671" y="373.561" fill="#B9C7D5" width="17.957" height="18.148"/>
+<polygon fill="#66C6F1" points="310.419,412.876 304.523,412.876 300.236,400.976 305.057,396.809 "/>
+<rect x="326.809" y="444.059" fill="#B9C7D5" width="15.007" height="22.311"/>
+<polygon fill="#B9C7D5" points="253.096,285.552 240.682,295.217 251.085,311.598 263.63,301.878 "/>
+<polygon fill="#B9C7D5" points="167.942,348.121 158.397,354.873 171.92,377.417 181.625,370.844 "/>
+<polygon fill="#B9C7D5" points="322.708,179.067 302.335,186.799 289.995,168.768 306.607,155.213 "/>
+<polygon fill="#B9C7D5" points="226.231,429.771 212.728,440.903 197.695,418.455 211.202,407.318 "/>
+<rect x="266.152" y="449.715" fill="#B9C7D5" width="17.694" height="39.862"/>
+<rect x="268.836" y="409.854" fill="#B9C7D5" width="15.544" height="33.909"/>
+<polygon fill="#B9C7D5" points="182.444,289.958 169.964,296.683 155.058,262.588 167.542,255.868 "/>
+<rect x="245.247" y="231.671" fill="#B9C7D5" width="14.205" height="14.277"/>
+<rect x="207.189" y="231.073" fill="#B9C7D5" width="17.154" height="15.47"/>
+<rect x="184.677" y="230.782" fill="#B9C7D5" width="17.69" height="15.167"/>
+<rect x="248.241" y="501.175" fill="#B9C7D5" width="28.138" height="16.95"/>
+<rect x="245.823" y="550.255" fill="#B9C7D5" width="24.125" height="33.02"/>
+<rect x="218.483" y="508.312" fill="#B9C7D5" width="23.32" height="20.525"/>
+<rect x="267.49" y="231.671" fill="#B9C7D5" width="9.653" height="14.277"/>
+<rect x="193.25" y="205.493" fill="#B9C7D5" width="19.835" height="13.089"/>
+<polygon fill="#B9C7D5" points="221.376,485.979 211.231,493.3 197.902,470.562 208.048,463.237 "/>
+<polygon fill="#B9C7D5" points="183.132,535.115 179.539,527.066 199.169,516.271 202.76,524.313 "/>
+<polygon fill="#B9C7D5" points="248.396,410.609 235.894,420.12 211.961,381.348 224.463,371.841 "/>
+<polygon fill="#B9C7D5" points="267.165,393.643 256.014,402.608 238.34,375.553 249.488,366.578 "/>
+<polygon fill="#B9C7D5" points="268.497,161.084 255.724,171.528 225.199,125.548 237.975,115.103 "/>
+<rect x="328.911" y="469.942" fill="#C1CDD2" width="31.895" height="19.635"/>
+<rect x="297.018" y="471.725" fill="#B9C7D5" width="23.314" height="15.171"/>
+<rect x="327.342" y="414.61" fill="#B9C7D5" width="14.474" height="21.717"/>
+<polygon fill="#B9C7D5" points="301.586,150.645 287.696,162.207 262.766,125.323 276.663,113.756 "/>
+<polygon fill="#B9C7D5" points="245.031,276.331 234.071,285.054 221.423,265.473 232.379,256.754 "/>
+<rect x="306.626" y="283.773" fill="#B9C7D5" width="21.977" height="24.986"/>
+<polygon fill="#B9C7D5" points="301.106,407.769 285.469,391.809 296.069,379.015 311.711,394.97 "/>
+<rect x="299.388" y="410.447" fill="#B9C7D5" width="19.299" height="55.922"/>
+<polygon fill="#B9C7D5" points="292.882,290.57 276.567,298.649 268.659,285.113 281.421,278.419 281.421,223.642 292.882,223.642 "/>
+<polygon fill="#B9C7D5" points="134.445,517.734 161.796,503.939 172.441,529.934 164.048,534.13 166.49,539.627 180.018,550.865 171.382,563.754 155.283,550.484 150.621,540.898 145.087,543.73 "/>
+<polygon fill="#B9C7D5" points="208.09,130.017 196.699,138.421 185.623,119.938 197.007,111.526 "/>
+<polygon fill="#B9C7D5" points="185.98,132.374 166.823,145.94 173.721,157.94 192.88,144.375 "/>
+<polygon fill="#B9C7D5" points="148.609,134.425 133.617,145.108 140.87,157.626 155.855,146.938 "/>
+<polygon fill="#B9C7D5" points="130.142,144.287 110.277,158.451 117.523,170.964 137.388,156.804 "/>
+<rect x="345.799" y="414.02" fill="#B9C7D5" width="14.477" height="21.711"/>
+<rect x="229.167" y="231.073" fill="#B9C7D5" width="14.204" height="14.281"/>
+<text transform="matrix(0.901 0 0 1 282.176 409.8535)" fill="#FFFFFF" stroke="#FFFFFF" stroke-width="4" stroke-linecap="round" stroke-linejoin="round" font-family="'KozGoPro-Bold-83pv-RKSJ-H'" font-size="12.5008">経済学部</text>
+<text transform="matrix(0.901 0 0 1 115.7395 183.3994)"><tspan x="0" y="0" fill="#FFFFFF" stroke="#FFFFFF" stroke-width="4" stroke-linecap="round" stroke-linejoin="round" font-family="'KozGoPro-Bold-83pv-RKSJ-H'" font-size="12.5008">環境情報</tspan><tspan x="6.25" y="15.626" fill="#FFFFFF" stroke="#FFFFFF" stroke-width="4" stroke-linecap="round" stroke-linejoin="round" font-family="'KozGoPro-Bold-83pv-RKSJ-H'" font-size="12.5008">研究院</tspan></text>
+<text transform="matrix(0.901 0 0 1 201.9827 418.9443)" fill="#FFFFFF" stroke="#FFFFFF" stroke-width="4" stroke-linecap="round" stroke-linejoin="round" font-family="'KozGoPro-Bold-83pv-RKSJ-H'" font-size="12.1831">教育人間科学部</text>
+<text transform="matrix(0.901 0 0 1 323.7502 478.2686)"><tspan x="0" y="0" fill="#FFFFFF" stroke="#FFFFFF" stroke-width="4" stroke-linecap="round" stroke-linejoin="round" font-family="'KozGoPro-Bold-83pv-RKSJ-H'" font-size="9.3756">国際社会科学</tspan><tspan x="28.127" y="9.376" fill="#FFFFFF" stroke="#FFFFFF" stroke-width="4" stroke-linecap="round" stroke-linejoin="round" font-family="'KozGoPro-Bold-83pv-RKSJ-H'" font-size="9.3756">研究科</tspan></text>
+<text transform="matrix(0.901 0 0 1 295.177 457.417)" fill="#FFFFFF" stroke="#FFFFFF" stroke-width="4" stroke-linecap="round" stroke-linejoin="round" font-family="'KozGoPro-Bold-83pv-RKSJ-H'" font-size="12.5008">経営学部</text>
+<text transform="matrix(0.901 0 0 1 239.6311 135.7129)" fill="#FFFFFF" stroke="#FFFFFF" stroke-width="4" stroke-linecap="round" stroke-linejoin="round" font-family="'KozGoPro-Bold-83pv-RKSJ-H'" font-size="12.5008">工学研究院等</text>
+<text transform="matrix(0.901 0 0 1 280.217 409.4707)" fill="#49308E" font-family="'KozGoPro-Bold-83pv-RKSJ-H'" font-size="12.5008">経済学部</text>
+<text transform="matrix(0.901 0 0 1 115.7395 183.3994)"><tspan x="0" y="0" fill="#49308E" font-family="'KozGoPro-Bold-83pv-RKSJ-H'" font-size="12.5008">環境情報</tspan><tspan x="6.25" y="15.626" fill="#49308E" font-family="'KozGoPro-Bold-83pv-RKSJ-H'" font-size="12.5008">研究院</tspan></text>
+<text transform="matrix(0.901 0 0 1 201.9827 418.9443)" fill="#49308E" font-family="'KozGoPro-Bold-83pv-RKSJ-H'" font-size="12.1831">教育人間科学部</text>
+<text transform="matrix(0.901 0 0 1 323.7502 478.2686)"><tspan x="0" y="0" fill="#49308E" font-family="'KozGoPro-Bold-83pv-RKSJ-H'" font-size="9.3756">国際社会科学</tspan><tspan x="28.127" y="9.376" fill="#49308E" font-family="'KozGoPro-Bold-83pv-RKSJ-H'" font-size="9.3756">研究科</tspan></text>
+<text transform="matrix(0.901 0 0 1 295.177 457.417)" fill="#49308E" font-family="'KozGoPro-Bold-83pv-RKSJ-H'" font-size="12.5008">経営学部</text>
+<text transform="matrix(0.901 0 0 1 240.0002 135.7129)" fill="#49308E" font-family="'KozGoPro-Bold-83pv-RKSJ-H'" font-size="12.5008">工学研究院等</text>
+<rect x="173.466" y="83.705" fill="#B9C7D5" width="17.956" height="18.148"/>
+
+<defs>
+  <linearGradient id="box" x1="0%" y1="0%" x2="0%" y2="100%">
+    <stop offset="0%" stop-color="#4488ff"/>
+    <stop offset="25%" stop-color="#4488ff"/>
+    <stop offset="25%" stop-color="white"/>
+    <stop offset="90%" stop-color="white"/>
+    <stop offset="100%" stop-color="#eeeeee"/>
+   </linearGradient>
+</defs>
+
+<defs>
+  <linearGradient id="frame" x1="0%" y1="0%" x2="100%" y2="100%">
+    <stop offset="20%" stop-color="#cccccc"/>
+    <stop offset="80%" stop-color="#666666"/>
+  </linearGradient>
+</defs>
+
+<g id="roomAB" transform="translate(0,40)" style="display:none">
+  <g id="roomA" transform="translate(0,0)">
+    <rect x="4" y="4" width="200" height="80" fill="black" opacity="0.3" rx="5" ry="5" stroke="black" stroke-width="2"/>
+    <rect x="0" y="0" width="200" height="80" fill="url(#box)" opacity="1" rx="5" ry="5" stroke="url(#frame)" stroke-width="2"/>
+    <a xlink:href="rooms/A.html"><text x="5" y="15" width="200" height="100" font-family="Verdana" font-size="15" fill="white" text-align="justify" >PC教室A</text></a>
+    <a onclick="hide_id('A')"><text x="180" y="15" width="200" height="100" font-family="Verdana" font-size="15" fill="white" text-align="justify" >✕</text></a>
+    <text x="10" y="40" width="200" height="100" font-family="Verdana" font-size="12" fill="black" text-align="justify" >空席：54/68　now-2:30pm</text>
+    <a xlink:href="rooms/A.html"><text x="140" y="65" width="200" height="100" font-family="Verdana" font-size="12" fill="blue" text-align="justify" >&gt;&gt;詳細</text></a>
+  </g>
+
+  <g id="roomB" transform="translate(0,90)">
+    <rect x="4" y="4" width="200" height="80" fill="black" opacity="0.3" rx="5" ry="5" stroke="black" stroke-width="2"/>
+    <rect x="0" y="0" width="200" height="80" fill="url(#box)" opacity="1" rx="5" ry="5" stroke="url(#frame)" stroke-width="2"/>
+    <a xlink:href="rooms/B.html"><text x="5" y="15" width="200" height="100" font-family="Verdana" font-size="15" fill="white" text-align="justify" >PC教室B</text></a>
+    <a onclick="hide_id('B')"><text x="180" y="15" width="200" height="100" font-family="Verdana" font-size="15" fill="white" text-align="justify" >✕</text></a>
+    <text x="10" y="40" width="200" height="100" font-family="Verdana" font-size="12" fill="black" text-align="justify" >空席：43/68　now-4:15pm</text>
+    <a xlink:href="rooms/B.html"><text x="140" y="65" width="200" height="100" font-family="Verdana" font-size="12" fill="blue" text-align="justify" >&gt;&gt;詳細</text></a>
+  </g>
+</g>
+
+<g id="roomE" transform="translate(0,80)" style="display:none">
+  <rect x="4" y="4" width="200" height="80" fill="black" opacity="0.3" rx="5" ry="5" stroke="black" stroke-width="2"/>
+  <rect x="0" y="0" width="200" height="80" fill="url(#box)" opacity="1" rx="5" ry="5" stroke="url(#frame)" stroke-width="2"/>
+  <a xlink:href="rooms/E.html"><text x="5" y="15" width="200" height="100" font-family="Verdana" font-size="15" fill="white" text-align="justify" >PC教室E</text></a>
+  <a onclick="hide_id('E')"><text x="180" y="15" width="200" height="100" font-family="Verdana" font-size="15" fill="white" text-align="justify" >✕</text></a>
+  <text x="10" y="40" width="200" height="100" font-family="Verdana" font-size="12" fill="black" text-align="justify" >空席：54/68　now-2:30pm</text>
+  <a xlink:href="rooms/A.html"><text x="140" y="65" width="200" height="100" font-family="Verdana" font-size="12" fill="blue" text-align="justify" >&gt;&gt;詳細</text></a>
+</g>
+
+<g id="roomCD" transform="translate(0,80)" style="display:none">
+  <rect x="4" y="4" width="200" height="80" fill="black" opacity="0.3" rx="5" ry="5" stroke="black" stroke-width="2"/>
+  <rect x="0" y="0" width="200" height="80" fill="url(#box)" opacity="1" rx="5" ry="5" stroke="url(#frame)" stroke-width="2"/>
+  <a xlink:href="rooms/CD.html"><text x="5" y="15" width="200" height="100" font-family="Verdana" font-size="15" fill="white" text-align="justify" >PC教室CD</text></a>
+  <a onclick="hide_id('CD')"><text x="180" y="15" width="200" height="100" font-family="Verdana" font-size="15" fill="white" text-align="justify" >✕</text></a>
+  <text x="10" y="40" width="200" height="100" font-family="Verdana" font-size="12" fill="black" text-align="justify" >空席：54/68　now-2:30pm</text>
+  <a xlink:href="rooms/CD.html"><text x="140" y="65" width="200" height="100" font-family="Verdana" font-size="12" fill="blue" text-align="justify" >&gt;&gt;詳細</text></a>
+</g>
+
+<g id="roomKLM" transform="translate(0,40)" style="display:none">
+  <g id="roomK" transform="translate(0,0)">
+    <rect x="4" y="4" width="200" height="80" fill="black" opacity="0.3" rx="5" ry="5" stroke="black" stroke-width="2"/>
+    <rect x="0" y="0" width="200" height="80" fill="url(#box)" opacity="1" rx="5" ry="5" stroke="url(#frame)" stroke-width="2"/>
+    <a xlink:href="rooms/K.html"><text x="5" y="15" width="200" height="100" font-family="Verdana" font-size="15" fill="white" text-align="justify" >電子情報計算機棟1F端末室</text></a>
+    <a onclick="hide_id('K')"><text x="180" y="15" width="200" height="100" font-family="Verdana" font-size="15" fill="white" text-align="justify" >✕</text></a>
+    <text x="10" y="40" width="200" height="100" font-family="Verdana" font-size="12" fill="black" text-align="justify" >空席：54/68　now-2:30pm</text>
+    <a xlink:href="rooms/K.html"><text x="140" y="65" width="200" height="100" font-family="Verdana" font-size="12" fill="blue" text-align="justify" >&gt;&gt;詳細</text></a>
+  </g>
+
+  <g id="roomL" transform="translate(0,90)">
+    <rect x="4" y="4" width="200" height="80" fill="black" opacity="0.3" rx="5" ry="5" stroke="black" stroke-width="2"/>
+    <rect x="0" y="0" width="200" height="80" fill="url(#box)" opacity="1" rx="5" ry="5" stroke="url(#frame)" stroke-width="2"/>
+    <a xlink:href="rooms/L.html"><text x="5" y="15" width="200" height="100" font-family="Verdana" font-size="15" fill="white" text-align="justify" >電子情報計算機棟3F端末室-1</text></a>
+    <a onclick="hide_id('L')"><text x="180" y="15" width="200" height="100" font-family="Verdana" font-size="15" fill="white" text-align="justify" >✕</text></a>
+    <text x="10" y="40" width="200" height="100" font-family="Verdana" font-size="12" fill="black" text-align="justify" >空席：43/68　now-4:15pm</text>
+    <a xlink:href="rooms/L.html"><text x="140" y="65" width="200" height="100" font-family="Verdana" font-size="12" fill="blue" text-align="justify" >&gt;&gt;詳細</text></a>
+  </g>
+
+  <g id="roomM" transform="translate(0,180)">
+    <rect x="4" y="4" width="200" height="80" fill="black" opacity="0.3" rx="5" ry="5" stroke="black" stroke-width="2"/>
+    <rect x="0" y="0" width="200" height="80" fill="url(#box)" opacity="1" rx="5" ry="5" stroke="url(#frame)" stroke-width="2"/>
+    <a xlink:href="rooms/M.html"><text x="5" y="15" width="200" height="100" font-family="Verdana" font-size="15" fill="white" text-align="justify" >電子情報計算機棟3F端末室-2</text></a>
+    <a onclick="hide_id('M')"><text x="180" y="15" width="200" height="100" font-family="Verdana" font-size="15" fill="white" text-align="justify" >✕</text></a>
+    <text x="10" y="40" width="200" height="100" font-family="Verdana" font-size="12" fill="black" text-align="justify" >空席：43/68　now-4:15pm</text>
+    <a xlink:href="rooms/M.html"><text x="140" y="65" width="200" height="100" font-family="Verdana" font-size="12" fill="blue" text-align="justify" >&gt;&gt;詳細</text></a>
+  </g>
+</g>
+
+
+<g id="roomFPQUW" transform="translate(0,40)" style="display:none">
+  <g id="roomF" transform="translate(0,0)">
+    <rect x="4" y="4" width="200" height="80" fill="black" opacity="0.3" rx="5" ry="5" stroke="black" stroke-width="2"/>
+    <rect x="0" y="0" width="200" height="80" fill="url(#box)" opacity="1" rx="5" ry="5" stroke="url(#frame)" stroke-width="2"/>
+    <a xlink:href="rooms/F.html"><text x="5" y="15" width="200" height="100" font-family="Verdana" font-size="15" fill="white" text-align="justify" >PC教室F</text></a>
+    <a onclick="hide_id('F')"><text x="180" y="15" width="200" height="100" font-family="Verdana" font-size="15" fill="white" text-align="justify" >✕</text></a>
+    <text x="10" y="40" width="200" height="100" font-family="Verdana" font-size="12" fill="black" text-align="justify" >空席：54/68　now-2:30pm</text>
+    <a xlink:href="rooms/F.html"><text x="140" y="65" width="200" height="100" font-family="Verdana" font-size="12" fill="blue" text-align="justify" >&gt;&gt;詳細</text></a>
+  </g>
+
+  <g id="roomP" transform="translate(0,90)">
+    <rect x="4" y="4" width="200" height="80" fill="black" opacity="0.3" rx="5" ry="5" stroke="black" stroke-width="2"/>
+    <rect x="0" y="0" width="200" height="80" fill="url(#box)" opacity="1" rx="5" ry="5" stroke="url(#frame)" stroke-width="2"/>
+    <a xlink:href="rooms/P.html"><text x="5" y="15" width="200" height="100" font-family="Verdana" font-size="15" fill="white" text-align="justify" >中央図書館2F</text></a>
+    <a onclick="hide_id('P')"><text x="180" y="15" width="200" height="100" font-family="Verdana" font-size="15" fill="white" text-align="justify" >✕</text></a>
+    <text x="10" y="40" width="200" height="100" font-family="Verdana" font-size="12" fill="black" text-align="justify" >空席：43/68　now-4:15pm</text>
+    <a xlink:href="rooms/P.html"><text x="140" y="65" width="200" height="100" font-family="Verdana" font-size="12" fill="blue" text-align="justify" >&gt;&gt;詳細</text></a>
+  </g>
+
+  <g id="roomQ" transform="translate(0,180)">
+    <rect x="4" y="4" width="200" height="80" fill="black" opacity="0.3" rx="5" ry="5" stroke="black" stroke-width="2"/>
+    <rect x="0" y="0" width="200" height="80" fill="url(#box)" opacity="1" rx="5" ry="5" stroke="url(#frame)" stroke-width="2"/>
+    <a xlink:href="rooms/Q.html"><text x="5" y="15" width="200" height="100" font-family="Verdana" font-size="15" fill="white" text-align="justify" >中央図書館3F</text></a>
+    <a onclick="hide_id('Q')"><text x="180" y="15" width="200" height="100" font-family="Verdana" font-size="15" fill="white" text-align="justify" >✕</text></a>
+    <text x="10" y="40" width="200" height="100" font-family="Verdana" font-size="12" fill="black" text-align="justify" >空席：43/68　now-4:15pm</text>
+    <a xlink:href="rooms/Q.html"><text x="140" y="65" width="200" height="100" font-family="Verdana" font-size="12" fill="blue" text-align="justify" >&gt;&gt;詳細</text></a>
+  </g>
+
+  <g id="roomU" transform="translate(0,270)">
+    <rect x="4" y="4" width="200" height="80" fill="black" opacity="0.3" rx="5" ry="5" stroke="black" stroke-width="2"/>
+    <rect x="0" y="0" width="200" height="80" fill="url(#box)" opacity="1" rx="5" ry="5" stroke="url(#frame)" stroke-width="2"/>
+    <a xlink:href="rooms/U.html"><text x="5" y="15" width="200" height="100" font-family="Verdana" font-size="15" fill="white" text-align="justify" >中央図書館1Fメディアブース</text></a>
+    <a onclick="hide_id('U')"><text x="180" y="15" width="200" height="100" font-family="Verdana" font-size="15" fill="white" text-align="justify" >✕</text></a>
+    <text x="10" y="40" width="200" height="100" font-family="Verdana" font-size="12" fill="black" text-align="justify" >空席：43/68　now-4:15pm</text>
+    <a xlink:href="rooms/U.html"><text x="140" y="65" width="200" height="100" font-family="Verdana" font-size="12" fill="blue" text-align="justify" >&gt;&gt;詳細</text></a>
+  </g>
+
+  <g id="roomW" transform="translate(0,360)">
+    <rect x="4" y="4" width="200" height="80" fill="black" opacity="0.3" rx="5" ry="5" stroke="black" stroke-width="2"/>
+    <rect x="0" y="0" width="200" height="80" fill="url(#box)" opacity="1" rx="5" ry="5" stroke="url(#frame)" stroke-width="2"/>
+    <a xlink:href="rooms/W.html"><text x="5" y="15" width="200" height="100" font-family="Verdana" font-size="15" fill="white" text-align="justify" >中央図書館2F,3Fワーキングスタジオ</text></a>
+    <a onclick="hide_id('W')"><text x="180" y="15" width="200" height="100" font-family="Verdana" font-size="15" fill="white" text-align="justify" >✕</text></a>
+    <text x="10" y="40" width="200" height="100" font-family="Verdana" font-size="12" fill="black" text-align="justify" >空席：43/68　now-4:15pm</text>
+    <a xlink:href="rooms/W.html"><text x="140" y="65" width="200" height="100" font-family="Verdana" font-size="12" fill="blue" text-align="justify" >&gt;&gt;詳細</text></a>
+  </g>
+</g>
+
+<g id="roomG" transform="translate(0,80)" style="display:none">
+  <rect x="4" y="4" width="200" height="80" fill="black" opacity="0.3" rx="5" ry="5" stroke="black" stroke-width="2"/>
+  <rect x="0" y="0" width="200" height="80" fill="url(#box)" opacity="1" rx="5" ry="5" stroke="url(#frame)" stroke-width="2"/>
+  <a xlink:href="rooms/G.html"><text x="5" y="15" width="200" height="100" font-family="Verdana" font-size="15" fill="white" text-align="justify" >経済学部新研究棟301</text></a>
+  <a onclick="hide_id('G')"><text x="180" y="15" width="200" height="100" font-family="Verdana" font-size="15" fill="white" text-align="justify" >✕</text></a>
+  <text x="10" y="40" width="200" height="100" font-family="Verdana" font-size="12" fill="black" text-align="justify" >空席：54/68　now-2:30pm</text>
+  <a xlink:href="rooms/G.html"><text x="140" y="65" width="200" height="100" font-family="Verdana" font-size="12" fill="blue" text-align="justify" >&gt;&gt;詳細</text></a>
+</g>
+
+<g id="roomN" transform="translate(0,80)" style="display:none">
+  <rect x="4" y="4" width="200" height="80" fill="black" opacity="0.3" rx="5" ry="5" stroke="black" stroke-width="2"/>
+  <rect x="0" y="0" width="200" height="80" fill="url(#box)" opacity="1" rx="5" ry="5" stroke="url(#frame)" stroke-width="2"/>
+  <a xlink:href="rooms/N.html"><text x="5" y="15" width="200" height="100" font-family="Verdana" font-size="15" fill="white" text-align="justify" >生産工学科1号棟305</text></a>
+  <a onclick="hide_id('N')"><text x="180" y="15" width="200" height="100" font-family="Verdana" font-size="15" fill="white" text-align="justify" >✕</text></a>
+  <text x="10" y="40" width="200" height="100" font-family="Verdana" font-size="12" fill="black" text-align="justify" >空席：54/68　now-2:30pm</text>
+  <a xlink:href="rooms/N.html"><text x="140" y="65" width="200" height="100" font-family="Verdana" font-size="12" fill="blue" text-align="justify" >&gt;&gt;詳細</text></a>
+</g>
+
+<g id="roomT" transform="translate(0,80)" style="display:none">
+  <rect x="4" y="4" width="200" height="80" fill="black" opacity="0.3" rx="5" ry="5" stroke="black" stroke-width="2"/>
+  <rect x="0" y="0" width="200" height="80" fill="url(#box)" opacity="1" rx="5" ry="5" stroke="url(#frame)" stroke-width="2"/>
+  <a xlink:href="rooms/T.html"><text x="5" y="15" width="200" height="100" font-family="Verdana" font-size="15" fill="white" text-align="justify" >留学生センター2Fロビー</text></a>
+  <a onclick="hide_id('T')"><text x="180" y="15" width="200" height="100" font-family="Verdana" font-size="15" fill="white" text-align="justify" >✕</text></a>
+  <text x="10" y="40" width="200" height="100" font-family="Verdana" font-size="12" fill="black" text-align="justify" >空席：54/68　now-2:30pm</text>
+  <a xlink:href="rooms/T.html"><text x="140" y="65" width="200" height="100" font-family="Verdana" font-size="12" fill="blue" text-align="justify" >&gt;&gt;詳細</text></a>
+</g>
+
+<g id="roomJ" transform="translate(0,80)" style="display:none">
+  <rect x="4" y="4" width="200" height="80" fill="black" opacity="0.3" rx="5" ry="5" stroke="black" stroke-width="2"/>
+  <rect x="0" y="0" width="200" height="80" fill="url(#box)" opacity="1" rx="5" ry="5" stroke="url(#frame)" stroke-width="2"/>
+  <a xlink:href="rooms/J.html"><text x="5" y="15" width="200" height="100" font-family="Verdana" font-size="15" fill="white" text-align="justify" >教育デザインセンター1F</text></a>
+  <a onclick="hide_id('J')"><text x="180" y="15" width="200" height="100" font-family="Verdana" font-size="15" fill="white" text-align="justify" >✕</text></a>
+  <text x="10" y="40" width="200" height="100" font-family="Verdana" font-size="12" fill="black" text-align="justify" >空席：54/68　now-2:30pm</text>
+  <a xlink:href="rooms/J.html"><text x="140" y="65" width="200" height="100" font-family="Verdana" font-size="12" fill="blue" text-align="justify" >&gt;&gt;詳細</text></a>
+</g>
+
+<g id="roomR" transform="translate(0,80)" style="display:none">
+  <rect x="4" y="4" width="200" height="80" fill="black" opacity="0.3" rx="5" ry="5" stroke="black" stroke-width="2"/>
+  <rect x="0" y="0" width="200" height="80" fill="url(#box)" opacity="1" rx="5" ry="5" stroke="url(#frame)" stroke-width="2"/>
+  <a xlink:href="rooms/R.html"><text x="5" y="15" width="200" height="100" font-family="Verdana" font-size="15" fill="white" text-align="justify" >理工学系図書館1F</text></a>
+  <a onclick="hide_id('R')"><text x="180" y="15" width="200" height="100" font-family="Verdana" font-size="15" fill="white" text-align="justify" >✕</text></a>
+  <text x="10" y="40" width="200" height="100" font-family="Verdana" font-size="12" fill="black" text-align="justify" >空席：54/68　now-2:30pm</text>
+  <a xlink:href="rooms/R.html"><text x="140" y="65" width="200" height="100" font-family="Verdana" font-size="12" fill="blue" text-align="justify" >&gt;&gt;詳細</text></a>
+</g>
+
+<g id="roomI" transform="translate(0,80)" style="display:none">
+  <rect x="4" y="4" width="200" height="80" fill="black" opacity="0.3" rx="5" ry="5" stroke="black" stroke-width="2"/>
+  <rect x="0" y="0" width="200" height="80" fill="url(#box)" opacity="1" rx="5" ry="5" stroke="url(#frame)" stroke-width="2"/>
+  <a xlink:href="rooms/I.html"><text x="5" y="15" width="200" height="100" font-family="Verdana" font-size="15" fill="white" text-align="justify" >教育人間科学部第2研究棟520</text></a>
+  <a onclick="hide_id('I')"><text x="180" y="15" width="200" height="100" font-family="Verdana" font-size="15" fill="white" text-align="justify" >✕</text></a>
+  <text x="10" y="40" width="200" height="100" font-family="Verdana" font-size="12" fill="black" text-align="justify" >空席：54/68　now-2:30pm</text>
+  <a xlink:href="rooms/I.html"><text x="140" y="65" width="200" height="100" font-family="Verdana" font-size="12" fill="blue" text-align="justify" >&gt;&gt;詳細</text></a>
+</g>
+
+<g id="roomO" transform="translate(200,80)" style="display:none">
+  <rect x="4" y="4" width="200" height="80" fill="black" opacity="0.3" rx="5" ry="5" stroke="black" stroke-width="2"/>
+  <rect x="0" y="0" width="200" height="80" fill="url(#box)" opacity="1" rx="5" ry="5" stroke="url(#frame)" stroke-width="2"/>
+  <a xlink:href="rooms/O.html"><text x="5" y="15" width="200" height="100" font-family="Verdana" font-size="15" fill="white" text-align="justify" >総合研究等棟W204</text></a>
+  <a onclick="hide_id('O')"><text x="180" y="15" width="200" height="100" font-family="Verdana" font-size="15" fill="white" text-align="justify" >✕</text></a>
+  <text x="10" y="40" width="200" height="100" font-family="Verdana" font-size="12" fill="black" text-align="justify" >空席：54/68　now-2:30pm</text>
+  <a xlink:href="rooms/O.html"><text x="140" y="65" width="200" height="100" font-family="Verdana" font-size="12" fill="blue" text-align="justify" >&gt;&gt;詳細</text></a>
+</g>
+
+<g id="roomH" transform="translate(0,80)" style="display:none">
+  <rect x="4" y="4" width="200" height="80" fill="black" opacity="0.3" rx="5" ry="5" stroke="black" stroke-width="2"/>
+  <rect x="0" y="0" width="200" height="80" fill="url(#box)" opacity="1" rx="5" ry="5" stroke="url(#frame)" stroke-width="2"/>
+  <a xlink:href="rooms/H.html"><text x="5" y="15" width="200" height="100" font-family="Verdana" font-size="15" fill="white" text-align="justify" >経営学部1号館303</text></a>
+  <a onclick="hide_id('H')"><text x="180" y="15" width="200" height="100" font-family="Verdana" font-size="15" fill="white" text-align="justify" >✕</text></a>
+  <text x="10" y="40" width="200" height="100" font-family="Verdana" font-size="12" fill="black" text-align="justify" >空席：54/68　now-2:30pm</text>
+  <a xlink:href="rooms/H.html"><text x="140" y="65" width="200" height="100" font-family="Verdana" font-size="12" fill="blue" text-align="justify" >&gt;&gt;詳細</text></a>
+</g>
+<script xlink:href="map_script.js"></script>
+</svg>
