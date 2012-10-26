@@ -56,7 +56,7 @@ function get_content(id, data, locale) {
       }
       period = ".";
       if ((opening_time == "") || (closing_time == "")) {
-	    content = "Closed " + pronoun.toLowerCase() + period;
+        content = "Closed " + pronoun.toLowerCase() + period;
       } else {
         content = closed_mode_content(pronoun, "'s opening hours are ", opening_time, closing_time, period);
       }
