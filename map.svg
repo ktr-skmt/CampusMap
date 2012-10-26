@@ -134,66 +134,66 @@
   <g id="roomA" transform="translate(0,0)">
     <rect x="4" y="4" width="200" height="80" fill="black" opacity="0.3" rx="5" ry="5" stroke="black" stroke-width="2"/>
     <rect x="0" y="0" width="200" height="80" fill="url(#box)" opacity="1" rx="5" ry="5" stroke="url(#frame)" stroke-width="2"/>
-    <a xlink:href="rooms/A.html"><text x="5" y="15" width="200" height="100" font-family="Verdana" font-size="15" fill="white" text-align="justify" id="A_room_name">PC教室A</text></a>
+    <a xlink:href="A.svg"><text x="5" y="15" width="200" height="100" font-family="Verdana" font-size="15" fill="white" text-align="justify" id="A_room_name">PC教室A</text></a>
     <a onclick="hide_id('A')"><text x="180" y="15" width="200" height="100" font-family="Verdana" font-size="15" fill="white" text-align="justify" >✕</text></a>
     <text x="10" y="40" width="200" height="100" font-family="Verdana" font-size="12" fill="black" text-align="justify" id="A_content"/>
-    <a xlink:href="rooms/A.html"><text x="140" y="65" width="200" height="100" font-family="Verdana" font-size="12" fill="blue" text-align="justify" id="A_more"/></a>
+    <a xlink:href="A.svg"><text x="140" y="65" width="200" height="100" font-family="Verdana" font-size="12" fill="blue" text-align="justify" id="A_more"/></a>
   </g>
 
   <g id="roomB" transform="translate(0,90)">
     <rect x="4" y="4" width="200" height="80" fill="black" opacity="0.3" rx="5" ry="5" stroke="black" stroke-width="2"/>
     <rect x="0" y="0" width="200" height="80" fill="url(#box)" opacity="1" rx="5" ry="5" stroke="url(#frame)" stroke-width="2"/>
-    <a xlink:href="rooms/B.html"><text x="5" y="15" width="200" height="100" font-family="Verdana" font-size="15" fill="white" text-align="justify" id="B_room_name">PC教室B</text></a>
+    <a xlink:href="B.svg"><text x="5" y="15" width="200" height="100" font-family="Verdana" font-size="15" fill="white" text-align="justify" id="B_room_name">PC教室B</text></a>
     <a onclick="hide_id('B')"><text x="180" y="15" width="200" height="100" font-family="Verdana" font-size="15" fill="white" text-align="justify" >✕</text></a>
     <text x="10" y="40" width="200" height="100" font-family="Verdana" font-size="12" fill="black" text-align="justify" id="B_content"/>
-    <a xlink:href="rooms/B.html"><text x="140" y="65" width="200" height="100" font-family="Verdana" font-size="12" fill="blue" text-align="justify" id="B_more"/></a>
+    <a xlink:href="B.svg"><text x="140" y="65" width="200" height="100" font-family="Verdana" font-size="12" fill="blue" text-align="justify" id="B_more"/></a>
   </g>
 </g>
 
 <g id="roomE" transform="translate(0,80)" style="display:none">
   <rect x="4" y="4" width="200" height="80" fill="black" opacity="0.3" rx="5" ry="5" stroke="black" stroke-width="2"/>
   <rect x="0" y="0" width="200" height="80" fill="url(#box)" opacity="1" rx="5" ry="5" stroke="url(#frame)" stroke-width="2"/>
-  <a xlink:href="rooms/E.html"><text x="5" y="15" width="200" height="100" font-family="Verdana" font-size="15" fill="white" text-align="justify" id="E_room_name">PC教室E</text></a>
+  <a xlink:href="E.svg"><text x="5" y="15" width="200" height="100" font-family="Verdana" font-size="15" fill="white" text-align="justify" id="E_room_name">PC教室E</text></a>
   <a onclick="hide_id('E')"><text x="180" y="15" width="200" height="100" font-family="Verdana" font-size="15" fill="white" text-align="justify" >✕</text></a>
   <text x="10" y="40" width="200" height="100" font-family="Verdana" font-size="12" fill="black" text-align="justify" id="E_content"/>
-  <a xlink:href="rooms/E.html"><text x="140" y="65" width="200" height="100" font-family="Verdana" font-size="12" fill="blue" text-align="justify" id="E_more"/></a>
+  <a xlink:href="E.svg"><text x="140" y="65" width="200" height="100" font-family="Verdana" font-size="12" fill="blue" text-align="justify" id="E_more"/></a>
 </g>
 
 <g id="roomCD" transform="translate(0,80)" style="display:none">
   <rect x="4" y="4" width="200" height="80" fill="black" opacity="0.3" rx="5" ry="5" stroke="black" stroke-width="2"/>
   <rect x="0" y="0" width="200" height="80" fill="url(#box)" opacity="1" rx="5" ry="5" stroke="url(#frame)" stroke-width="2"/>
-  <a xlink:href="rooms/CD.html"><text x="5" y="15" width="200" height="100" font-family="Verdana" font-size="15" fill="white" text-align="justify" id="CD_room_name">PC教室CD</text></a>
+  <a xlink:href="CD.svg"><text x="5" y="15" width="200" height="100" font-family="Verdana" font-size="15" fill="white" text-align="justify" id="CD_room_name">PC教室CD</text></a>
   <a onclick="hide_id('CD')"><text x="180" y="15" width="200" height="100" font-family="Verdana" font-size="15" fill="white" text-align="justify" >✕</text></a>
   <text x="10" y="40" width="200" height="100" font-family="Verdana" font-size="12" fill="black" text-align="justify" id="CD_content"/>
-  <a xlink:href="rooms/CD.html"><text x="140" y="65" width="200" height="100" font-family="Verdana" font-size="12" fill="blue" text-align="justify" id="CD_more"/></a>
+  <a xlink:href="CD.svg"><text x="140" y="65" width="200" height="100" font-family="Verdana" font-size="12" fill="blue" text-align="justify" id="CD_more"/></a>
 </g>
 
 <g id="roomKLM" transform="translate(0,40)" style="display:none">
   <g id="roomK" transform="translate(0,0)">
     <rect x="4" y="4" width="200" height="80" fill="black" opacity="0.3" rx="5" ry="5" stroke="black" stroke-width="2"/>
     <rect x="0" y="0" width="200" height="80" fill="url(#box)" opacity="1" rx="5" ry="5" stroke="url(#frame)" stroke-width="2"/>
-    <a xlink:href="rooms/K.html"><text x="5" y="15" width="200" height="100" font-family="Verdana" font-size="15" fill="white" text-align="justify" id="K_room_name">電子情報計算機棟1F端末室</text></a>
+    <a xlink:href="K.svg"><text x="5" y="15" width="200" height="100" font-family="Verdana" font-size="15" fill="white" text-align="justify" id="K_room_name">電子情報計算機棟1F端末室</text></a>
     <a onclick="hide_id('K')"><text x="180" y="15" width="200" height="100" font-family="Verdana" font-size="15" fill="white" text-align="justify" >✕</text></a>
     <text x="10" y="40" width="200" height="100" font-family="Verdana" font-size="12" fill="black" text-align="justify" id="K_content"/>
-    <a xlink:href="rooms/K.html"><text x="140" y="65" width="200" height="100" font-family="Verdana" font-size="12" fill="blue" text-align="justify" id="K_more"/></a>
+    <a xlink:href="K.svg"><text x="140" y="65" width="200" height="100" font-family="Verdana" font-size="12" fill="blue" text-align="justify" id="K_more"/></a>
   </g>
 
   <g id="roomL" transform="translate(0,90)">
     <rect x="4" y="4" width="200" height="80" fill="black" opacity="0.3" rx="5" ry="5" stroke="black" stroke-width="2"/>
     <rect x="0" y="0" width="200" height="80" fill="url(#box)" opacity="1" rx="5" ry="5" stroke="url(#frame)" stroke-width="2"/>
-    <a xlink:href="rooms/L.html"><text x="5" y="15" width="200" height="100" font-family="Verdana" font-size="15" fill="white" text-align="justify" id="L_room_name">電子情報計算機棟3F端末室-1</text></a>
+    <a xlink:href="L.svg"><text x="5" y="15" width="200" height="100" font-family="Verdana" font-size="15" fill="white" text-align="justify" id="L_room_name">電子情報計算機棟3F端末室-1</text></a>
     <a onclick="hide_id('L')"><text x="180" y="15" width="200" height="100" font-family="Verdana" font-size="15" fill="white" text-align="justify" >✕</text></a>
     <text x="10" y="40" width="200" height="100" font-family="Verdana" font-size="12" fill="black" text-align="justify" id="L_content"/>
-    <a xlink:href="rooms/L.html"><text x="140" y="65" width="200" height="100" font-family="Verdana" font-size="12" fill="blue" text-align="justify" id="L_more"/></a>
+    <a xlink:href="L.svg"><text x="140" y="65" width="200" height="100" font-family="Verdana" font-size="12" fill="blue" text-align="justify" id="L_more"/></a>
   </g>
 
   <g id="roomM" transform="translate(0,180)">
     <rect x="4" y="4" width="200" height="80" fill="black" opacity="0.3" rx="5" ry="5" stroke="black" stroke-width="2"/>
     <rect x="0" y="0" width="200" height="80" fill="url(#box)" opacity="1" rx="5" ry="5" stroke="url(#frame)" stroke-width="2"/>
-    <a xlink:href="rooms/M.html"><text x="5" y="15" width="200" height="100" font-family="Verdana" font-size="15" fill="white" text-align="justify" id="M_room_name">電子情報計算機棟3F端末室-2</text></a>
+    <a xlink:href="M.svg"><text x="5" y="15" width="200" height="100" font-family="Verdana" font-size="15" fill="white" text-align="justify" id="M_room_name">電子情報計算機棟3F端末室-2</text></a>
     <a onclick="hide_id('M')"><text x="180" y="15" width="200" height="100" font-family="Verdana" font-size="15" fill="white" text-align="justify" >✕</text></a>
     <text x="10" y="40" width="200" height="100" font-family="Verdana" font-size="12" fill="black" text-align="justify" id="M_content"/>
-    <a xlink:href="rooms/M.html"><text x="140" y="65" width="200" height="100" font-family="Verdana" font-size="12" fill="blue" text-align="justify" id="M_more"/></a>
+    <a xlink:href="M.svg"><text x="140" y="65" width="200" height="100" font-family="Verdana" font-size="12" fill="blue" text-align="justify" id="M_more"/></a>
   </g>
 </g>
 
@@ -202,127 +202,127 @@
   <g id="roomF" transform="translate(0,0)">
     <rect x="4" y="4" width="200" height="80" fill="black" opacity="0.3" rx="5" ry="5" stroke="black" stroke-width="2"/>
     <rect x="0" y="0" width="200" height="80" fill="url(#box)" opacity="1" rx="5" ry="5" stroke="url(#frame)" stroke-width="2"/>
-    <a xlink:href="rooms/F.html"><text x="5" y="15" width="200" height="100" font-family="Verdana" font-size="15" fill="white" text-align="justify" id="F_room_name">PC教室F</text></a>
+    <a xlink:href="F.svg"><text x="5" y="15" width="200" height="100" font-family="Verdana" font-size="15" fill="white" text-align="justify" id="F_room_name">PC教室F</text></a>
     <a onclick="hide_id('F')"><text x="180" y="15" width="200" height="100" font-family="Verdana" font-size="15" fill="white" text-align="justify" >✕</text></a>
     <text x="10" y="40" width="200" height="100" font-family="Verdana" font-size="12" fill="black" text-align="justify" id="F_content"/>
-    <a xlink:href="rooms/F.html"><text x="140" y="65" width="200" height="100" font-family="Verdana" font-size="12" fill="blue" text-align="justify" id="F_more"/></a>
+    <a xlink:href="F.svg"><text x="140" y="65" width="200" height="100" font-family="Verdana" font-size="12" fill="blue" text-align="justify" id="F_more"/></a>
   </g>
 
   <g id="roomP-1" transform="translate(0,90)">
     <rect x="4" y="4" width="200" height="80" fill="black" opacity="0.3" rx="5" ry="5" stroke="black" stroke-width="2"/>
     <rect x="0" y="0" width="200" height="80" fill="url(#box)" opacity="1" rx="5" ry="5" stroke="url(#frame)" stroke-width="2"/>
-    <a xlink:href="rooms/P-1.html"><text x="5" y="15" width="200" height="100" font-family="Verdana" font-size="15" fill="white" text-align="justify" id="P-1_room_name">中央図書館2F PCプラザ</text></a>
+    <a xlink:href="P-1.svg"><text x="5" y="15" width="200" height="100" font-family="Verdana" font-size="15" fill="white" text-align="justify" id="P-1_room_name">中央図書館2F PCプラザ</text></a>
     <a onclick="hide_id('P-1')"><text x="180" y="15" width="200" height="100" font-family="Verdana" font-size="15" fill="white" text-align="justify" >✕</text></a>
     <text x="10" y="40" width="200" height="100" font-family="Verdana" font-size="12" fill="black" text-align="justify" id="P-1_content"/>
-    <a xlink:href="rooms/P-1.html"><text x="140" y="65" width="200" height="100" font-family="Verdana" font-size="12" fill="blue" text-align="justify" id="P-1_more"/></a>
+    <a xlink:href="P-1.svg"><text x="140" y="65" width="200" height="100" font-family="Verdana" font-size="12" fill="blue" text-align="justify" id="P-1_more"/></a>
   </g>
   <g id="roomP-2" transform="translate(0,180)">
     <rect x="4" y="4" width="200" height="80" fill="black" opacity="0.3" rx="5" ry="5" stroke="black" stroke-width="2"/>
     <rect x="0" y="0" width="200" height="80" fill="url(#box)" opacity="1" rx="5" ry="5" stroke="url(#frame)" stroke-width="2"/>
-    <a xlink:href="rooms/P-2.html"><text x="5" y="15" width="200" height="100" font-family="Verdana" font-size="15" fill="white" text-align="justify" id="P-2_room_name">中央図書館2F リフレッシュルーム</text></a>
+    <a xlink:href="P-2.svg"><text x="5" y="15" width="200" height="100" font-family="Verdana" font-size="15" fill="white" text-align="justify" id="P-2_room_name">中央図書館2F リフレッシュルーム</text></a>
     <a onclick="hide_id('P-2')"><text x="180" y="15" width="200" height="100" font-family="Verdana" font-size="15" fill="white" text-align="justify" >✕</text></a>
     <text x="10" y="40" width="200" height="100" font-family="Verdana" font-size="12" fill="black" text-align="justify" id="P-2_content"/>
-    <a xlink:href="rooms/P-2.html"><text x="140" y="65" width="200" height="100" font-family="Verdana" font-size="12" fill="blue" text-align="justify" id="P-2_more"/></a>
+    <a xlink:href="P-2.svg"><text x="140" y="65" width="200" height="100" font-family="Verdana" font-size="12" fill="blue" text-align="justify" id="P-2_more"/></a>
   </g>
 
   <g id="roomQ" transform="translate(0,270)">
     <rect x="4" y="4" width="200" height="80" fill="black" opacity="0.3" rx="5" ry="5" stroke="black" stroke-width="2"/>
     <rect x="0" y="0" width="200" height="80" fill="url(#box)" opacity="1" rx="5" ry="5" stroke="url(#frame)" stroke-width="2"/>
-    <a xlink:href="rooms/Q.html"><text x="5" y="15" width="200" height="100" font-family="Verdana" font-size="15" fill="white" text-align="justify" id="Q_room_name">中央図書館3F PCプラザ</text></a>
+    <a xlink:href="Q.svg"><text x="5" y="15" width="200" height="100" font-family="Verdana" font-size="15" fill="white" text-align="justify" id="Q_room_name">中央図書館3F PCプラザ</text></a>
     <a onclick="hide_id('Q')"><text x="180" y="15" width="200" height="100" font-family="Verdana" font-size="15" fill="white" text-align="justify" >✕</text></a>
     <text x="10" y="40" width="200" height="100" font-family="Verdana" font-size="12" fill="black" text-align="justify" id="Q_content"/>
-    <a xlink:href="rooms/Q.html"><text x="140" y="65" width="200" height="100" font-family="Verdana" font-size="12" fill="blue" text-align="justify" id="Q_more"/></a>
+    <a xlink:href="Q.svg"><text x="140" y="65" width="200" height="100" font-family="Verdana" font-size="12" fill="blue" text-align="justify" id="Q_more"/></a>
   </g>
 
   <g id="roomU" transform="translate(0,360)">
     <rect x="4" y="4" width="200" height="80" fill="black" opacity="0.3" rx="5" ry="5" stroke="black" stroke-width="2"/>
     <rect x="0" y="0" width="200" height="80" fill="url(#box)" opacity="1" rx="5" ry="5" stroke="url(#frame)" stroke-width="2"/>
-    <a xlink:href="rooms/U.html"><text x="5" y="15" width="200" height="100" font-family="Verdana" font-size="15" fill="white" text-align="justify" id="U_room_name">中央図書館1Fメディアブース</text></a>
+    <a xlink:href="U.svg"><text x="5" y="15" width="200" height="100" font-family="Verdana" font-size="15" fill="white" text-align="justify" id="U_room_name">中央図書館1Fメディアブース</text></a>
     <a onclick="hide_id('U')"><text x="180" y="15" width="200" height="100" font-family="Verdana" font-size="15" fill="white" text-align="justify" >✕</text></a>
     <text x="10" y="40" width="200" height="100" font-family="Verdana" font-size="12" fill="black" text-align="justify" id="U_content"/>
-    <a xlink:href="rooms/U.html"><text x="140" y="65" width="200" height="100" font-family="Verdana" font-size="12" fill="blue" text-align="justify" id="U_more"/></a>
+    <a xlink:href="U.svg"><text x="140" y="65" width="200" height="100" font-family="Verdana" font-size="12" fill="blue" text-align="justify" id="U_more"/></a>
   </g>
 
   <g id="roomW" transform="translate(0,450)">
     <rect x="4" y="4" width="200" height="80" fill="black" opacity="0.3" rx="5" ry="5" stroke="black" stroke-width="2"/>
     <rect x="0" y="0" width="200" height="80" fill="url(#box)" opacity="1" rx="5" ry="5" stroke="url(#frame)" stroke-width="2"/>
-    <a xlink:href="rooms/W.html"><text x="5" y="15" width="200" height="100" font-family="Verdana" font-size="15" fill="white" text-align="justify" id="W_room_name">中央図書館2F,3Fワーキングスタジオ</text></a>
+    <a xlink:href="W.svg"><text x="5" y="15" width="200" height="100" font-family="Verdana" font-size="15" fill="white" text-align="justify" id="W_room_name">中央図書館2F,3Fワーキングスタジオ</text></a>
     <a onclick="hide_id('W')"><text x="180" y="15" width="200" height="100" font-family="Verdana" font-size="15" fill="white" text-align="justify" >✕</text></a>
     <text x="10" y="40" width="200" height="100" font-family="Verdana" font-size="12" fill="black" text-align="justify" id="W_content"/>
-    <a xlink:href="rooms/W.html"><text x="140" y="65" width="200" height="100" font-family="Verdana" font-size="12" fill="blue" text-align="justify" id="W_more"/></a>
+    <a xlink:href="W.svg"><text x="140" y="65" width="200" height="100" font-family="Verdana" font-size="12" fill="blue" text-align="justify" id="W_more"/></a>
   </g>
 </g>
 
 <g id="roomG" transform="translate(0,80)" style="display:none">
   <rect x="4" y="4" width="200" height="80" fill="black" opacity="0.3" rx="5" ry="5" stroke="black" stroke-width="2"/>
   <rect x="0" y="0" width="200" height="80" fill="url(#box)" opacity="1" rx="5" ry="5" stroke="url(#frame)" stroke-width="2"/>
-  <a xlink:href="rooms/G.html"><text x="5" y="15" width="200" height="100" font-family="Verdana" font-size="15" fill="white" text-align="justify" id="G_room_name">経済学部新研究棟301</text></a>
+  <a xlink:href="G.svg"><text x="5" y="15" width="200" height="100" font-family="Verdana" font-size="15" fill="white" text-align="justify" id="G_room_name">経済学部新研究棟301</text></a>
   <a onclick="hide_id('G')"><text x="180" y="15" width="200" height="100" font-family="Verdana" font-size="15" fill="white" text-align="justify" >✕</text></a>
   <text x="10" y="40" width="200" height="100" font-family="Verdana" font-size="12" fill="black" text-align="justify" id="G_content"/>
-  <a xlink:href="rooms/G.html"><text x="140" y="65" width="200" height="100" font-family="Verdana" font-size="12" fill="blue" text-align="justify" id="G_more"/></a>
+  <a xlink:href="G.svg"><text x="140" y="65" width="200" height="100" font-family="Verdana" font-size="12" fill="blue" text-align="justify" id="G_more"/></a>
 </g>
 
 <g id="roomN" transform="translate(0,80)" style="display:none">
   <rect x="4" y="4" width="200" height="80" fill="black" opacity="0.3" rx="5" ry="5" stroke="black" stroke-width="2"/>
   <rect x="0" y="0" width="200" height="80" fill="url(#box)" opacity="1" rx="5" ry="5" stroke="url(#frame)" stroke-width="2"/>
-  <a xlink:href="rooms/N.html"><text x="5" y="15" width="200" height="100" font-family="Verdana" font-size="15" fill="white" text-align="justify" id="N_room_name">生産工学科1号棟305</text></a>
+  <a xlink:href="N.svg"><text x="5" y="15" width="200" height="100" font-family="Verdana" font-size="15" fill="white" text-align="justify" id="N_room_name">生産工学科1号棟305</text></a>
   <a onclick="hide_id('N')"><text x="180" y="15" width="200" height="100" font-family="Verdana" font-size="15" fill="white" text-align="justify" >✕</text></a>
   <text x="10" y="40" width="200" height="100" font-family="Verdana" font-size="12" fill="black" text-align="justify" id="N_content"/>
-  <a xlink:href="rooms/N.html"><text x="140" y="65" width="200" height="100" font-family="Verdana" font-size="12" fill="blue" text-align="justify" id="N_more"/></a>
+  <a xlink:href="N.svg"><text x="140" y="65" width="200" height="100" font-family="Verdana" font-size="12" fill="blue" text-align="justify" id="N_more"/></a>
 </g>
 
 <g id="roomT" transform="translate(0,80)" style="display:none">
   <rect x="4" y="4" width="200" height="80" fill="black" opacity="0.3" rx="5" ry="5" stroke="black" stroke-width="2"/>
   <rect x="0" y="0" width="200" height="80" fill="url(#box)" opacity="1" rx="5" ry="5" stroke="url(#frame)" stroke-width="2"/>
-  <a xlink:href="rooms/T.html"><text x="5" y="15" width="200" height="100" font-family="Verdana" font-size="15" fill="white" text-align="justify" id="T_room_name">留学生センター2Fロビー</text></a>
+  <a xlink:href="T.svg"><text x="5" y="15" width="200" height="100" font-family="Verdana" font-size="15" fill="white" text-align="justify" id="T_room_name">留学生センター2Fロビー</text></a>
   <a onclick="hide_id('T')"><text x="180" y="15" width="200" height="100" font-family="Verdana" font-size="15" fill="white" text-align="justify" >✕</text></a>
   <text x="10" y="40" width="200" height="100" font-family="Verdana" font-size="12" fill="black" text-align="justify" id="T_content"/>
-  <a xlink:href="rooms/T.html"><text x="140" y="65" width="200" height="100" font-family="Verdana" font-size="12" fill="blue" text-align="justify" id="T_more"/></a>
+  <a xlink:href="T.svg"><text x="140" y="65" width="200" height="100" font-family="Verdana" font-size="12" fill="blue" text-align="justify" id="T_more"/></a>
 </g>
 
 <g id="roomJ" transform="translate(0,80)" style="display:none">
   <rect x="4" y="4" width="200" height="80" fill="black" opacity="0.3" rx="5" ry="5" stroke="black" stroke-width="2"/>
   <rect x="0" y="0" width="200" height="80" fill="url(#box)" opacity="1" rx="5" ry="5" stroke="url(#frame)" stroke-width="2"/>
-  <a xlink:href="rooms/J.html"><text x="5" y="15" width="200" height="100" font-family="Verdana" font-size="15" fill="white" text-align="justify" id="J_room_name">教育デザインセンター1F</text></a>
+  <a xlink:href="J.svg"><text x="5" y="15" width="200" height="100" font-family="Verdana" font-size="15" fill="white" text-align="justify" id="J_room_name">教育デザインセンター1F</text></a>
   <a onclick="hide_id('J')"><text x="180" y="15" width="200" height="100" font-family="Verdana" font-size="15" fill="white" text-align="justify" >✕</text></a>
   <text x="10" y="40" width="200" height="100" font-family="Verdana" font-size="12" fill="black" text-align="justify" id="J_content"/>
-  <a xlink:href="rooms/J.html"><text x="140" y="65" width="200" height="100" font-family="Verdana" font-size="12" fill="blue" text-align="justify" id="J_more"/></a>
+  <a xlink:href="J.svg"><text x="140" y="65" width="200" height="100" font-family="Verdana" font-size="12" fill="blue" text-align="justify" id="J_more"/></a>
 </g>
 
 <g id="roomR" transform="translate(0,80)" style="display:none">
   <rect x="4" y="4" width="200" height="80" fill="black" opacity="0.3" rx="5" ry="5" stroke="black" stroke-width="2"/>
   <rect x="0" y="0" width="200" height="80" fill="url(#box)" opacity="1" rx="5" ry="5" stroke="url(#frame)" stroke-width="2"/>
-  <a xlink:href="rooms/R.html"><text x="5" y="15" width="200" height="100" font-family="Verdana" font-size="15" fill="white" text-align="justify" id="R_room_name">理工学系図書館1F</text></a>
+  <a xlink:href="R.svg"><text x="5" y="15" width="200" height="100" font-family="Verdana" font-size="15" fill="white" text-align="justify" id="R_room_name">理工学系図書館1F</text></a>
   <a onclick="hide_id('R')"><text x="180" y="15" width="200" height="100" font-family="Verdana" font-size="15" fill="white" text-align="justify" >✕</text></a>
   <text x="10" y="40" width="200" height="100" font-family="Verdana" font-size="12" fill="black" text-align="justify" id="R_content"/>
-  <a xlink:href="rooms/R.html"><text x="140" y="65" width="200" height="100" font-family="Verdana" font-size="12" fill="blue" text-align="justify" id="R_more"/></a>
+  <a xlink:href="R.svg"><text x="140" y="65" width="200" height="100" font-family="Verdana" font-size="12" fill="blue" text-align="justify" id="R_more"/></a>
 </g>
 
 <g id="roomI" transform="translate(0,80)" style="display:none">
   <rect x="4" y="4" width="200" height="80" fill="black" opacity="0.3" rx="5" ry="5" stroke="black" stroke-width="2"/>
   <rect x="0" y="0" width="200" height="80" fill="url(#box)" opacity="1" rx="5" ry="5" stroke="url(#frame)" stroke-width="2"/>
-  <a xlink:href="rooms/I.html"><text x="5" y="15" width="200" height="100" font-family="Verdana" font-size="15" fill="white" text-align="justify" id="I_room_name">教育人間科学部第2研究棟520</text></a>
+  <a xlink:href="I.svg"><text x="5" y="15" width="200" height="100" font-family="Verdana" font-size="15" fill="white" text-align="justify" id="I_room_name">教育人間科学部第2研究棟520</text></a>
   <a onclick="hide_id('I')"><text x="180" y="15" width="200" height="100" font-family="Verdana" font-size="15" fill="white" text-align="justify" >✕</text></a>
   <text x="10" y="40" width="200" height="100" font-family="Verdana" font-size="12" fill="black" text-align="justify" id="I_content"/>
-  <a xlink:href="rooms/I.html"><text x="140" y="65" width="200" height="100" font-family="Verdana" font-size="12" fill="blue" text-align="justify" id="I_more"/></a>
+  <a xlink:href="I.svg"><text x="140" y="65" width="200" height="100" font-family="Verdana" font-size="12" fill="blue" text-align="justify" id="I_more"/></a>
 </g>
 
 <g id="roomO" transform="translate(200,80)" style="display:none">
   <rect x="4" y="4" width="200" height="80" fill="black" opacity="0.3" rx="5" ry="5" stroke="black" stroke-width="2"/>
   <rect x="0" y="0" width="200" height="80" fill="url(#box)" opacity="1" rx="5" ry="5" stroke="url(#frame)" stroke-width="2"/>
-  <a xlink:href="rooms/O.html"><text x="5" y="15" width="200" height="100" font-family="Verdana" font-size="15" fill="white" text-align="justify" id="O_room_name">総合研究等棟W204</text></a>
+  <a xlink:href="O.svg"><text x="5" y="15" width="200" height="100" font-family="Verdana" font-size="15" fill="white" text-align="justify" id="O_room_name">総合研究等棟W204</text></a>
   <a onclick="hide_id('O')"><text x="180" y="15" width="200" height="100" font-family="Verdana" font-size="15" fill="white" text-align="justify" >✕</text></a>
   <text x="10" y="40" width="200" height="100" font-family="Verdana" font-size="12" fill="black" text-align="justify" id="O_content"/>
-  <a xlink:href="rooms/O.html"><text x="140" y="65" width="200" height="100" font-family="Verdana" font-size="12" fill="blue" text-align="justify" id="O_more"/></a>
+  <a xlink:href="O.svg"><text x="140" y="65" width="200" height="100" font-family="Verdana" font-size="12" fill="blue" text-align="justify" id="O_more"/></a>
 </g>
 
 <g id="roomH" transform="translate(0,80)" style="display:none">
   <rect x="4" y="4" width="200" height="80" fill="black" opacity="0.3" rx="5" ry="5" stroke="black" stroke-width="2"/>
   <rect x="0" y="0" width="200" height="80" fill="url(#box)" opacity="1" rx="5" ry="5" stroke="url(#frame)" stroke-width="2"/>
-  <a xlink:href="rooms/H.html"><text x="5" y="15" width="200" height="100" font-family="Verdana" font-size="15" fill="white" text-align="justify" id="H_room_name">経営学部1号館303</text></a>
+  <a xlink:href="H.svg"><text x="5" y="15" width="200" height="100" font-family="Verdana" font-size="15" fill="white" text-align="justify" id="H_room_name">経営学部1号館303</text></a>
   <a onclick="hide_id('H')"><text x="180" y="15" width="200" height="100" font-family="Verdana" font-size="15" fill="white" text-align="justify" >✕</text></a>
   <text x="10" y="40" width="200" height="100" font-family="Verdana" font-size="12" fill="black" text-align="justify" id="H_content"/>
-  <a xlink:href="rooms/H.html"><text x="140" y="65" width="200" height="100" font-family="Verdana" font-size="12" fill="blue" text-align="justify" id="H_more"/></a>
+  <a xlink:href="H.svg"><text x="140" y="65" width="200" height="100" font-family="Verdana" font-size="12" fill="blue" text-align="justify" id="H_more"/></a>
 </g>
 <script xlink:href="http://ajax.googleapis.com/ajax/libs/jquery/1.7.2/jquery.min.js"/>
 <script xlink:href="innersvg.js"/>
