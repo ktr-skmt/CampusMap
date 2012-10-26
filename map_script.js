@@ -83,8 +83,11 @@ function get_content(id, data, locale) {
   return content;
 }
 jQuery.getJSON(base_url + 'map=default', function (data) {
-  var locale = 'ja', room_name = 'room_name';
-  if (locale == 'en') room_name = 'english_room_name';
+  var locale = 'ja', room_name = 'room_name', more = '&gt;&gt;';
+  if (locale == 'en') {
+    room_name = 'english_room_name';
+    more += "more";
+  } else more += "詳細";
   for (var id in ids) {
     var node = document.getElementById(id + '_room_name');
     if (id == 'CD') {
@@ -104,6 +107,8 @@ jQuery.getJSON(base_url + 'map=default', function (data) {
       content = get_content(id, data, locale);
     }
     node.innerSVG = content;
+    node = document.getElementById(id + '_more');
+    node.innerSVG = more;
   }
 });
 function pretend_room(str) {
