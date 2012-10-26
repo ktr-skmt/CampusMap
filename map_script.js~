@@ -6,7 +6,7 @@ function in_session_mode_content(subject, lecturer, suffix) {
   return subject + "(" + lecturer + ")" + suffix;
 }
 function open_mode_content(prefix, num_of_available_seats, num_of_total_seats, available_still) {
-  return prefix + ":<tspan font-weight=\"bold\" fill=\"red\">" + num_of_available_seats + "</tspan>/" + num_of_total_seats + " now-" + available_still;
+  return prefix + ":<tspan fill=\"red\">" + num_of_available_seats + "</tspan>/" + num_of_total_seats + " now-" + available_still;
 }
 function closed_mode_content(pronoun, opening_hours_are, opening_time, closing_time, period) {
   return pronoun + opening_hours_are + opening_time + "-" + closing_time + period;
