@@ -1,6 +1,6 @@
-var ids = {A:0,B:0,E:1,CD:2,K:3,L:3,M:3,F:4,"P-1":4,"P-2":4,Q:4,U:4,W:4,G:5,N:6,T:7,J:8,R:9,I:10,O:11,H:12};
-var base_url = 'http://pcavil.itsc.ynu.ac.jp/api.php?';
-var seats = new Array();
+var ids = {A:0,B:0,E:1,CD:2,K:3,L:3,M:3,F:4,"P-1":4,"P-2":4,Q:4,U:4,W:4,G:5,N:6,T:7,J:8,R:9,I:10,O:11,H:12},
+    base_url = 'http://pcavil.itsc.ynu.ac.jp/api.php?',
+    seats = new Array();
 jQuery.getJSON(base_url + 'room=all', function (data) {seats = data;});
 function in_session_mode_content(subject, lecturer, suffix) {
   return subject + "(" + lecturer + ")" + suffix;
