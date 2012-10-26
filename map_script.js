@@ -28,7 +28,7 @@ function get_content(id, data, locale) {
       today_opening_time = "today_opening_time",
       today_closing_time = "today_closing_time";
   switch (data[id]["mode"]) {
-  case 'in session':
+  case 'in_session':
     if (locale == 'en') {
       content = in_session_mode_content(data[id][subject], data[id][lecturer], " is in session.");
     } else {
@@ -55,7 +55,11 @@ function get_content(id, data, locale) {
         closing_time = data[id][today_closing_time];
       }
       period = ".";
-      content = closed_mode_content(pronoun, "'s opening hours are ", opening_time, closing_time, period);
+      if ((opening_time == "") || (closing_time == "")) {
+	    content = "Closed " + pronoun.toLowerCase() + period;
+      } else {
+        content = closed_mode_content(pronoun, "'s opening hours are ", opening_time, closing_time, period);
+      }
     } else {
       if (is_afternoon()) {
         pronoun = "明日";
@@ -67,12 +71,8 @@ function get_content(id, data, locale) {
         closing_time = data[id][today_closing_time];
       }
       period = "です。";
-      if (typeof opening_time == "undefined" || typeof closing_time == "undefined") {
-        if (locale == 'en') {
-          content = "Closed " + pronoun.toLowerCase() + period;
-        } else {
-          content = pronoun + "は閉館日" + period;
-        }
+      if ((opening_time == "") || (closing_time == "")) {
+        content = pronoun + "は閉館日" + period;
       } else {
         content = closed_mode_content(pronoun, "の開館時間は", opening_time, closing_time, period);
       }
