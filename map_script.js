@@ -115,23 +115,19 @@ function parse_map (data) {
     more += "more";
   } else more += "詳細";
   for (var id in ids) {
-    var node = document.getElementById(id + '_room_name');
+    var node = document.getElementById(id + '_room_name'), content = "";
     if (id == 'CD') {
       if (locale == 'en') {
         node.innerSVG = "Machine Shop C &amp; D";
       } else {
         node.innerSVG = "ＰＣ教室ＣＤ";
       }
-    } else {
-      node.innerSVG = data[id][room_name];
-    }
-    node = document.getElementById(id + '_content');
-    var content = "";
-    if (id == 'CD') {
       content = get_content('C', data, locale);
     } else {
+      node.innerSVG = data[id][room_name];
       content = get_content(id, data, locale);
     }
+    node = document.getElementById(id + '_content');
     node.innerSVG = content;
     node = document.getElementById(id + '_more');
     node.innerSVG = more;
