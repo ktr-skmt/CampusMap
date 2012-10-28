@@ -5,13 +5,11 @@ var ids = {A:0,B:0,E:1,CD:2,K:3,L:3,M:3,F:4,"P-1":4,"P-2":4,Q:4,U:4,W:4,G:5,N:6,
     url = base_url + 'room=all';
 if (is_msie) {
   var xdr = new XDomainRequest();
-  if (xdr) {
-    xdr.onload = function() {
-      seats = jQuery.parseJSON(xdr.responseText);
-    }
-    xdr.open("get", url, true);
-    xdr.send(null);
+  xdr.onload = function() {
+    seats = jQuery.parseJSON(xdr.responseText);
   }
+  xdr.open("get", url, true);
+  xdr.send(null);
 } else {
   jQuery.getJSON(url, function (data) {seats = data;});
 }
@@ -114,22 +112,18 @@ function set_data2map (data) {
       node.innerSVG = data[id][room_name];
       content = get_content(id, data, locale);
     }
-    node = document.getElementById(id + '_content');
-    node.innerSVG = content;
-    node = document.getElementById(id + '_more');
-    node.innerSVG = more;
+    document.getElementById(id + '_content').innerSVG = content;
+    document.getElementById(id + '_more').innerSVG = more;
   }
 }
 url = base_url + 'map=default';
 if (is_msie) {
   var xdr = new XDomainRequest();
-  if (xdr) {
-    xdr.onload = function() {
-      set_data2map(jQuery.parseJSON(xdr.responseText));
-    }
-    xdr.open("get", url, true);
-    xdr.send(null);
+  xdr.onload = function() {
+    set_data2map(jQuery.parseJSON(xdr.responseText));
   }
+  xdr.open("get", url, true);
+  xdr.send(null);
 } else {
   jQuery.getJSON(url, function (data) {set_data2map(data)});
 }
