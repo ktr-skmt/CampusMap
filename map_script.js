@@ -75,7 +75,7 @@ function get_content(id, data, locale) {
       if (is_afternoon()) {
         pronoun = "明日";
         opening_time = data[id][tomorrow_opening_time];
-        closing_time = closing_time = data[id][tomorrow_closing_time];
+        closing_time = data[id][tomorrow_closing_time];
       } else {
         pronoun = "今日";
         opening_time = data[id][today_opening_time];
