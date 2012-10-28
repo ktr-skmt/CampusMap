@@ -128,7 +128,7 @@ function parse_map (data) {
     node = document.getElementById(id + '_content');
     var content = "";
     if (id == 'CD') {
-      content = get_content('C', data, locale)
+      content = get_content('C', data, locale);
     } else {
       content = get_content(id, data, locale);
     }
