@@ -133,7 +133,7 @@ if (is_msie) {
 } else {
   jQuery.getJSON(url, function (data) {set_data2map(data)});
 }
-function pretend_room(str) {
+function prepend_room(str) {
   return "room" + str;
 }
 function get_rooms() {
@@ -142,12 +142,12 @@ function get_rooms() {
     if (index == ids[id]) {
       str += id;
     } else {
-      rooms[index] = pretend_room(str);
+      rooms[index] = prepend_room(str);
       str = id;
       index = ids[id];
     }
   }
-  rooms[index] = pretend_room(str);
+  rooms[index] = prepend_room(str);
   return rooms;
 }
 var rooms = get_rooms();
