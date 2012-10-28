@@ -1,7 +1,20 @@
 var ids = {A:0,B:0,E:1,CD:2,K:3,L:3,M:3,F:4,"P-1":4,"P-2":4,Q:4,U:4,W:4,G:5,N:6,T:7,J:8,R:9,I:10,O:11,H:12},
     base_url = 'http://pcavil.itsc.ynu.ac.jp/api.php?',
-    seats = new Array();
-jQuery.getJSON(base_url + 'room=all', function (data) {seats = data;});
+    seats = new Array(),
+    is_msie = $.browser.msie && window.XDomainRequest,
+    url = base_url + 'room=all';
+if (is_msie) {
+  var xdr = new XDomainRequest();
+  if (xdr) {
+    xdr.onload = function() {
+      seats = jQuery.parseJSON(xdr.responseText);
+    }
+    xdr.open("get", url, true);
+    xdr.send(null);
+  }
+} else {
+  jQuery.getJSON(url, function (data) {seats = data;});
+}
 function in_session_mode_content(subject, lecturer, suffix) {
   return subject + "(" + lecturer + ")" + suffix;
 }
@@ -72,7 +85,7 @@ function get_content(id, data, locale) {
       }
       period = "です。";
       if ((opening_time == "") || (closing_time == "")) {
-        content = pronoun + "は閉館日" + period;
+        content = pronoun + "は閉室" + period;
       } else {
         content = closed_mode_content(pronoun, "の開館時間は", opening_time, closing_time, period);
       }
@@ -82,7 +95,20 @@ function get_content(id, data, locale) {
   }
   return content;
 }
-jQuery.getJSON(base_url + 'map=default', function (data) {
+url = base_url + 'map=default';
+if (is_msie) {
+  var xdr = new XDomainRequest();
+  if (xdr) {
+    xdr.onload = function() {
+      parse_map(jQuery.parseJSON(xdr.responseText));
+    }
+    xdr.open("get", url, true);
+    xdr.send(null);
+  }
+} else {
+  jQuery.getJSON(url, function (data) {parse_map(data)});
+}
+function parse_map (data) {
   var locale = 'ja', room_name = 'room_name', more = '&gt;&gt;';
   if (locale == 'en') {
     room_name = 'english_room_name';
@@ -110,7 +136,7 @@ jQuery.getJSON(base_url + 'map=default', function (data) {
     node = document.getElementById(id + '_more');
     node.innerSVG = more;
   }
-});
+}
 function pretend_room(str) {
   return "room" + str;
 }
@@ -149,13 +175,11 @@ function hide_id(id) {
 function hide(room) {
   blur(get_node(room), get_nodeb(room));
 }
-
 function hide_except(index) {
   for (var i = 0, room; room = rooms[i]; i++) {
     if (i != index) hide(room);
   }
 }
-
 function toggle(index) {
   var room = rooms[index],
     node = get_node(room),
@@ -166,7 +190,6 @@ function toggle(index) {
     blur(node, nodeb);
   }
 }
-
 function exe(index) {
   hide_except(index);
   toggle(index);
