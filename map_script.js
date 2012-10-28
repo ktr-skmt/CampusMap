@@ -2,7 +2,8 @@ var ids = {A:0,B:0,E:1,CD:2,K:3,L:3,M:3,F:4,"P-1":4,"P-2":4,Q:4,U:4,W:4,G:5,N:6,
     base_url = 'http://pcavil.itsc.ynu.ac.jp/api.php?',
     seats = new Array(),
     is_msie = $.browser.msie && window.XDomainRequest,
-    url = base_url + 'room=all';
+    url = base_url + 'room=all',
+    locale = 'ja';
 if (is_msie) {
   var xdr = new XDomainRequest();
   xdr.onload = function() {
@@ -94,7 +95,7 @@ function get_content(id, data, locale) {
   return content;
 }
 function set_data2map (data) {
-  var locale = 'ja', room_name = 'room_name', more = '&gt;&gt;';
+  var room_name = 'room_name', more = '&gt;&gt;';
   if (locale == 'en') {
     room_name = 'english_room_name';
     more += "more";
