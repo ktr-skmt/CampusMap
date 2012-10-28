@@ -95,19 +95,6 @@ function get_content(id, data, locale) {
   }
   return content;
 }
-url = base_url + 'map=default';
-if (is_msie) {
-  var xdr = new XDomainRequest();
-  if (xdr) {
-    xdr.onload = function() {
-      set_data2map(jQuery.parseJSON(xdr.responseText));
-    }
-    xdr.open("get", url, true);
-    xdr.send(null);
-  }
-} else {
-  jQuery.getJSON(url, function (data) {set_data2map(data)});
-}
 function set_data2map (data) {
   var locale = 'ja', room_name = 'room_name', more = '&gt;&gt;';
   if (locale == 'en') {
@@ -132,6 +119,19 @@ function set_data2map (data) {
     node = document.getElementById(id + '_more');
     node.innerSVG = more;
   }
+}
+url = base_url + 'map=default';
+if (is_msie) {
+  var xdr = new XDomainRequest();
+  if (xdr) {
+    xdr.onload = function() {
+      set_data2map(jQuery.parseJSON(xdr.responseText));
+    }
+    xdr.open("get", url, true);
+    xdr.send(null);
+  }
+} else {
+  jQuery.getJSON(url, function (data) {set_data2map(data)});
 }
 function pretend_room(str) {
   return "room" + str;
