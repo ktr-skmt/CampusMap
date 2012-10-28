@@ -100,15 +100,15 @@ if (is_msie) {
   var xdr = new XDomainRequest();
   if (xdr) {
     xdr.onload = function() {
-      parse_map(jQuery.parseJSON(xdr.responseText));
+      set_data2map(jQuery.parseJSON(xdr.responseText));
     }
     xdr.open("get", url, true);
     xdr.send(null);
   }
 } else {
-  jQuery.getJSON(url, function (data) {parse_map(data)});
+  jQuery.getJSON(url, function (data) {set_data2map(data)});
 }
-function parse_map (data) {
+function set_data2map (data) {
   var locale = 'ja', room_name = 'room_name', more = '&gt;&gt;';
   if (locale == 'en') {
     room_name = 'english_room_name';
