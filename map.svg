@@ -116,14 +116,14 @@
 <defs>
   <desc>style for dialogbox</desc>
   <symbol id="bgbox">
-    <rect x="3" y="3" width="260" height="60" fill="black" opacity="0.3" rx="5" ry="5" stroke="black" stroke-width="2"/>
-    <rect x="0" y="0" width="260" height="60" fill="url(#box)" opacity="1" rx="5" ry="5" stroke="url(#frame)" stroke-width="2"/>
+    <rect x="3" y="3" width="280" height="76" fill="black" opacity="0.3" rx="5" ry="5" stroke="black" stroke-width="2"/>
+    <rect x="0" y="0" width="280" height="76" fill="url(#box)" opacity="1" rx="5" ry="5" stroke="url(#frame)" stroke-width="2"/>
   </symbol>
-  <text id="closeicon" x="242" y="16" font-size="15" fill="white" text-align="justify" >✕</text>
+  <text id="closeicon" x="262" y="16" font-size="15" fill="white" text-align="justify" >&#215;</text>
   <linearGradient id="box" x1="0%" y1="0%" x2="0%" y2="100%">
     <stop offset="0%" stop-color="#4488ff"/>
-    <stop offset="35%" stop-color="#4488ff"/>
-    <stop offset="35%" stop-color="white"/>
+    <stop offset="30%" stop-color="#4488ff"/>
+    <stop offset="30%" stop-color="white"/>
     <stop offset="90%" stop-color="white"/>
     <stop offset="100%" stop-color="#eeeeee"/>
    </linearGradient>
@@ -134,9 +134,9 @@
 </defs>
 
 <style type="text/css"><![CDATA[
-  .roomname  { font-size: 15px; fill: white; }
+  .roomname  { font-size: 12px; fill: white; }
   .content   { font-size: 12px; fill: black; }
-  .to_detail { font-size: 12px; fill: blue; }
+  .more { font-size: 12px; fill: blue; }
 ]]></style>
 
 <g id="roomAB" transform="translate(0,40)" style="display:none">
@@ -144,33 +144,37 @@
     <use xlink:href="#bgbox" />
     <a onclick="hide_id('A')"><use xlink:href="#closeicon" /></a>
     <a xlink:href="A.svg"><text id="A_room_name" class="roomname" x="5" y="16" /></a>
-    <text id="A_content" class="content" x="5" y="36" />
-    <a xlink:href="A.svg"><text id="A_more" class="to_detail" x="180" y="52" /></a>
+    <text id="A_content_0" class="content" x="5" y="36" />
+    <text id="A_content_1" class="content" x="5" y="52" />
+    <a xlink:href="A.svg"><text id="A_more" class="more" x="200" y="68" /></a>
   </g>
 
   <g id="roomB" transform="translate(0,0)" >
     <use xlink:href="#bgbox" />
     <a onclick="hide_id('B')"><use xlink:href="#closeicon" /></a>
     <a xlink:href="B.svg"><text id="B_room_name" class="roomname" x="5" y="16" /></a>
-    <text id="B_content" class="content" x="5" y="36" />
-    <a xlink:href="B.svg"><text id="B_more" class="to_detail" x="180" y="52" /></a>
+    <text id="B_content_0" class="content" x="5" y="36" />
+    <text id="B_content_1" class="content" x="5" y="52" />
+    <a xlink:href="B.svg"><text id="B_more" class="more" x="200" y="68" /></a>
   </g>
 </g>
 
-<g id="roomE" transform="translate(0,0)" >
+<g id="roomE" transform="translate(0,0)" style="display:none">
   <use xlink:href="#bgbox" />
   <a onclick="hide_id('E')"><use xlink:href="#closeicon" /></a>
   <a xlink:href="E.svg"><text id="E_room_name" class="roomname" x="5" y="16" /></a>
-  <text id="E_content" class="content" x="5" y="36" />
-  <a xlink:href="E.svg"><text id="E_more" class="to_detail" x="180" y="52" /></a>
+  <text id="E_content_0" class="content" x="5" y="36" />
+  <text id="E_content_1" class="content" x="5" y="52" />
+  <a xlink:href="E.svg"><text id="E_more" class="more" x="200" y="68" /></a>
 </g>
 
-<g id="roomCD" transform="translate(0,0)" >
+<g id="roomCD" transform="translate(0,0)" style="display:none">
   <use xlink:href="#bgbox" />
   <a onclick="hide_id('CD')"><use xlink:href="#closeicon" /></a>
   <a xlink:href="CD.svg"><text id="CD_room_name" class="roomname" x="5" y="16" /></a>
-  <text id="CD_content" class="content" x="5" y="36" />
-  <a xlink:href="CD.svg"><text id="CD_more" class="to_detail" x="180" y="52" /></a>
+  <text id="CD_content_0" class="content" x="5" y="36" />
+  <text id="CD_content_1" class="content" x="5" y="52" />
+  <a xlink:href="CD.svg"><text id="CD_more" class="more" x="200" y="68" /></a>
 </g>
 
 <g id="roomKLM" transform="translate(0,40)" style="display:none">
@@ -178,24 +182,27 @@
     <use xlink:href="#bgbox" />
     <a onclick="hide_id('K')"><use xlink:href="#closeicon" /></a>
     <a xlink:href="K.svg"><text id="K_room_name" class="roomname" x="5" y="16" /></a>
-    <text id="K_content" class="content" x="5" y="36" />
-    <a xlink:href="K.svg"><text id="K_more" class="to_detail" x="180" y="52" /></a>
+    <text id="K_content_0" class="content" x="5" y="36" />
+    <text id="K_content_1" class="content" x="5" y="52" />
+    <a xlink:href="K.svg"><text id="K_more" class="more" x="200" y="68" /></a>
   </g>
 
   <g id="roomL" transform="translate(0,0)" >
     <use xlink:href="#bgbox" />
     <a onclick="hide_id('L')"><use xlink:href="#closeicon" /></a>
     <a xlink:href="L.svg"><text id="L_room_name" class="roomname" x="5" y="16" /></a>
-    <text id="L_content" class="content" x="5" y="36" />
-    <a xlink:href="L.svg"><text id="L_more" class="to_detail" x="180" y="52" /></a>
+    <text id="L_content_0" class="content" x="5" y="36" />
+    <text id="L_content_1" class="content" x="5" y="52" />
+    <a xlink:href="L.svg"><text id="L_more" class="more" x="200" y="68" /></a>
   </g>
 
   <g id="roomM" transform="translate(0,0)" >
     <use xlink:href="#bgbox" />
     <a onclick="hide_id('M')"><use xlink:href="#closeicon" /></a>
     <a xlink:href="M.svg"><text id="M_room_name" class="roomname" x="5" y="16" /></a>
-    <text id="M_content" class="content" x="5" y="36" />
-    <a xlink:href="M.svg"><text id="M_more" class="to_detail" x="180" y="52" /></a>
+    <text id="M_content_0" class="content" x="5" y="36" />
+    <text id="M_content_1" class="content" x="5" y="52" />
+    <a xlink:href="M.svg"><text id="M_more" class="more" x="200" y="68" /></a>
   </g>
 </g>
 
@@ -204,113 +211,127 @@
     <use xlink:href="#bgbox" />
     <a onclick="hide_id('F')"><use xlink:href="#closeicon" /></a>
     <a xlink:href="F.svg"><text id="F_room_name" class="roomname" x="5" y="16" /></a>
-    <text id="F_content" class="content" x="5" y="36" />
-    <a xlink:href="F.svg"><text id="F_more" class="to_detail" x="180" y="52" /></a>
+    <text id="F_content_0" class="content" x="5" y="36" />
+    <text id="F_content_1" class="content" x="5" y="52" />
+    <a xlink:href="F.svg"><text id="F_more" class="more" x="200" y="68" /></a>
   </g>
 
   <g id="roomP-1" transform="translate(0,0)" >
     <use xlink:href="#bgbox" />
     <a onclick="hide_id('P-1')"><use xlink:href="#closeicon" /></a>
     <a xlink:href="P-1.svg"><text id="P-1_room_name" class="roomname" x="5" y="16" /></a>
-    <text id="P-1_content" class="content" x="5" y="36" />
-    <a xlink:href="P-1.svg"><text id="P-1_more" class="to_detail" x="180" y="52" /></a>
+    <text id="P-1_content_0" class="content" x="5" y="36" />
+    <text id="P-1_content_1" class="content" x="5" y="52" />
+    <a xlink:href="P-1.svg"><text id="P-1_more" class="more" x="200" y="68" /></a>
   </g>
 
   <g id="roomP-2" transform="translate(0,0)" >
     <use xlink:href="#bgbox" />
     <a onclick="hide_id('P-2')"><use xlink:href="#closeicon" /></a>
     <a xlink:href="P-2.svg"><text id="P-2_room_name" class="roomname" x="5" y="16" /></a>
-    <text id="P-2_content" class="content" x="5" y="36" />
-    <a xlink:href="P-2.svg"><text id="P-2_more" class="to_detail" x="180" y="52" /></a>
+    <text id="P-2_content_0" class="content" x="5" y="36" />
+    <text id="P-2_content_1" class="content" x="5" y="52" />
+    <a xlink:href="P-2.svg"><text id="P-2_more" class="more" x="200" y="68" /></a>
   </g>
 
   <g id="roomQ" transform="translate(0,0)" >
     <use xlink:href="#bgbox" />
     <a onclick="hide_id('Q')"><use xlink:href="#closeicon" /></a>
     <a xlink:href="Q.svg"><text id="Q_room_name" class="roomname" x="5" y="16" /></a>
-    <text id="Q_content" class="content" x="5" y="36" />
-    <a xlink:href="Q.svg"><text id="Q_more" class="to_detail" x="180" y="52" /></a>
+    <text id="Q_content_0" class="content" x="5" y="36" />
+    <text id="Q_content_1" class="content" x="5" y="52" />
+    <a xlink:href="Q.svg"><text id="Q_more" class="more" x="200" y="68" /></a>
   </g>
 
   <g id="roomU" transform="translate(0,0)" >
     <use xlink:href="#bgbox" />
     <a onclick="hide_id('U')"><use xlink:href="#closeicon" /></a>
     <a xlink:href="U.svg"><text id="U_room_name" class="roomname" x="5" y="16" /></a>
-    <text id="U_content" class="content" x="5" y="36" />
-    <a xlink:href="U.svg"><text id="U_more" class="to_detail" x="180" y="52" /></a>
+    <text id="U_content_0" class="content" x="5" y="36" />
+    <text id="U_content_1" class="content" x="5" y="52" />
+    <a xlink:href="U.svg"><text id="U_more" class="more" x="200" y="68" /></a>
   </g>
 
   <g id="roomW" transform="translate(0,0)" >
     <use xlink:href="#bgbox" />
     <a onclick="hide_id('W')"><use xlink:href="#closeicon" /></a>
     <a xlink:href="W.svg"><text id="W_room_name" class="roomname" x="5" y="16" /></a>
-    <text id="W_content" class="content" x="5" y="36" />
-    <a xlink:href="W.svg"><text id="W_more" class="to_detail" x="180" y="52" /></a>
+    <text id="W_content_0" class="content" x="5" y="36" />
+    <text id="W_content_1" class="content" x="5" y="52" />
+    <a xlink:href="W.svg"><text id="W_more" class="more" x="200" y="68" /></a>
   </g>
 </g>
 
-<g id="roomG" transform="translate(0,0)" >
+<g id="roomG" transform="translate(0,0)" style="display:none">
   <use xlink:href="#bgbox" />
   <a onclick="hide_id('G')"><use xlink:href="#closeicon" /></a>
   <a xlink:href="G.svg"><text id="G_room_name" class="roomname" x="5" y="16" /></a>
-  <text id="G_content" class="content" x="5" y="36" />
-  <a xlink:href="G.svg"><text id="G_more" class="to_detail" x="180" y="52" /></a>
+  <text id="G_content_0" class="content" x="5" y="36" />
+  <text id="G_content_1" class="content" x="5" y="52" />
+  <a xlink:href="G.svg"><text id="G_more" class="more" x="200" y="68" /></a>
 </g>
 
-<g id="roomN" transform="translate(0,0)" >
+<g id="roomN" transform="translate(0,0)" style="display:none">
   <use xlink:href="#bgbox" />
   <a onclick="hide_id('N')"><use xlink:href="#closeicon" /></a>
   <a xlink:href="N.svg"><text id="N_room_name" class="roomname" x="5" y="16" /></a>
-  <text id="N_content" class="content" x="5" y="36" />
-  <a xlink:href="N.svg"><text id="N_more" class="to_detail" x="180" y="52" /></a>
+  <text id="N_content_0" class="content" x="5" y="36" />
+  <text id="N_content_1" class="content" x="5" y="52" />
+  <a xlink:href="N.svg"><text id="N_more" class="more" x="200" y="68" /></a>
 </g>
 
-<g id="roomT" transform="translate(0,0)" >
+<g id="roomT" transform="translate(0,0)" style="display:none">
   <use xlink:href="#bgbox" />
   <a onclick="hide_id('T')"><use xlink:href="#closeicon" /></a>
   <a xlink:href="T.svg"><text id="T_room_name" class="roomname" x="5" y="16" /></a>
-  <text id="T_content" class="content" x="5" y="36" />
-  <a xlink:href="T.svg"><text id="T_more" class="to_detail" x="180" y="52" /></a>
+  <text id="T_content_0" class="content" x="5" y="36" />
+  <text id="T_content_1" class="content" x="5" y="52" />
+  <a xlink:href="T.svg"><text id="T_more" class="more" x="200" y="68" /></a>
 </g>
 
-<g id="roomJ" transform="translate(0,0)" >
+<g id="roomJ" transform="translate(0,0)" style="display:none">
   <use xlink:href="#bgbox" />
   <a onclick="hide_id('J')"><use xlink:href="#closeicon" /></a>
   <a xlink:href="J.svg"><text id="J_room_name" class="roomname" x="5" y="16" /></a>
-  <text id="J_content" class="content" x="5" y="36" />
-  <a xlink:href="J.svg"><text id="J_more" class="to_detail" x="180" y="52" /></a>
+  <text id="J_content_0" class="content" x="5" y="36" />
+  <text id="J_content_1" class="content" x="5" y="52" />
+  <a xlink:href="J.svg"><text id="J_more" class="more" x="200" y="68" /></a>
 </g>
 
-<g id="roomR" transform="translate(0,0)" >
+<g id="roomR" transform="translate(0,0)" style="display:none">
   <use xlink:href="#bgbox" />
   <a onclick="hide_id('R')"><use xlink:href="#closeicon" /></a>
   <a xlink:href="R.svg"><text id="R_room_name" class="roomname" x="5" y="16" /></a>
-  <text id="R_content" class="content" x="5" y="36" />
-  <a xlink:href="R.svg"><text id="R_more" class="to_detail" x="180" y="52" /></a>
+  <text id="R_content_0" class="content" x="5" y="36" />
+  <text id="R_content_1" class="content" x="5" y="52" />
+  <a xlink:href="R.svg"><text id="R_more" class="more" x="200" y="68" /></a>
 </g>
 
-<g id="roomI" transform="translate(0,0)" >
+<g id="roomI" transform="translate(0,0)" style="display:none">
   <use xlink:href="#bgbox" />
   <a onclick="hide_id('I')"><use xlink:href="#closeicon" /></a>
   <a xlink:href="I.svg"><text id="I_room_name" class="roomname" x="5" y="16" /></a>
-  <text id="I_content" class="content" x="5" y="36" />
-  <a xlink:href="I.svg"><text id="I_more" class="to_detail" x="180" y="52" /></a>
+  <text id="I_content_0" class="content" x="5" y="36" />
+  <text id="I_content_1" class="content" x="5" y="52" />
+  <a xlink:href="I.svg"><text id="I_more" class="more" x="200" y="68" /></a>
 </g>
 
-<g id="roomO" transform="translate(0,0)" >
+<g id="roomO" transform="translate(0,0)" style="display:none">
   <use xlink:href="#bgbox" />
   <a onclick="hide_id('O')"><use xlink:href="#closeicon" /></a>
   <a xlink:href="O.svg"><text id="O_room_name" class="roomname" x="5" y="16" /></a>
-  <text id="O_content" class="content" x="5" y="36" />
-  <a xlink:href="O.svg"><text id="O_more" class="to_detail" x="180" y="52" /></a>
+  <text id="O_content_0" class="content" x="5" y="36" />
+  <text id="O_content_1" class="content" x="5" y="52" />
+  <a xlink:href="O.svg"><text id="O_more" class="more" x="200" y="68" /></a>
 </g>
 
-<g id="roomH" transform="translate(0,0)" >
+<g id="roomH" transform="translate(0,0)" style="display:none">
   <use xlink:href="#bgbox" />
   <a onclick="hide_id('H')"><use xlink:href="#closeicon" /></a>
   <a xlink:href="H.svg"><text id="H_room_name" class="roomname" x="5" y="16" /></a>
-  <text id="H_content" class="content" x="5" y="36" />
-  <a xlink:href="H.svg"><text id="H_more" class="to_detail" x="180" y="52" /></a>
+  <text id="H_content_0" class="content" x="5" y="36" />
+  <text id="H_content_1" class="content" x="5" y="52" />
+  <a xlink:href="H.svg"><text id="H_more" class="more" x="200" y="68" /></a>
 </g>
 
 <script xlink:href="http://ajax.googleapis.com/ajax/libs/jquery/1.7.2/jquery.min.js"/>
