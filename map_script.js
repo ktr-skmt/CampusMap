@@ -207,7 +207,7 @@ function set_data2map (data) {
         } else {
           node.innerSVG = data[id][room_name];
         }
-	  } else {
+      } else {
         node.innerSVG = data[id][room_name];
       }
       contents = get_contents(id, data, locale);
