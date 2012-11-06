@@ -4,16 +4,10 @@
 <svg version="1.1" xmlns="http://www.w3.org/2000/svg" xmlns:xlink="http://www.w3.org/1999/xlink" x="0px" y="0px" width="480px"
 	 height="720px" viewBox="0 0 480 720" enable-background="new 0 0 480 720" xml:space="preserve">
 <g id="レイヤー_1">
-	
-		<rect x="31.513" y="107.381" fill="#FFFFFF" stroke="#000000" stroke-width="4" stroke-miterlimit="10" width="419.079" height="547.395"/>
-	<text transform="matrix(1 0 0 1 185.9922 37.6982)" font-family="'KozGoPr6N-Regular-83pv-RKSJ-H'" font-size="18">パソコン教</text>
-	
-		<text transform="matrix(1 0 0 1 275.9922 37.6982)" font-family="'KozGoPr6N-Regular-83pv-RKSJ-H'" font-size="18" letter-spacing="2">室A</text>
-	
-		<image overflow="visible" enable-background="new    " width="52" height="41" xlink:href="1B2D9D90FD579200.jpg"  transform="matrix(0.5417 0 0 0.3446 58.6133 151.0552)">
-	</image>
-	
-		<image overflow="visible" enable-background="new    " width="53" height="41" xlink:href="1B2D9D90FD579201.jpg"  transform="matrix(0.5214 0 0 0.28 94.1777 150.5137)">
+  <rect x="31.513" y="107.381" fill="#FFFFFF" stroke="#000000" stroke-width="4" stroke-miterlimit="10" width="419.079" height="547.395"/>
+  <text transform="matrix(1 0 0 1 185.9922 37.6982)" font-family="'KozGoPr6N-Regular-83pv-RKSJ-H'" font-size="18" id="room_id">パソコン教室A</text>
+  <image overflow="visible" enable-background="new    " width="52" height="41" xlink:href="1B2D9D90FD579200.jpg"  transform="matrix(0.5417 0 0 0.3446 58.6133 151.0552)">
+  <image overflow="visible" enable-background="new    " width="53" height="41" xlink:href="1B2D9D90FD579201.jpg"  transform="matrix(0.5214 0 0 0.28 94.1777 150.5137)">
 	</image>
 	
 		<image overflow="visible" enable-background="new    " width="52" height="43" xlink:href="1B2D9D90FD579207.jpg"  transform="matrix(0.4953 0 0 0.287 130.7417 151.2661)">
