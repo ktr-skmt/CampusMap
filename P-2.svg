@@ -4,55 +4,29 @@
 <svg version="1.1" xmlns="http://www.w3.org/2000/svg" xmlns:xlink="http://www.w3.org/1999/xlink" x="0px" y="0px" width="480px"
 	 height="720px" viewBox="0 0 480 720" enable-background="new 0 0 480 720" xml:space="preserve">
 <g id="レイヤー_1">
-	<rect x="167.527" y="20.264" fill="none" width="176.625" height="27.273"/>
-	<text transform="matrix(1 0 0 1 167.5273 36.1045)" font-family="'HiraMinPro-W3-83pv-RKSJ-H'" font-size="18">リフレッシュルーム</text>
-	<polygon fill="none" points="421.688,610.216 315.245,610.216 310.643,582.942 417.086,582.942 	"/>
-	<text transform="matrix(1 0 0 1 313.3145 598.7822)" font-family="'HiraMinPro-W3-83pv-RKSJ-H'" font-size="18">↓図書館２F</text>
-	
-		<rect x="85.598" y="60.537" fill="none" stroke="#000000" stroke-width="3" stroke-miterlimit="10" width="340.483" height="505.043"/>
-	<rect x="573.074" y="562.58" fill="none" stroke="#000000" stroke-miterlimit="10" width="0" height="3"/>
-	<rect x="29.664" y="89.604" fill="none" width="33.767" height="129.87"/>
-	
-		<text transform="matrix(1 0 0 1 54.4307 89.6035)" font-family="'HiraMinPro-W3-83pv-RKSJ-H'" font-size="18" glyph-orientation-vertical="0" writing-mode="tb">↓パソコン教室</text>
-	<rect x="77.267" y="80.605" fill="#FFFFFF" width="16.663" height="46.79"/>
-	<rect x="291.585" y="558.08" fill="#FFFFFF" width="55.497" height="14.999"/>
+  <rect x="167.527" y="20.264" fill="none" width="176.625" height="27.273"/>
+  <text transform="matrix(1 0 0 1 167.5273 36.1045)" font-family="'HiraMinPro-W3-83pv-RKSJ-H'" font-size="18" id="room_id"/>
+  <polygon fill="none" points="421.688,610.216 315.245,610.216 310.643,582.942 417.086,582.942 	"/>
+  <text transform="matrix(1 0 0 1 313.3145 598.7822)" font-family="'HiraMinPro-W3-83pv-RKSJ-H'" font-size="18" id="word_0">↓図書館２F</text>
+  <rect x="85.598" y="60.537" fill="none" stroke="#000000" stroke-width="3" stroke-miterlimit="10" width="340.483" height="505.043"/>
+  <rect x="573.074" y="562.58" fill="none" stroke="#000000" stroke-miterlimit="10" width="0" height="3"/>
+  <rect x="29.664" y="89.604" fill="none" width="33.767" height="129.87"/>
+  <text transform="matrix(1 0 0 1 54.4307 89.6035)" font-family="'HiraMinPro-W3-83pv-RKSJ-H'" font-size="18" glyph-orientation-vertical="0" writing-mode="tb" id="word_1">↓パソコン教室</text>
+  <rect x="77.267" y="80.605" fill="#FFFFFF" width="16.663" height="46.79"/>
+  <rect x="291.585" y="558.08" fill="#FFFFFF" width="55.497" height="14.999"/>
 </g>
-<g id="レイヤー_2">
-	<g>
-		<g id="BAy47O_34_">
-			
-				<image overflow="visible" width="50" height="31" id="BAy47O_35_" xlink:href="5990003E711BB321.jpg"  transform="matrix(0.8907 0 0 0.69 317 106.6152)">
-			</image>
-		</g>
-		<g id="BAy47O_32_">
-			
-				<image overflow="visible" width="50" height="31" id="BAy47O_33_" xlink:href="5990003E711BB323.jpg"  transform="matrix(0.8907 0 0 0.69 233.5713 106.6152)">
-			</image>
-		</g>
-		<g id="BAy47O_30_">
-			
-				<image overflow="visible" width="50" height="31" id="BAy47O_31_" xlink:href="5990003E711BB326.jpg"  transform="matrix(0.8907 0 0 0.69 146 106.6152)">
-			</image>
-		</g>
-	</g>
+<g id="on">
+  <image overflow="visible" width="50" height="31" id="pc__on" xlink:href="on.jpg"  transform="matrix(0.8907 0 0 0.69 317 106.6152)" style="display:none"/>
+  <image overflow="visible" width="50" height="31" id="pc__on" xlink:href="on.jpg"  transform="matrix(0.8907 0 0 0.69 233.5713 106.6152)" style="display:none"/>
+  <image overflow="visible" width="50" height="31" id="pc__on" xlink:href="on.jpg"  transform="matrix(0.8907 0 0 0.69 146 106.6152)" style="display:none"/>
 </g>
-<g id="レイヤー_2のコピー">
-	<g>
-		<g id="gYojUO_34_">
-			
-				<image overflow="visible" width="47" height="31" id="gYojUO_35_" xlink:href="5990003E711BB327.jpg"  transform="matrix(0.9476 0 0 0.6876 317 106.6528)">
-			</image>
-		</g>
-		<g id="gYojUO_32_">
-			
-				<image overflow="visible" width="47" height="31" id="gYojUO_33_" xlink:href="5990003E711BB322.jpg"  transform="matrix(0.9476 0 0 0.6876 233.5713 106.6528)">
-			</image>
-		</g>
-		<g id="gYojUO_30_">
-			
-				<image overflow="visible" width="47" height="31" id="gYojUO_31_" xlink:href="5990003E711BB32D.jpg"  transform="matrix(0.9476 0 0 0.6876 146 106.6528)">
-			</image>
-		</g>
-	</g>
+<g id="off">
+  <image overflow="visible" width="47" height="31" id="pc__off" xlink:href="off.jpg"  transform="matrix(0.9476 0 0 0.6876 317 106.6528)"/>
+  <image overflow="visible" width="47" height="31" id="pc__off" xlink:href="off.jpg"  transform="matrix(0.9476 0 0 0.6876 233.5713 106.6528)"/>
+  <image overflow="visible" width="47" height="31" id="pc__off" xlink:href="off.jpg"  transform="matrix(0.9476 0 0 0.6876 146 106.6528)"/>
 </g>
+<script xlink:href="http://ajax.googleapis.com/ajax/libs/jquery/1.7.2/jquery.min.js"/>
+<script xlink:href="innersvg.js"/>
+<script xlink:href="room.js"/>
+<script xlink:href="roomP-2.js"/>
 </svg>

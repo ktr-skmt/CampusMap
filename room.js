@@ -1,11 +1,13 @@
 var base_url = 'http://pcavil.itsc.ynu.ac.jp/api.php?',
     is_msie = $.browser.msie && window.XDomainRequest,
     seats = new Array(),
-    room_id = 'T',
-    url = base_url + 'room=' + room_id,
     locale = 'ja',
     en = 'en',
-    room_name = "room_name";
+    room_name = "room_name",
+    room_id = location.href;
+room_id = room_id.substring(room_id.lastIndexOf("/") + 1, room_id.length);
+room_id = room_id.substring(0, room_id.indexOf("."));
+var url = base_url + 'room=' + room_id;
 if (document.cookie) {
   var cookies = document.cookie.split("; ");
   for (var i = 0; i < cookies.length; i++) {
