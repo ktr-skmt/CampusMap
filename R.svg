@@ -5,7 +5,7 @@
 	 y="0px" width="480px" height="720px" viewBox="0 0 480 720" enable-background="new 0 0 480 720" xml:space="preserve">
 
 <rect x="198.404" y="32.649" fill="none" width="105.195" height="25.974"/>
-<text transform="matrix(1 0 0 1 198.4043 48.4893)" font-family="'KozGoPr6N-Regular-83pv-RKSJ-H'" font-size="18" id="room_id"></text>
+<text transform="matrix(1 0 0 1 198.4043 48.4893)" font-family="'KozGoPr6N-Regular-83pv-RKSJ-H'" font-size="18" id="room_id" />
 <rect x="62.429" y="91.688" fill="none" stroke="#000000" stroke-width="3" stroke-miterlimit="10" width="366.233" height="507.792"/>
 <rect x="53.987" y="529.351" fill="#FFFFFF" stroke="#FFFFFF" stroke-miterlimit="10" width="16.883" height="40.261"/>
 <rect x="93.403" y="549.48" fill="none" width="31.168" height="18.182"/>
