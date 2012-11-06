@@ -1,4 +1,4 @@
-var english_words = {"0":"Entrance"},
+var english_words = {"0":"106", "1":"101", "2":"102", "3":"103", "4":"104", "5":"105"},
     num_of_words = 0;
 for (var word in english_words) {num_of_words++;}
 if (locale == en) {
