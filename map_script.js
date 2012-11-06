@@ -97,7 +97,7 @@ function in_session_mode_contents(subject, lecturer) {
   return new Array(subject, lecturer);
 }
 function open_mode_contents(prefix, num_of_available_seats, num_of_total_seats, available_still) {
-  return new Array(prefix + ":<tspan font-weight=\"bold\" fill=\"green\">" + num_of_available_seats + "</tspan>/" + num_of_total_seats, "-" + available_still);
+  return new Array(prefix + ":<tspan font-weight=\"bold\" fill=\"#00ff00\">" + num_of_available_seats + "</tspan>/" + num_of_total_seats, "-" + available_still);
 }
 function closed_mode_contents(pronoun, opening_hours_are, opening_time, closing_time, period) {
   return new Array(pronoun + opening_hours_are, opening_time + "-" + closing_time + period);
