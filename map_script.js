@@ -124,9 +124,17 @@ function get_contents(id, data, locale) {
     break;
   case 'open':
     if (locale == en) {
-      contents = open_mode_contents("Available Seats", seats[id][available_seats], seats[id][total_seats], data[id][available_still]);
+      if (id == roomE) {
+        contents = new Array("For classroom use only.", "");
+      } else {
+        contents = open_mode_contents("Available Seats", seats[id][available_seats], seats[id][total_seats], data[id][available_still]);
+      }
     } else {
-      contents = open_mode_contents("空席", seats[id][available_seats], seats[id][total_seats], data[id][available_still]);
+      if (id == roomE) {
+        contents = new Array("講義のみ使用可能です。", "");
+      } else {
+        contents = open_mode_contents("空席", seats[id][available_seats], seats[id][total_seats], data[id][available_still]);
+      }
     }
     break;
   case 'closed':
@@ -247,7 +255,7 @@ function focus_on(node, nodeb) {
   node.style.display = '';
   nodeb.setAttribute("fill", "red");
 }
-function blur(node, nodeb, room) {
+function undisplay(node, nodeb, room) {
   node.style.display = 'none';
   nodeb.setAttribute("fill", colors[rooms.indexOf(room)]);
 }
@@ -255,7 +263,7 @@ function hide_id(id) {
   hide(rooms[ids[id]]);
 }
 function hide(room) {
-  blur(get_node(room), get_nodeb(room), room);
+  undisplay(get_node(room), get_nodeb(room), room);
 }
 function hide_except(index) {
   for (var i = 0, room; room = rooms[i]; i++) {
@@ -269,7 +277,7 @@ function toggle(index) {
   if (node.style.display == 'none') {
     focus_on(node, nodeb);
   } else {
-    blur(node, nodeb, room);
+    undisplay(node, nodeb, room);
   }
 }
 function exe(index) {
