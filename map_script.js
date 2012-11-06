@@ -5,9 +5,20 @@ var ids = {A:0,B:0,E:1,CD:2,K:3,L:3,M:3,F:4,"P-1":4,"P-2":4,Q:4,U:4,W:4,G:5,N:6,
     url = base_url + 'room=all',
     en = 'en',
     roomE = 'E',
-    locale = 'en',
+    locale = 'ja',
     colors = new Array(),
     rooms = get_rooms();
+if (document.cookie) {
+  var cookies = document.cookie.split("; ");
+  for (var i = 0; i < cookies.length; i++) {
+    var str = cookies[i].split("=");
+    if (str[0] == "locale") {
+      var cookie_value = unescape(str[1]);
+      if (cookie_value == en) locale = en;
+      break;
+    }
+  }
+}
 if (is_msie) {
   var xdr = new XDomainRequest();
   xdr.onload = function() {
