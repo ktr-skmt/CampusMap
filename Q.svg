@@ -2,110 +2,49 @@
 <!-- Generator: Adobe Illustrator 16.0.0, SVG Export Plug-In . SVG Version: 6.00 Build 0)  -->
 <!DOCTYPE svg PUBLIC "-//W3C//DTD SVG 1.1//EN" "http://www.w3.org/Graphics/SVG/1.1/DTD/svg11.dtd">
 <svg version="1.1" id="レイヤー_1" xmlns="http://www.w3.org/2000/svg" xmlns:xlink="http://www.w3.org/1999/xlink" x="0px"
-	 y="0px" width="480px" height="720px" viewBox="0 0 480 720" enable-background="new 0 0 480 720" xml:space="preserve">
+  y="0px" width="480px" height="720px" viewBox="0 0 480 720" xml:space="preserve">
 <g id="レイヤー_1_1_">
-	<rect x="178.146" y="32.649" fill="none" width="142.195" height="25.974"/>
-	<text transform="matrix(1 0 0 1 178.1465 48.4893)" font-family="'KozGoPr6N-Regular-83pv-RKSJ-H'" font-size="18">中央図書館３F</text>
-	
-		<image overflow="visible" enable-background="new    " width="51" height="26" xlink:href="1FB785691AF19C3C.jpg"  transform="matrix(0.55 0 0 0.8889 154.5454 212.0737)">
-	</image>
-	
-		<image overflow="visible" enable-background="new    " width="51" height="26" xlink:href="1FB785691AF19C3D.jpg"  transform="matrix(0.55 0 0 0.8889 269.9746 212.0737)">
-	</image>
-	
-		<image overflow="visible" enable-background="new    " width="51" height="26" xlink:href="1FB785691AF19C3B.jpg"  transform="matrix(0.55 0 0 0.8889 234.291 212.0737)">
-	</image>
-	
-		<image overflow="visible" enable-background="new    " width="51" height="26" xlink:href="1FB785691AF19C44.jpg"  transform="matrix(0.55 0 0 0.8889 194.2891 212.0737)">
-	</image>
-	
-		<line fill="none" stroke="#000000" stroke-width="3" stroke-miterlimit="10" x1="106.429" y1="501.524" x2="106.429" y2="205.133"/>
-	<line fill="none" stroke="#000000" stroke-width="3" stroke-miterlimit="10" x1="106.429" y1="205.691" x2="204" y2="110"/>
-	
-		<image overflow="visible" enable-background="new    " width="51" height="26" xlink:href="1FB785691AF19C47.jpg"  transform="matrix(0.55 0 0 0.8889 153.8306 247)">
-	</image>
-	
-		<image overflow="visible" enable-background="new    " width="51" height="26" xlink:href="1FB785691AF19C45.jpg"  transform="matrix(0.55 0 0 0.8889 269.2598 247)">
-	</image>
-	
-		<image overflow="visible" enable-background="new    " width="51" height="26" xlink:href="1FB785691AF19C4B.jpg"  transform="matrix(0.55 0 0 0.8889 233.5762 247)">
-	</image>
-	
-		<image overflow="visible" enable-background="new    " width="51" height="26" xlink:href="1FB785691AF19C4C.jpg"  transform="matrix(0.55 0 0 0.8889 193.5742 247)">
-	</image>
-	
-		<image overflow="visible" enable-background="new    " width="51" height="26" xlink:href="1FB785691AF19C4F.jpg"  transform="matrix(0.55 0 0 0.8889 155.4731 324.3101)">
-	</image>
-	
-		<image overflow="visible" enable-background="new    " width="51" height="26" xlink:href="95864830E4EB950B.jpg"  transform="matrix(0.55 0 0 0.8889 270.9023 324.3101)">
-	</image>
-	
-		<image overflow="visible" enable-background="new    " width="51" height="26" xlink:href="95864830E4EB9509.jpg"  transform="matrix(0.55 0 0 0.8889 235.2188 324.3101)">
-	</image>
-	
-		<image overflow="visible" enable-background="new    " width="51" height="26" xlink:href="95864830E4EB950F.jpg"  transform="matrix(0.55 0 0 0.8889 195.2168 324.3101)">
-	</image>
-	
-		<image overflow="visible" enable-background="new    " width="51" height="26" xlink:href="95864830E4EB950A.jpg"  transform="matrix(0.55 0 0 0.8889 154.7583 359.2363)">
-	</image>
-	
-		<image overflow="visible" enable-background="new    " width="51" height="26" xlink:href="95864830E4EB9515.jpg"  transform="matrix(0.55 0 0 0.8889 270.1875 359.2363)">
-	</image>
-	
-		<image overflow="visible" enable-background="new    " width="51" height="26" xlink:href="95864830E4EB9516.jpg"  transform="matrix(0.55 0 0 0.8889 234.5039 359.2363)">
-	</image>
-	
-		<image overflow="visible" enable-background="new    " width="51" height="26" xlink:href="95864830E4EB9517.jpg"  transform="matrix(0.55 0 0 0.8889 194.502 359.2363)">
-	</image>
+ <rect x="178.146" y="32.649" fill="none" width="142.195" height="25.974"/>
+ <text transform="matrix(1 0 0 1 178.1465 48.4893)" font-family="'KozGoPr6N-Regular-83pv-RKSJ-H'" font-size="18">中央図書館３F</text>
+  <image id="pc__" overflow="visible" width="51" height="26" xlink:href="on.jpg"  transform="matrix(0.55 0 0 0.8889 154.5454 212.0737)" style="desplay:none" />
+  <image id="pc__" overflow="visible" width="51" height="26" xlink:href="on.jpg"  transform="matrix(0.55 0 0 0.8889 269.9746 212.0737)" style="desplay:none" />
+  <image id="pc__" overflow="visible" width="51" height="26" xlink:href="on.jpg"  transform="matrix(0.55 0 0 0.8889 234.291 212.0737)" style="desplay:none" />
+  <image id="pc__" overflow="visible" width="51" height="26" xlink:href="on.jpg"  transform="matrix(0.55 0 0 0.8889 194.2891 212.0737)" style="desplay:none" />
+  <line fill="none" stroke="#000000" stroke-width="3" stroke-miterlimit="10" x1="106.429" y1="501.524" x2="106.429" y2="205.133"/>
+ <line fill="none" stroke="#000000" stroke-width="3" stroke-miterlimit="10" x1="106.429" y1="205.691" x2="204" y2="110"/>
+  <image id="pc__" overflow="visible" width="51" height="26" xlink:href="on.jpg"  transform="matrix(0.55 0 0 0.8889 153.8306 247)" style="desplay:none" />
+  <image id="pc__" overflow="visible" width="51" height="26" xlink:href="on.jpg"  transform="matrix(0.55 0 0 0.8889 269.2598 247)" style="desplay:none" />
+  <image id="pc__" overflow="visible" width="51" height="26" xlink:href="on.jpg"  transform="matrix(0.55 0 0 0.8889 233.5762 247)" style="desplay:none" />
+  <image id="pc__" overflow="visible" width="51" height="26" xlink:href="on.jpg"  transform="matrix(0.55 0 0 0.8889 193.5742 247)" style="desplay:none" />
+  <image id="pc__" overflow="visible" width="51" height="26" xlink:href="on.jpg"  transform="matrix(0.55 0 0 0.8889 155.4731 324.3101)" style="desplay:none" />
+  <image id="pc__" overflow="visible" width="51" height="26" xlink:href="on.jpg"  transform="matrix(0.55 0 0 0.8889 270.9023 324.3101)" style="desplay:none" />
+  <image id="pc__" overflow="visible" width="51" height="26" xlink:href="on.jpg"  transform="matrix(0.55 0 0 0.8889 235.2188 324.3101)" style="desplay:none" />
+  <image id="pc__" overflow="visible" width="51" height="26" xlink:href="on.jpg"  transform="matrix(0.55 0 0 0.8889 195.2168 324.3101)" style="desplay:none" />
+  <image id="pc__" overflow="visible" width="51" height="26" xlink:href="on.jpg"  transform="matrix(0.55 0 0 0.8889 154.7583 359.2363)" style="desplay:none" />
+  <image id="pc__" overflow="visible" width="51" height="26" xlink:href="on.jpg"  transform="matrix(0.55 0 0 0.8889 270.1875 359.2363)" style="desplay:none" />
+  <image id="pc__" overflow="visible" width="51" height="26" xlink:href="on.jpg"  transform="matrix(0.55 0 0 0.8889 234.5039 359.2363)" style="desplay:none" />
+  <image id="pc__" overflow="visible" width="51" height="26" xlink:href="on.jpg"  transform="matrix(0.55 0 0 0.8889 194.502 359.2363)" style="desplay:none" />
 </g>
 <g id="レイヤー_2">
-	
-		<image overflow="visible" enable-background="new    " width="48" height="23" xlink:href="95864830E4EB9519.jpg"  transform="matrix(0.5952 0 0 0.9474 153.5703 212.7349)">
-	</image>
-	
-		<image overflow="visible" enable-background="new    " width="48" height="23" xlink:href="95864830E4EB951B.jpg"  transform="matrix(0.5952 0 0 0.9474 193.314 212.7349)">
-	</image>
-	
-		<image overflow="visible" enable-background="new    " width="48" height="23" xlink:href="95864830E4EB951E.jpg"  transform="matrix(0.5952 0 0 0.9474 234.9585 212.7349)">
-	</image>
-	
-		<image overflow="visible" enable-background="new    " width="48" height="23" xlink:href="95864830E4EB9532.jpg"  transform="matrix(0.5952 0 0 0.9474 270.6426 212.7349)">
-	</image>
-	
-		<image overflow="visible" enable-background="new    " width="48" height="23" xlink:href="95864830E4EB9531.jpg"  transform="matrix(0.5952 0 0 0.9474 153.0347 247.6611)">
-	</image>
-	
-		<image overflow="visible" enable-background="new    " width="48" height="23" xlink:href="95864830E4EB953E.jpg"  transform="matrix(0.5952 0 0 0.9474 192.7783 247.6611)">
-	</image>
-	
-		<image overflow="visible" enable-background="new    " width="48" height="23" xlink:href="95864830E4EB9530.jpg"  transform="matrix(0.5952 0 0 0.9474 234.4229 247.6611)">
-	</image>
-	
-		<image overflow="visible" enable-background="new    " width="48" height="23" xlink:href="95864830E4EB9533.jpg"  transform="matrix(0.5952 0 0 0.9474 270.1074 247.6611)">
-	</image>
-	
-		<image overflow="visible" enable-background="new    " width="48" height="23" xlink:href="95864830E4EB9537.jpg"  transform="matrix(0.5952 0 0 0.9474 153.4985 324.9707)">
-	</image>
-	
-		<image overflow="visible" enable-background="new    " width="48" height="23" xlink:href="95864830E4EB9536.jpg"  transform="matrix(0.5952 0 0 0.9474 193.2422 324.9707)">
-	</image>
-	
-		<image overflow="visible" enable-background="new    " width="48" height="23" xlink:href="95864830E4EB950D.jpg"  transform="matrix(0.5952 0 0 0.9474 234.8867 324.9707)">
-	</image>
-	
-		<image overflow="visible" enable-background="new    " width="48" height="23" xlink:href="95864830E4EB950E.jpg"  transform="matrix(0.5952 0 0 0.9474 270.5703 324.9707)">
-	</image>
-	
-		<image overflow="visible" enable-background="new    " width="48" height="23" xlink:href="95864830E4EB950C.jpg"  transform="matrix(0.5952 0 0 0.9474 151.9624 359.8975)">
-	</image>
-	
-		<image overflow="visible" enable-background="new    " width="48" height="23" xlink:href="95864830E4EB9555.jpg"  transform="matrix(0.5952 0 0 0.9474 191.7061 359.8975)">
-	</image>
-	
-		<image overflow="visible" enable-background="new    " width="48" height="23" xlink:href="95864830E4EB9553.jpg"  transform="matrix(0.5952 0 0 0.9474 233.3506 359.8975)">
-	</image>
-	
-		<image overflow="visible" enable-background="new    " width="48" height="23" xlink:href="95864830E4EB956D.jpg"  transform="matrix(0.5952 0 0 0.9474 269.0352 359.8975)">
-	</image>
+  <image id="pc__" overflow="visible" width="48" height="23" xlink:href="on.jpg"  transform="matrix(0.5952 0 0 0.9474 153.5703 212.7349)" style="desplay:none" />
+  <image id="pc__" overflow="visible" width="48" height="23" xlink:href="on.jpg"  transform="matrix(0.5952 0 0 0.9474 193.314 212.7349)" style="desplay:none" />
+  <image id="pc__" overflow="visible" width="48" height="23" xlink:href="on.jpg"  transform="matrix(0.5952 0 0 0.9474 234.9585 212.7349)" style="desplay:none" />
+  <image id="pc__" overflow="visible" width="48" height="23" xlink:href="on.jpg"  transform="matrix(0.5952 0 0 0.9474 270.6426 212.7349)" style="desplay:none" />
+  <image id="pc__" overflow="visible" width="48" height="23" xlink:href="on.jpg"  transform="matrix(0.5952 0 0 0.9474 153.0347 247.6611)" style="desplay:none" />
+  <image id="pc__" overflow="visible" width="48" height="23" xlink:href="on.jpg"  transform="matrix(0.5952 0 0 0.9474 192.7783 247.6611)" style="desplay:none" />
+  <image id="pc__" overflow="visible" width="48" height="23" xlink:href="on.jpg"  transform="matrix(0.5952 0 0 0.9474 234.4229 247.6611)" style="desplay:none" />
+  <image id="pc__" overflow="visible" width="48" height="23" xlink:href="on.jpg"  transform="matrix(0.5952 0 0 0.9474 270.1074 247.6611)" style="desplay:none" />
+  <image id="pc__" overflow="visible" width="48" height="23" xlink:href="on.jpg"  transform="matrix(0.5952 0 0 0.9474 153.4985 324.9707)" style="desplay:none" />
+  <image id="pc__" overflow="visible" width="48" height="23" xlink:href="on.jpg"  transform="matrix(0.5952 0 0 0.9474 193.2422 324.9707)" style="desplay:none" />
+  <image id="pc__" overflow="visible" width="48" height="23" xlink:href="on.jpg"  transform="matrix(0.5952 0 0 0.9474 234.8867 324.9707)" style="desplay:none" />
+  <image id="pc__" overflow="visible" width="48" height="23" xlink:href="on.jpg"  transform="matrix(0.5952 0 0 0.9474 270.5703 324.9707)" style="desplay:none" />
+  <image id="pc__" overflow="visible" width="48" height="23" xlink:href="on.jpg"  transform="matrix(0.5952 0 0 0.9474 151.9624 359.8975)" style="desplay:none" />
+  <image id="pc__" overflow="visible" width="48" height="23" xlink:href="on.jpg"  transform="matrix(0.5952 0 0 0.9474 191.7061 359.8975)" style="desplay:none" />
+  <image id="pc__" overflow="visible" width="48" height="23" xlink:href="on.jpg"  transform="matrix(0.5952 0 0 0.9474 233.3506 359.8975)" style="desplay:none" />
+  <image id="pc__" overflow="visible" width="48" height="23" xlink:href="on.jpg"  transform="matrix(0.5952 0 0 0.9474 269.0352 359.8975)" style="desplay:none" />
 </g>
+<script xlink:href="http://ajax.googleapis.com/ajax/libs/jquery/1.7.2/jquery.min.js" />
+<script xlink:href="innersvg.js" />
+<script xlink:href="room.js" />
+<script xlink:href="roomT.js" />
 </svg>
