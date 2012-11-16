@@ -21,7 +21,11 @@ if (document.cookie) {
     }
   }
 }
-if (locale == en) room_name = "english_room_name";
+if (locale == en) {
+  room_name = "english_room_name";
+  document.getElementById('japanese_words').style.display = 'none';
+  document.getElementById('english_words').style.display = '';
+}
 if (is_msie) {
   var xdr = new XDomainRequest();
   xdr.onload = function() {
