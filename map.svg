@@ -72,55 +72,129 @@
 <rect x="229.167" y="231.073" fill="#B9C7D5" width="14.204" height="14.281"/>
 <rect x="173.466" y="83.705" fill="#B9C7D5" width="17.956" height="18.148"/>
 </g>
+<g id="歩道" transform="translate(78,74)">
+<polyline fill="none" stroke="#9B9A99" stroke-width="1.9893" stroke-miterlimit="1" points="179.347,288.229 118.24,293.581 
+																						   90.632,311.382 "/>
+<line fill="none" stroke="#9B9A99" stroke-width="1.9893" stroke-miterlimit="1" x1="289.777" y1="365.225" x2="212.052" y2="365.868"/>
+<polyline fill="none" stroke="#9B9A99" stroke-width="2.984" points="219.811,144.156 199.809,144.994 187.89,152.242 
+																	97.831,150.456 "/>
+<polyline fill="none" stroke="#9B9A99" stroke-width="3.4813" points="185.208,154.371 183.596,104.992 201.555,89.774 "/>
+<polyline fill="none" stroke="#9B9A99" stroke-width="1.9893" stroke-miterlimit="1" points="186.05,152.357 184.817,194.986 
+																						   152.395,219.972 "/>
+<line fill="none" stroke="#9B9A99" stroke-width="1.9893" stroke-miterlimit="1" x1="176.246" y1="201.529" x2="198.338" y2="234.641"/>
+<line fill="none" stroke="#9B9A99" stroke-width="1.9893" x1="165.313" y1="345.657" x2="175.329" y2="421.448"/>
+<line fill="none" stroke="#9B9A99" stroke-width="1.9893" stroke-miterlimit="1" x1="154.312" y1="219.005" x2="181.988" y2="261.409"/>
+<polyline fill="none" stroke="#9B9A99" stroke-width="1.9893" stroke-miterlimit="1" points="246.091,419.066 245.819,336.417 
+																						   261.899,336.417 "/>
+<line fill="none" stroke="#9B9A99" stroke-width="3" stroke-linecap="round" stroke-miterlimit="1" x1="171.806" y1="5" x2="171.806" y2="34.446"/>
+<line fill="none" stroke="#9B9A99" stroke-width="3" x1="221.118" y1="177.575" x2="140.444" y2="176.933"/>
+<path fill="none" stroke="#9B9A99" stroke-width="4.9733" stroke-linejoin="round" stroke-miterlimit="1" d="M214.419,522.632
+																										  l-1.073-190.969c0,0-83.353-71.398,7.772-111.852V121.65l-55.747-87.455"/>
+<line fill="none" stroke="#9B9A99" stroke-width="1.9893" x1="197.912" y1="319.538" x2="128.158" y2="376.828"/>
+<polyline fill="none" stroke="#9B9A99" stroke-width="3" stroke-linecap="round" stroke-miterlimit="1" points="48.822,409.6 
+																											 94.251,408.096 123.331,431.855 "/>
+<line fill="none" stroke="#A19790" stroke-width="3" stroke-miterlimit="1" x1="220.047" y1="119.568" x2="250.603" y2="108.569"/>
+<line fill="none" stroke="#A19790" stroke-width="1.9893" stroke-miterlimit="1" x1="145.001" y1="125.813" x2="144.463" y2="150.799"/>
+<line fill="none" stroke="#9B9A99" stroke-width="3" stroke-miterlimit="10" x1="140.176" y1="176.383" x2="65.668" y2="176.383"/>
+<line fill="none" stroke="#9B9A99" stroke-width="3" stroke-miterlimit="1" x1="35.647" y1="116" x2="66.736" y2="176.682"/>
+<line fill="none" stroke="#9B9A99" stroke-width="3" stroke-miterlimit="1" x1="222.729" y1="206.724" x2="287.053" y2="206.129"/>
+<line fill="none" stroke="#9B9A99" stroke-width="3" stroke-linecap="round" stroke-miterlimit="3" x1="152.545" y1="418.175" x2="93.865" y2="448.928"/>
+<line fill="none" stroke="#9B9A99" stroke-width="3.9786" stroke-linecap="round" stroke-miterlimit="1" x1="303.137" y1="21.704" x2="271.528" y2="44.807"/>
+<line fill="none" stroke="#9B9A99" stroke-width="3.9786" stroke-linecap="round" stroke-miterlimit="1" x1="60.537" y1="6.187" x2="68.309" y2="31.222"/>
+<polyline fill="none" stroke="#9B9A99" stroke-width="2.4866" stroke-miterlimit="1" points="109.396,273.31 111.356,270.026 
+																						   115.991,259.479 110.947,249.602 "/>
+<polyline fill="none" stroke="#9B9A99" stroke-width="2.0185" stroke-linecap="round" points="98.981,176.897 112.562,219.743 
+																							93.812,229.282 "/>
+<line fill="none" stroke="#9B9A99" stroke-width="2.4866" stroke-miterlimit="1" x1="98.14" y1="257.841" x2="157.368" y2="353.922"/>
+<polyline fill="none" stroke="#9B9A99" stroke-width="3" stroke-linecap="round" stroke-linejoin="round" points="147.684,563.679 
+																											   289.199,480.39 289.466,420.85 289.466,74.603 265.077,34.446 67.273,32.664 10.991,71.035 35.915,116.55 "/>
+<polyline fill="none" stroke="#9B9A99" stroke-width="2.4866" stroke-miterlimit="1" points="139.642,175.443 138.84,192.993 
+																						   153.847,217.685 72.905,278.961 "/>
+<polyline fill="none" stroke="#9B9A99" stroke-width="3.9786" stroke-linecap="round" stroke-linejoin="bevel" points="
+																													287.096,421.495 155.493,421.448 64.097,269.487 22.285,266.808 "/>
+<line fill="none" stroke="#9B9A99" stroke-width="3" stroke-linecap="round" stroke-miterlimit="1" x1="285.754" y1="94.534" x2="249.033" y2="108.569"/>
+<polyline fill="none" stroke="#9B9A99" stroke-width="1.9893" stroke-linecap="round" stroke-linejoin="round" stroke-miterlimit="1" points="
+																																		  123.022,126.411 143.393,126.411 156.26,113.919 178.021,104.789 128.652,31.769 "/>
+<line fill="none" stroke="#9B9A99" stroke-width="2.4866" stroke-miterlimit="1" x1="122.673" y1="238.402" x2="110.497" y2="218.245"/>
+<path opacity="0.8" fill="#9B9A99" stroke="#9B9A99" stroke-width="0.6578" enable-background="new    " d="M282.241,468.109
+																										 c0,1.367-0.974,2.479-2.171,2.479h-55.841c-1.205,0-2.179-1.112-2.179-2.479V430.92c0-1.372,0.974-2.481,2.179-2.481h55.841
+																										 c1.197,0,2.171,1.109,2.171,2.481V468.109z"/>
+<path opacity="0.8" fill="#9B9A99" stroke="#9B9A99" stroke-width="0.6578" enable-background="new    " d="M159.779,484.554
+																										 c0,12.815-11.518,23.204-25.726,23.204c-14.209,0-25.734-10.389-25.734-23.204c0-12.812,11.523-23.206,25.734-23.206
+																										 C148.261,461.348,159.779,471.739,159.779,484.554z"/>
+</g>
+<g id="japanese_words" transform="translate(75,75)">
 
-<g id="歩道">
-<polyline fill="none" stroke="#9B806A" stroke-width="1.9893" stroke-miterlimit="1" points="257.347,362.305 196.24,367.656 168.632,385.457 "/>
-<line fill="none" stroke="#9B806A" stroke-width="1.9893" stroke-miterlimit="1" x1="367.778" y1="439.299" x2="290.052" y2="439.943"/>
-<polyline fill="none" stroke="#9B806A" stroke-width="2.984" points="297.811,218.231 277.809,219.069 265.89,226.317 175.831,224.531"/>
-<polyline fill="none" stroke="#9B806A" stroke-width="3.4813" points="263.208,228.446 261.596,179.067 279.555,163.849"/>
-<polyline fill="none" stroke="#9B806A" stroke-width="1.9893" stroke-miterlimit="1" points="264.05,226.432 262.818,269.061 230.395,294.047"/>
-<line fill="none" stroke="#9B806A" stroke-width="1.9893" stroke-miterlimit="1" x1="254.246" y1="275.604" x2="276.338" y2="308.716"/>
-<line fill="none" stroke="#9B806A" stroke-width="1.9893" x1="243.314" y1="419.732" x2="253.329" y2="495.523"/>
-<line fill="none" stroke="#9B806A" stroke-width="1.9893" stroke-miterlimit="1" x1="232.313" y1="293.08" x2="259.989" y2="335.484"/>
-<polyline fill="none" stroke="#9B806A" stroke-width="1.9893" stroke-miterlimit="1" points="324.091,493.143 323.82,410.492 339.9,410.492"/>
-<line fill="none" stroke="#9B806A" stroke-width="1.9893" stroke-linecap="round" stroke-miterlimit="1" x1="249.806" y1="79.075" x2="249.806" y2="108.521"/>
-<line fill="none" stroke="#9B806A" stroke-width="1.9893" x1="299.119" y1="251.65" x2="218.445" y2="251.008"/>
-<path fill="none" stroke="#9B806A" stroke-width="4.9733" stroke-linejoin="round" stroke-miterlimit="1" d="M292.419,596.707 l-1.074-190.968c0,0-83.352-71.399,7.774-111.852v-98.162l-55.748-87.455"/>
-<line fill="none" stroke="#9B806A" stroke-width="1.9893" x1="275.912" y1="393.613" x2="206.158" y2="450.903"/>
-<polyline fill="none" stroke="#9B806A" stroke-width="1.9893" stroke-linecap="round" stroke-miterlimit="1" points="126.823,483.674 172.251,482.171 201.331,505.931"/>
-<line fill="none" stroke="#A29790" stroke-width="1.9893" stroke-miterlimit="1" x1="298.047" y1="193.643" x2="328.603" y2="182.644"/>
-<line fill="none" stroke="#A29790" stroke-width="1.9893" stroke-miterlimit="1" x1="223.001" y1="199.888" x2="222.463" y2="224.874"/>
-<line fill="none" stroke="#A29790" stroke-width="1.9893" stroke-linecap="round" x1="218.176" y1="250.458" x2="143.668" y2="250.458"/>
-<line fill="none" stroke="#A29790" stroke-width="1.9893" stroke-miterlimit="1" x1="113.648" y1="190.075" x2="144.737" y2="250.757"/>
-<line fill="none" stroke="#9B9A98" stroke-width="1.9893" stroke-miterlimit="1" x1="300.729" y1="280.799" x2="365.053" y2="280.204"/>
-<line fill="none" stroke="#9B9A98" stroke-width="1.9893" stroke-linecap="round" stroke-miterlimit="3" x1="230.545" y1="492.25" x2="171.865" y2="523.003"/>
-<line fill="none" stroke="#9B9A98" stroke-width="3.9786" stroke-linecap="round" stroke-miterlimit="1" x1="381.137" y1="95.779" x2="349.529" y2="118.882"/>
-<line fill="none" stroke="#9B9A98" stroke-width="3.9786" stroke-linecap="round" stroke-miterlimit="1" x1="138.537" y1="80.262" x2="146.309" y2="105.297"/>
-<polyline fill="none" stroke="#9B9A98" stroke-width="2.4866" stroke-miterlimit="1" points="187.397,347.385 189.357,344.102 193.991,333.555 188.948,323.677 "/>
-<polyline fill="none" stroke="#9B9A98" stroke-width="2.0185" stroke-linecap="round" points="176.982,250.972 190.563,293.818 171.812,303.357 "/>
-<line fill="none" stroke="#9B9A98" stroke-width="2.4866" stroke-miterlimit="1" x1="176.14" y1="331.916" x2="235.368" y2="427.997"/>
-<polyline fill="none" stroke="#9B9A98" stroke-width="3.9786" stroke-linecap="round" stroke-linejoin="round" points="225.684,637.754 367.2,554.465 367.466,494.925 367.466,148.678 343.078,108.521 145.274,106.739 88.991,145.11 113.915,190.625 "/>
-<polyline fill="none" stroke="#9B9A98" stroke-width="2.4866" stroke-miterlimit="1" points="217.642,249.518 216.84,267.068 231.847,291.76 150.906,353.036 "/>
-<polyline fill="none" stroke="#9B9A98" stroke-width="3.9786" stroke-linecap="round" stroke-linejoin="bevel" points="365.096,495.57 233.493,495.523 142.097,343.562 100.285,340.883 "/>
-<line fill="none" stroke="#9B9A98" stroke-width="2.984" stroke-linecap="round" stroke-miterlimit="1" x1="363.754" y1="168.609" x2="327.034" y2="182.644"/>
-<polyline fill="none" stroke="#9B9A98" stroke-width="1.9893" stroke-linecap="round" stroke-linejoin="round" stroke-miterlimit="1" points="201.023,200.486 221.393,200.486 234.26,187.994 256.022,178.864 206.653,105.844 "/>
-<line fill="none" stroke="#9B9A98" stroke-width="2.4866" stroke-miterlimit="1" x1="200.673" y1="312.477" x2="188.497" y2="292.32"/>
+<text transform="matrix(0.7191 0 0 1 230.2126 315.8945)" fill="#FFFFFF" stroke="#FFFFFF" stroke-width="4" stroke-linecap="round" stroke-linejoin="round" font-family="'KozGoPro-Bold-83pv-RKSJ-H'" font-size="12.5008">経済学部</text>
+<text transform="matrix(0.875 0 0 1 23.5906 105.9131)"><tspan x="0" y="0" fill="#FFFFFF" stroke="#FFFFFF" stroke-width="4" stroke-linecap="round" stroke-linejoin="round" font-family="'KozGoPro-Bold-83pv-RKSJ-H'" font-size="12.5008">環境情報</tspan><tspan x="6.25" y="15.626" fill="#FFFFFF" stroke="#FFFFFF" stroke-width="4" stroke-linecap="round" stroke-linejoin="round" font-family="'KozGoPro-Bold-83pv-RKSJ-H'" font-size="12.5008">研究院</tspan></text>
+<text transform="matrix(0.7706 0 0 1 122.3562 347.458)" fill="#FFFFFF" stroke="#FFFFFF" stroke-width="4" stroke-linecap="round" stroke-linejoin="round" font-family="'KozGoPro-Bold-83pv-RKSJ-H'" font-size="12.1831">教育人間科学部</text>
+<text transform="matrix(0.8913 0 0 1 198.324 403.3262)"><tspan x="0" y="0" fill="#FFFFFF" stroke="#FFFFFF" stroke-width="4" stroke-linecap="round" stroke-linejoin="round" font-family="'KozGoPro-Bold-83pv-RKSJ-H'" font-size="9.3756">国際社会科学</tspan><tspan x="28.127" y="9.376" fill="#FFFFFF" stroke="#FFFFFF" stroke-width="4" stroke-linecap="round" stroke-linejoin="round" font-family="'KozGoPro-Bold-83pv-RKSJ-H'" font-size="9.3756">研究科</tspan></text>
+<text transform="matrix(1.0205 0 0 1 196.4656 374.1406)" fill="#FFFFFF" stroke="#FFFFFF" stroke-width="4" stroke-linecap="round" stroke-linejoin="round" font-family="'KozGoPro-Bold-83pv-RKSJ-H'" font-size="12.5008">経営学部</text>
+<text transform="matrix(0.832 0 0 1 170.8953 74.3906)" fill="#FFFFFF" stroke="#FFFFFF" stroke-width="4" stroke-linecap="round" stroke-linejoin="round" font-family="'KozGoPro-Bold-83pv-RKSJ-H'" font-size="12.5008">工学研究院等</text>
+<text transform="matrix(0.7191 0 0 1 230.2126 315.8945)" fill="#49308E" font-family="'KozGoPro-Bold-83pv-RKSJ-H'" font-size="12.5008">経済学部</text>
+<text transform="matrix(0.875 0 0 1 23.5906 105.6807)"><tspan x="0" y="0" fill="#49308E" font-family="'KozGoPro-Bold-83pv-RKSJ-H'" font-size="12.5008">環境情報</tspan><tspan x="6.25" y="15.626" fill="#49308E" font-family="'KozGoPro-Bold-83pv-RKSJ-H'" font-size="12.5008">研究院</tspan></text>
+<text transform="matrix(0.7706 0 0 1 122.3562 347.458)" fill="#49308E" font-family="'KozGoPro-Bold-83pv-RKSJ-H'" font-size="12.1831">教育人間科学部</text>
+<text transform="matrix(0.8913 0 0 1 198.324 403.3262)"><tspan x="0" y="0" fill="#49308E" font-family="'KozGoPro-Bold-83pv-RKSJ-H'" font-size="9.3756">国際社会科学</tspan><tspan x="28.127" y="9.376" fill="#49308E" font-family="'KozGoPro-Bold-83pv-RKSJ-H'" font-size="9.3756">研究科</tspan></text>
+<text transform="matrix(1.0205 0 0 1 196.4656 374.1406)" fill="#49308E" font-family="'KozGoPro-Bold-83pv-RKSJ-H'" font-size="12.5008">経営学部</text>
+<text transform="matrix(0.8179 0 0 1 170.9568 74.5762)" fill="#49308E" font-family="'KozGoPro-Bold-83pv-RKSJ-H'" font-size="12.5008">工学研究院等</text>
+
+<text transform="matrix(1 0 0 1 31.405 34.9648)" fill="#FFFFFF" stroke="#FFFFFF" stroke-width="4" stroke-linecap="round" stroke-linejoin="round" font-family="'KozGoPro-Bold-83pv-RKSJ-H'" font-size="12.5008">西門</text>
+<text transform="matrix(1 0 0 1 31.405 34.9648)" fill="#FC0B29" font-family="'KozGoPr6N-Regular-83pv-RKSJ-H'" font-size="12">西門</text>
+<text transform="matrix(1 0 0 1 234.6726 27.2256)" fill="#FFFFFF" stroke="#FFFFFF" stroke-width="4" stroke-linecap="round" stroke-linejoin="round" font-family="'KozGoPro-Bold-83pv-RKSJ-H'" font-size="12.5008">北門</text>
+<text transform="matrix(1 0 0 1 234.6726 27.2256)" fill="#FC0B29" font-family="'KozGoPr6N-Regular-83pv-RKSJ-H'" font-size="12">北門</text>
+<text transform="matrix(1 0 0 1 26.405 286.9648)" fill="#FFFFFF" stroke="#FFFFFF" stroke-width="4" stroke-linecap="round" stroke-linejoin="round" font-family="'KozGoPro-Bold-83pv-RKSJ-H'" font-size="12.5008">南門</text>
+<text transform="matrix(1 0 0 1 26.405 286.9648)" fill="#FC0B29" font-family="'KozGoPr6N-Regular-83pv-RKSJ-H'" font-size="12">南門</text>
+<text transform="matrix(1 0 0 1 20.405 399.9648" fill="#FFFFFF" stroke="#FFFFFF" stroke-width="4" stroke-linecap="round" stroke-linejoin="round" font-family="'KozGoPro-Bold-83pv-RKSJ-H'" font-size="12.5008">南通用門</text>
+<text transform="matrix(1 0 0 1 20.405 399.9648)" fill="#FC0B29" font-family="'KozGoPr6N-Regular-83pv-RKSJ-H'" font-size="12">南通用門</text>
+<text transform="matrix(1 0 0 1 179.405 523.9648)" fill="#FFFFFF" stroke="#FFFFFF" stroke-width="4" stroke-linecap="round" stroke-linejoin="round" font-family="'KozGoPro-Bold-83pv-RKSJ-H'" font-size="12.5008">正門</text>
+<text transform="matrix(1 0 0 1 179.405 523.9648)" fill="#FC0B29" font-family="'KozGoPr6N-Regular-83pv-RKSJ-H'" font-size="12">正門</text>
+<text transform="matrix(1.0667 0 0 1 124.405 448.2607)" fill="#FFFFFF" stroke="#FFFFFF" stroke-width="4" stroke-linecap="round" stroke-linejoin="round" font-family="'KozGoPro-Bold-83pv-RKSJ-H'" font-size="12.5008">大学会館</text>
+<text transform="matrix(1.0667 0 0 1 124.405 448.2607)" font-family="'KozGoPr6N-Regular-83pv-RKSJ-H'" font-size="11.25">大学会館</text>
+<text transform="matrix(1 0 0 1 264.405 27.9648)" fill="#FFFFFF" stroke="#FFFFFF" stroke-width="4" stroke-linecap="round" stroke-linejoin="round" font-family="'KozGoPro-Bold-83pv-RKSJ-H'" font-size="12.5008">第二食堂</text>
+<text transform="matrix(1 0 0 1 69.405 22.9648)" font-family="'KozGoPr6N-Regular-83pv-RKSJ-H'" font-size="12">第二食堂</text>
+<text transform="matrix(1 0 0 1 161.405 433.9648)" fill="#FFFFFF" stroke="#FFFFFF" stroke-width="4" stroke-linecap="round" stroke-linejoin="round" font-family="'KozGoPro-Bold-83pv-RKSJ-H'" font-size="12.5008">第一食堂</text>
+<text transform="matrix(1 0 0 1 161.405 433.9648)" font-family="'KozGoPr6N-Regular-83pv-RKSJ-H'" font-size="12">第一食堂</text>
+<text transform="matrix(1 0 0 1 127.405 23.9648)" fill="#FFFFFF" stroke="#FFFFFF" stroke-width="4" stroke-linecap="round" stroke-linejoin="round" font-family="'KozGoPro-Bold-83pv-RKSJ-H'" font-size="12.5008">ローソン</text>
+<text transform="matrix(1 0 0 1 127.405 23.9648)" font-family="'KozGoPr6N-Regular-83pv-RKSJ-H'" font-size="12">ローソン</text>
+
+
 </g>
 
-<g id="エリア名">
-  <text transform="matrix(0.901 0 0 1 282.176 409.8535)" fill="#FFFFFF" stroke="#FFFFFF" stroke-width="4" stroke-linecap="round" stroke-linejoin="round" font-family="'KozGoPro-Bold-83pv-RKSJ-H'" font-size="12.5008">経済学部</text>
-  <text transform="matrix(0.901 0 0 1 115.7395 183.3994)"><tspan x="0" y="0" fill="#FFFFFF" stroke="#FFFFFF" stroke-width="4" stroke-linecap="round" stroke-linejoin="round" font-family="'KozGoPro-Bold-83pv-RKSJ-H'" font-size="12.5008">環境情報</tspan><tspan x="6.25" y="15.626" fill="#FFFFFF" stroke="#FFFFFF" stroke-width="4" stroke-linecap="round" stroke-linejoin="round" font-family="'KozGoPro-Bold-83pv-RKSJ-H'" font-size="12.5008">研究院</tspan></text>
-  <text transform="matrix(0.901 0 0 1 201.9827 418.9443)" fill="#FFFFFF" stroke="#FFFFFF" stroke-width="4" stroke-linecap="round" stroke-linejoin="round" font-family="'KozGoPro-Bold-83pv-RKSJ-H'" font-size="12.1831">教育人間科学部</text>
-  <text transform="matrix(0.901 0 0 1 323.7502 478.2686)"><tspan x="0" y="0" fill="#FFFFFF" stroke="#FFFFFF" stroke-width="4" stroke-linecap="round" stroke-linejoin="round" font-family="'KozGoPro-Bold-83pv-RKSJ-H'" font-size="9.3756">国際社会科学</tspan><tspan x="28.127" y="9.376" fill="#FFFFFF" stroke="#FFFFFF" stroke-width="4" stroke-linecap="round" stroke-linejoin="round" font-family="'KozGoPro-Bold-83pv-RKSJ-H'" font-size="9.3756">研究科</tspan></text>
-  <text transform="matrix(0.901 0 0 1 295.177 457.417)" fill="#FFFFFF" stroke="#FFFFFF" stroke-width="4" stroke-linecap="round" stroke-linejoin="round" font-family="'KozGoPro-Bold-83pv-RKSJ-H'" font-size="12.5008">経営学部</text>
-  <text transform="matrix(0.901 0 0 1 239.6311 135.7129)" fill="#FFFFFF" stroke="#FFFFFF" stroke-width="4" stroke-linecap="round" stroke-linejoin="round" font-family="'KozGoPro-Bold-83pv-RKSJ-H'" font-size="12.5008">工学研究院等</text>
-  <text transform="matrix(0.901 0 0 1 280.217 409.4707)" fill="#49308E" font-family="'KozGoPro-Bold-83pv-RKSJ-H'" font-size="12.5008">経済学部</text>
-  <text transform="matrix(0.901 0 0 1 115.7395 183.3994)"><tspan x="0" y="0" fill="#49308E" font-family="'KozGoPro-Bold-83pv-RKSJ-H'" font-size="12.5008">環境情報</tspan><tspan x="6.25" y="15.626" fill="#49308E" font-family="'KozGoPro-Bold-83pv-RKSJ-H'" font-size="12.5008">研究院</tspan></text>
-  <text transform="matrix(0.901 0 0 1 201.9827 418.9443)" fill="#49308E" font-family="'KozGoPro-Bold-83pv-RKSJ-H'" font-size="12.1831">教育人間科学部</text>
-  <text transform="matrix(0.901 0 0 1 323.7502 478.2686)"><tspan x="0" y="0" fill="#49308E" font-family="'KozGoPro-Bold-83pv-RKSJ-H'" font-size="9.3756">国際社会科学</tspan><tspan x="28.127" y="9.376" fill="#49308E" font-family="'KozGoPro-Bold-83pv-RKSJ-H'" font-size="9.3756">研究科</tspan></text>
-  <text transform="matrix(0.901 0 0 1 295.177 457.417)" fill="#49308E" font-family="'KozGoPro-Bold-83pv-RKSJ-H'" font-size="12.5008">経営学部</text>
-  <text transform="matrix(0.901 0 0 1 240.0002 135.7129)" fill="#49308E" font-family="'KozGoPro-Bold-83pv-RKSJ-H'" font-size="12.5008">工学研究院等</text>
+<g id="english_words" transform="translate(75,75)" style="display:none">
+
+<text transform="matrix(0.7191 0 0 1 190.2126 315.8945)" fill="#FFFFFF" stroke="#FFFFFF" stroke-width="4" stroke-linecap="round" stroke-linejoin="round" font-family="'KozGoPro-Bold-83pv-RKSJ-H'" font-size="13.7928">College of Economics</text>
+<text transform="matrix(0.7191 0 0 1 190.2126 315.8945)" fill="#49308E" font-family="'KozGoPro-Bold-83pv-RKSJ-H'" font-size="13.7928">College of Economics</text>
+<text transform="matrix(0.7706 0 0 1 122.3562 347.458)"><tspan x="0" y="0" fill="#FFFFFF" stroke="#FFFFFF" stroke-width="4" stroke-linecap="round" stroke-linejoin="round" font-family="'KozGoPro-Bold-83pv-RKSJ-H'" font-size="12.9027">College of Education </tspan><tspan x="0" y="12.567" fill="#FFFFFF" stroke="#FFFFFF" stroke-width="4" stroke-linecap="round" stroke-linejoin="round" font-family="'KozGoPro-Bold-83pv-RKSJ-H'" font-size="12.9027">and Human Science</tspan></text><text transform="matrix(0.7706 0 0 1 122.3562 347.458)"><tspan x="0" y="0" fill="#49308E" font-family="'KozGoPro-Bold-83pv-RKSJ-H'" font-size="12.9027">College of Education </tspan><tspan x="0" y="12.567" fill="#49308E" font-family="'KozGoPro-Bold-83pv-RKSJ-H'" font-size="12.9027">and Human Science</tspan></text>
+<text transform="matrix(1.0205 0 0 1 190.4656 374.1406)"><tspan x="0" y="0" fill="#FFFFFF" stroke="#FFFFFF" stroke-width="4" stroke-linecap="round" stroke-linejoin="round" font-family="'KozGoPro-Bold-83pv-RKSJ-H'" font-size="10.3964">College of Business </tspan><tspan x="0" y="10.132" fill="#FFFFFF" stroke="#FFFFFF" stroke-width="4" stroke-linecap="round" stroke-linejoin="round" font-family="'KozGoPro-Bold-83pv-RKSJ-H'" font-size="10.3964">Administration</tspan></text>
+<text transform="matrix(1.0205 0 0 1 190.4656 374.1406)"><tspan x="0" y="0" fill="#49308E" font-family="'KozGoPro-Bold-83pv-RKSJ-H'" font-size="10.3964">College of Business </tspan><tspan x="0" y="10.132" fill="#49308E" font-family="'KozGoPro-Bold-83pv-RKSJ-H'" font-size="10.3964">Administration</tspan></text>
+<text transform="matrix(0.8913 0 0 1 198.324 403.3262)"><tspan x="0" y="0" fill="#FFFFFF" stroke="#FFFFFF" stroke-width="4" stroke-linecap="round" stroke-linejoin="round" font-family="'KozGoPro-Bold-83pv-RKSJ-H'" font-size="10.5786">International Graduate </tspan><tspan x="-0.518" y="10.578" fill="#FFFFFF" stroke="#FFFFFF" stroke-width="4" stroke-linecap="round" stroke-linejoin="round" font-family="'KozGoPro-Bold-83pv-RKSJ-H'" font-size="10.5786">School of Social Science</tspan></text>
+<text transform="matrix(0.8913 0 0 1 198.324 403.3262)"><tspan x="0" y="0" fill="#49308E" font-family="'KozGoPro-Bold-83pv-RKSJ-H'" font-size="10.5786">International Graduate </tspan><tspan x="-0.518" y="10.578" fill="#49308E" font-family="'KozGoPro-Bold-83pv-RKSJ-H'" font-size="10.5786">School of Social Science</tspan></text>
+<text transform="matrix(0.832 0 0 1 170.8953 74.3906)" fill="#FFFFFF" stroke="#FFFFFF" stroke-width="4" stroke-linecap="round" stroke-linejoin="round" font-family="'KozGoPro-Bold-83pv-RKSJ-H'" font-size="12.2418">Faculty of Eng.</text>
+<text transform="matrix(0.8179 0 0 1 170.9568 74.5762)" fill="#49308E" font-family="'KozGoPro-Bold-83pv-RKSJ-H'" font-size="12.4538">Faculty of Eng.</text>
+<text transform="matrix(0.875 0 0 1 23.5906 105.9131)"><tspan x="0" y="0" fill="#FFFFFF" stroke="#FFFFFF" stroke-width="4" stroke-linecap="round" stroke-linejoin="round" font-family="'KozGoPro-Bold-83pv-RKSJ-H'" font-size="11.761">Faculty of </tspan><tspan x="0" y="14.701" fill="#FFFFFF" stroke="#FFFFFF" stroke-width="4" stroke-linecap="round" stroke-linejoin="round" font-family="'KozGoPro-Bold-83pv-RKSJ-H'" font-size="11.761">Environment and </tspan><tspan x="0" y="29.402" fill="#FFFFFF" stroke="#FFFFFF" stroke-width="4" stroke-linecap="round" stroke-linejoin="round" font-family="'KozGoPro-Bold-83pv-RKSJ-H'" font-size="11.761">Information Science</tspan></text>
+<text transform="matrix(0.875 0 0 1 23.5906 105.6807)"><tspan x="0" y="0" fill="#49308E" font-family="'KozGoPro-Bold-83pv-RKSJ-H'" font-size="11.761">Faculty of </tspan><tspan x="0" y="14.701" fill="#49308E" font-family="'KozGoPro-Bold-83pv-RKSJ-H'" font-size="11.761">Environment and </tspan><tspan x="0" y="29.402" fill="#49308E" font-family="'KozGoPro-Bold-83pv-RKSJ-H'" font-size="11.761">Information Science</tspan></text>
+
+<text transform="matrix(1 0 0 1 15.405 34.9648)" fill="#FFFFFF" stroke="#FFFFFF" stroke-width="4" stroke-linecap="round" stroke-linejoin="round" font-family="'KozGoPro-Bold-83pv-RKSJ-H'" font-size="12.5008">West Gate</text>
+<text transform="matrix(1 0 0 1 15.405 35.9648)" fill="#FC0B29" font-family="'KozGoPr6N-Regular-83pv-RKSJ-H'" font-size="12">West Gate</text>
+<text transform="matrix(1 0 0 1 234.6726 27.2256)" fill="#FFFFFF" stroke="#FFFFFF" stroke-width="4" stroke-linecap="round" stroke-linejoin="round" font-family="'KozGoPro-Bold-83pv-RKSJ-H'" font-size="12.5008">North Gate</text>
+<text transform="matrix(1 0 0 1 234.6726 27.2256)" fill="#FC0B29" font-family="'KozGoPr6N-Regular-83pv-RKSJ-H'" font-size="12">North Gate</text>
+<text transform="matrix(1 0 0 1 13.405 260.9648)" fill="#FFFFFF" stroke="#FFFFFF" stroke-width="4" stroke-linecap="round" stroke-linejoin="round" font-family="'KozGoPro-Bold-83pv-RKSJ-H'" font-size="12.5008">South Gate</text>
+<text transform="matrix(1 0 0 1 13.405 260.9648)" fill="#FC0B29" font-family="'KozGoPr6N-Regular-83pv-RKSJ-H'" font-size="12">South Gate</text>
+<text transform="matrix(1 0 0 1 9.405 402.9648)" fill="#FFFFFF" stroke="#FFFFFF" stroke-width="4" stroke-linecap="round" stroke-linejoin="round" font-family="'KozGoPro-Bold-83pv-RKSJ-H'" font-size="12.5008">South Side Gate</text>
+<text transform="matrix(1 0 0 1 9.405 402.9648)" fill="#FC0B29" font-family="'KozGoPr6N-Regular-83pv-RKSJ-H'" font-size="12">South Side Gate</text>
+<text transform="matrix(1 0 0 1 150.405 524.9648)" fill="#FFFFFF" stroke="#FFFFFF" stroke-width="4" stroke-linecap="round" stroke-linejoin="round" font-family="'KozGoPro-Bold-83pv-RKSJ-H'" font-size="12.5008">Front Gate</text>
+<text transform="matrix(1 0 0 1 150.405 524.9648)" fill="#FC0B29" font-family="'KozGoPr6N-Regular-83pv-RKSJ-H'" font-size="12">Front Gate</text>
+<text transform="matrix(1.0667 0 0 1 124.405 448.2607)"><tspan fill="#FFFFFF" stroke="#FFFFFF" stroke-width="4" stroke-linecap="round" stroke-linejoin="round" font-family="'KozGoPro-Bold-83pv-RKSJ-H'" font-size="11.25">Univeisity</tspan><tspan x="0" y="13.5" fill="#FFFFFF" stroke="#FFFFFF" stroke-width="4" stroke-linecap="round" stroke-linejoin="round" font-family="'KozGoPro-Bold-83pv-RKSJ-H'" font-size="11.761">Hall</tspan></text>
+<text transform="matrix(1.0667 0 0 1 124.405 448.2607)"><tspan x="0" y="0" font-family="'KozGoPr6N-Regular-83pv-RKSJ-H'" font-size="11.25">Univeisity</tspan><tspan x="0" y="13.5" font-family="'KozGoPr6N-Regular-83pv-RKSJ-H'" font-size="11.25">Hall</tspan></text>
+<text transform="matrix(1 0 0 1 56.405 21.9648)" fill="#FFFFFF" stroke="#FFFFFF" stroke-width="4" stroke-linecap="round" stroke-linejoin="round" font-family="'KozGoPro-Bold-83pv-RKSJ-H'" font-size="12.5008">Cafeteria II</text>
+<text transform="matrix(1 0 0 1 56.405 21.9648)" font-family="'KozGoPr6N-Regular-83pv-RKSJ-H'" font-size="12">Cafeteria II</text>
+<text transform="matrix(1 0 0 1 156.405 433.9648)" fill="#FFFFFF" stroke="#FFFFFF" stroke-width="4" stroke-linecap="round" stroke-linejoin="round" font-family="'KozGoPro-Bold-83pv-RKSJ-H'" font-size="12.5008">Cafeteria I</text>
+<text transform="matrix(1 0 0 1 156.405 433.9648)" font-family="'KozGoPr6N-Regular-83pv-RKSJ-H'" font-size="12">Cafeteria I</text>
+<text transform="matrix(1 0 0 1 124.405 20.9648)" fill="#FFFFFF" stroke="#FFFFFF" stroke-width="4" stroke-linecap="round" stroke-linejoin="round" font-family="'KozGoPro-Bold-83pv-RKSJ-H'" font-size="12.5008">LAWSON</text>
+<text transform="matrix(1 0 0 1 124.405 20.9648)" font-family="'KozGoPr6N-Regular-83pv-RKSJ-H'" font-size="12">LAWSON</text>
+
 </g>
+
 
 <defs>
   <desc>style for dialogbox</desc>
@@ -275,7 +349,7 @@
   </g>
 </g>
 
-<g id="roomG" transform="translate(160,120)" style="display:none">
+<g id="roomG" transform="translate(160,333)" style="display:none">
   <use xlink:href="#bgbox" />
   <a onclick="hide_id('G')"><use xlink:href="#closeicon" /></a>
   <a xlink:href="G.svg"><text id="G_room_name" class="roomname" x="5" y="16" /></a>
@@ -320,7 +394,7 @@
   <a xlink:href="R.svg"><text id="R_more" class="more" x="200" y="52" /></a>
 </g>
 
-<g id="roomI" transform="translate(20,200)" style="display:none">
+<g id="roomI" transform="translate(20,333)" style="display:none">
   <use xlink:href="#bgbox" />
   <a onclick="hide_id('I')"><use xlink:href="#closeicon" /></a>
   <a xlink:href="I.svg"><text id="I_room_name" class="roomname" x="5" y="16" /></a>
@@ -338,7 +412,7 @@
   <a xlink:href="O.svg"><text id="O_more" class="more" x="200" y="52" /></a>
 </g>
 
-<g id="roomH" transform="translate(160,340)" style="display:none">
+<g id="roomH" transform="translate(160,333)" style="display:none">
   <use xlink:href="#bgbox" />
   <a onclick="hide_id('H')"><use xlink:href="#closeicon" /></a>
   <a xlink:href="H.svg"><text id="H_room_name" class="roomname" x="5" y="16" /></a>
@@ -349,5 +423,5 @@
 
 <script xlink:href="http://ajax.googleapis.com/ajax/libs/jquery/1.7.2/jquery.min.js"/>
 <script xlink:href="innersvg.js"/>
-<script xlink:href="map_script.js"/>
+<script xlink:href="map.js"/>
 </svg>
