@@ -6,7 +6,7 @@
 
 <g id="レイヤー_1_1_">
   <rect x="175.065" y="26.753" fill="none" width="129.87" height="22.728"/>
-  <text transform="matrix(1 0 0 1 175.0654 42.5938)" font-family="'KozGoPr6N-Regular-83pv-RKSJ-H'" font-size="18" id="room_id"></text>
+  <text transform="matrix(1 0 0 1 175.0654 42.5938)" font-family="'KozGoPr6N-Regular-83pv-RKSJ-H'" font-size="18" id="room_id"/>
   <rect x="340.351" y="569.065" fill="#FFFFFF" stroke="#000000" stroke-miterlimit="10" width="80.521" height="80.143"/>
   <rect x="277.014" y="590.818" fill="none" width="55.845" height="13.637"/>
   <text transform="matrix(1 0 0 1 277.0137 615.1387)" font-family="'KozGoPr6N-Regular-83pv-RKSJ-H'" font-size="14" id="work_0">１０６</text>
@@ -55,5 +55,4 @@
 <script xlink:href="http://ajax.googleapis.com/ajax/libs/jquery/1.7.2/jquery.min.js"/>
 <script xlink:href="innersvg.js"/>
 <script xlink:href="room.js"/>
-<script xlink:href="roomT.js"/>
 </svg>

@@ -9,9 +9,12 @@
 <rect x="62.429" y="91.688" fill="none" stroke="#000000" stroke-width="3" stroke-miterlimit="10" width="366.233" height="507.792"/>
 <rect x="53.987" y="529.351" fill="#FFFFFF" stroke="#FFFFFF" stroke-miterlimit="10" width="16.883" height="40.261"/>
 <rect x="93.403" y="549.48" fill="none" width="31.168" height="18.182"/>
-
-<text transform="matrix(1 0 0 1 93.4033 561.8008)" font-family="'KozGoPr6N-Regular-83pv-RKSJ-H'" font-size="14" id="word_0">入口</text>
-
+<g id="japanese_words">
+  <text transform="matrix(1 0 0 1 93.4033 561.8008)" font-family="'KozGoPr6N-Regular-83pv-RKSJ-H'" font-size="14" id="word_0">入口</text>
+</g>
+<g id="english_words" style="display:none">
+  <text transform="matrix(1 0 0 1 93.4033 561.8008)" font-family="'KozGoPr6N-Regular-83pv-RKSJ-H'" font-size="14" id="word_0">Entrance</text>
+</g>
 <g id="on">
   <image id="pc_1_on" overflow="visible" width="51" height="26" xlink:href="on.jpg"  transform="matrix(0.55 0 0 0.8889 365.2881 111.8057)" style="display:none" />
   <image id="pc_2_on" overflow="visible" width="51" height="26" xlink:href="on.jpg"  transform="matrix(0.55 0 0 0.8889 365.2852 148.9688)" style="display:none" />
@@ -45,5 +48,4 @@
 <script xlink:href="http://ajax.googleapis.com/ajax/libs/jquery/1.7.2/jquery.min.js"/>
 <script xlink:href="innersvg.js"/>
 <script xlink:href="room.js"/>
-<script xlink:href="roomT.js"/>
 </svg>

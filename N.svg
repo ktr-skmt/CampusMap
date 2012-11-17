@@ -238,5 +238,4 @@
 <script xlink:href="http://ajax.googleapis.com/ajax/libs/jquery/1.7.2/jquery.min.js" />
 <script xlink:href="innersvg.js" />
 <script xlink:href="room.js" />
-<script xlink:href="roomT.js" />
 </svg>

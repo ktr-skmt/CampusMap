@@ -7,13 +7,19 @@
   <rect x="167.527" y="20.264" fill="none" width="176.625" height="27.273"/>
   <text transform="matrix(1 0 0 1 167.5273 36.1045)" font-family="'HiraMinPro-W3-83pv-RKSJ-H'" font-size="18" id="room_id"/>
   <polygon fill="none" points="421.688,610.216 315.245,610.216 310.643,582.942 417.086,582.942 	"/>
-  <text transform="matrix(1 0 0 1 313.3145 598.7822)" font-family="'HiraMinPro-W3-83pv-RKSJ-H'" font-size="18" id="word_0">↓図書館２F</text>
   <rect x="85.598" y="60.537" fill="none" stroke="#000000" stroke-width="3" stroke-miterlimit="10" width="340.483" height="505.043"/>
   <rect x="573.074" y="562.58" fill="none" stroke="#000000" stroke-miterlimit="10" width="0" height="3"/>
   <rect x="29.664" y="89.604" fill="none" width="33.767" height="129.87"/>
-  <text transform="matrix(1 0 0 1 54.4307 89.6035)" font-family="'HiraMinPro-W3-83pv-RKSJ-H'" font-size="18" glyph-orientation-vertical="0" writing-mode="tb" id="word_1">↓パソコン教室</text>
   <rect x="77.267" y="80.605" fill="#FFFFFF" width="16.663" height="46.79"/>
   <rect x="291.585" y="558.08" fill="#FFFFFF" width="55.497" height="14.999"/>
+</g>
+<g id="japanese_words">
+  <text transform="matrix(1 0 0 1 313.3145 598.7822)" font-family="'HiraMinPro-W3-83pv-RKSJ-H'" font-size="18">↓図書館２F</text>
+  <text transform="matrix(1 0 0 1 54.4307 89.6035)" font-family="'HiraMinPro-W3-83pv-RKSJ-H'" font-size="18" glyph-orientation-vertical="0" writing-mode="tb">↓２F　ＰＣプラザ</text>
+</g>
+<g id="english_words" style="display:none">
+  <text transform="matrix(1 0 0 1 313.3145 598.7822)" font-family="'HiraMinPro-W3-83pv-RKSJ-H'" font-size="18">↓Library 2F</text>
+  <text transform="matrix(1 0 0 1 54.4307 89.6035)" font-family="'HiraMinPro-W3-83pv-RKSJ-H'" font-size="18" glyph-orientation-vertical="0" writing-mode="tb">↓2F PC Plaza</text>
 </g>
 <g id="on">
   <image overflow="visible" width="50" height="31" id="pc__on" xlink:href="on.jpg"  transform="matrix(0.8907 0 0 0.69 317 106.6152)" style="display:none"/>
@@ -28,5 +34,4 @@
 <script xlink:href="http://ajax.googleapis.com/ajax/libs/jquery/1.7.2/jquery.min.js"/>
 <script xlink:href="innersvg.js"/>
 <script xlink:href="room.js"/>
-<script xlink:href="roomP-2.js"/>
 </svg>
