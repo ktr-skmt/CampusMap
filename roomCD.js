@@ -2,7 +2,6 @@ var base_url = 'http://pcavil.itsc.ynu.ac.jp/api.php?',
     is_msie = $.browser.msie && window.XDomainRequest,
     locale = 'ja',
     en = 'en',
-    room_name = "room_name",
     room_id = '',
     url_c = base_url + 'room=C',
     url_d = base_url + 'room=D';
@@ -21,7 +20,6 @@ if (document.cookie) {
   }
 }
 if (locale == en) {
-  room_name = "english_room_name";
   document.getElementById('japanese_words').style.display = 'none';
   document.getElementById('english_words').style.display = '';
 }
