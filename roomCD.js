@@ -1,4 +1,4 @@
-var base_url = 'http://pcavil.itsc.ynu.ac.jp/api.php?room=',
+var url = 'http://pcavil.itsc.ynu.ac.jp/api.php?room=',
     is_msie = $.browser.msie && window.XDomainRequest,
     locale = 'ja',
     en = 'en',
