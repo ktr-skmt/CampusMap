@@ -23,10 +23,10 @@ function set_xdr(room_id) {
   xdr.open("get", url + room_id.toUpperCase(), true);
   xdr.send(null);
 }
-if (is_msie) {
-  for (var i = 0; i < room_ids.length; i++) {set_xdr(room_ids[i]);}
-} else {
-  for (var i = 0; i < room_ids.length; i++) {
+for (var i = 0; i < room_ids.length; i++) {
+  if (is_msie) {
+    set_xdr(room_ids[i]);
+  } else {
     jQuery.getJSON(url + room_ids[i].toUpperCase(), function(data) {set_map(data, room_ids[i]);});
   }
 }
