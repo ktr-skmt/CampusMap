@@ -3,8 +3,8 @@
 <!DOCTYPE svg PUBLIC "-//W3C//DTD SVG 1.1//EN" "http://www.w3.org/Graphics/SVG/1.1/DTD/svg11.dtd">
 <svg version="1.1" id="レイヤー_1" xmlns="http://www.w3.org/2000/svg" xmlns:xlink="http://www.w3.org/1999/xlink" x="0px"
   y="0px" width="480px" height="720px" viewBox="0 0 480 720" xml:space="preserve">
-<text transform="matrix(1 0 0 1 185.9922 37.6982)" font-family="'KozGoPr6N-Regular-83pv-RKSJ-H'" font-size="18">パソコン教室B</text>
-<text transform="matrix(1 0 0 1 221.9097 613.0684)" font-family="'KozGoPr6N-Regular-83pv-RKSJ-H'" font-size="14">入口</text>
+<text transform="matrix(1 0 0 1 185.9922 37.6982)" font-family="'KozGoPr6N-Regular-83pv-RKSJ-H'" font-size="18" id="room_id" />
+<text transform="matrix(1 0 0 1 221.9097 613.0684)" font-family="'KozGoPr6N-Regular-83pv-RKSJ-H'" font-size="14" id="word_0">入口</text>
 <path id="wall" d="m300,600 h150 v-540 h-420 v540 h 150" fill="none" stroke="black" stroke-width="3"/>
 <g id="on">
   <image id="pc_1_on" overflow="visible" width="52" height="26" xlink:href="on.jpg"  transform="matrix(0.5334 0 0 0.9459 59.0952 148.3398)" style="display:none" />
