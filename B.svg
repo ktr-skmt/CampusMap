@@ -3,14 +3,9 @@
 <!DOCTYPE svg PUBLIC "-//W3C//DTD SVG 1.1//EN" "http://www.w3.org/Graphics/SVG/1.1/DTD/svg11.dtd">
 <svg version="1.1" id="レイヤー_1" xmlns="http://www.w3.org/2000/svg" xmlns:xlink="http://www.w3.org/1999/xlink" x="0px"
   y="0px" width="480px" height="720px" viewBox="0 0 480 720" xml:space="preserve">
-  <rect x="29.513" y="100.381" fill="#FFFFFF" stroke="#000000" stroke-width="4" stroke-miterlimit="10" width="419.079" height="547.395"/>
- <rect x="166.326" y="23.533" fill="none" width="145.454" height="27.273"/>
- <text transform="matrix(1 0 0 1 185.9922 37.6982)" font-family="'KozGoPr6N-Regular-83pv-RKSJ-H'" font-size="18">パソコン教</text>
-  <text transform="matrix(1 0 0 1 275.9922 37.6982)" font-family="'KozGoPr6N-Regular-83pv-RKSJ-H'" font-size="18" letter-spacing="2">室B</text>
- <rect x="405.601" y="594.886" fill="none" width="31.168" height="18.184"/>
- <text transform="matrix(1 0 0 1 221.9097 613.0684)" font-family="'KozGoPr6N-Regular-83pv-RKSJ-H'" font-size="14">入口</text>
- <rect x="217.941" y="641.637" fill="#FFFFFF" stroke="#FFFFFF" stroke-miterlimit="10" width="42.224" height="12.274"/>
-
+<text transform="matrix(1 0 0 1 185.9922 37.6982)" font-family="'KozGoPr6N-Regular-83pv-RKSJ-H'" font-size="18">パソコン教室B</text>
+<text transform="matrix(1 0 0 1 221.9097 613.0684)" font-family="'KozGoPr6N-Regular-83pv-RKSJ-H'" font-size="14">入口</text>
+<path id="wall" d="m300,600 h150 v-540 h-420 v540 h 150" fill="none" stroke="black" stroke-width="3"/>
 <g id="on">
   <image id="pc_1_on" overflow="visible" width="52" height="26" xlink:href="on.jpg"  transform="matrix(0.5334 0 0 0.9459 59.0952 148.3398)" style="display:none" />
   <image id="pc_2_on" overflow="visible" width="52" height="26" xlink:href="on.jpg"  transform="matrix(0.5334 0 0 0.9459 95.1631 148.7871)" style="display:none" />

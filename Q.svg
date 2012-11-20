@@ -3,11 +3,10 @@
 <!DOCTYPE svg PUBLIC "-//W3C//DTD SVG 1.1//EN" "http://www.w3.org/Graphics/SVG/1.1/DTD/svg11.dtd">
 <svg version="1.1" id="レイヤー_1" xmlns="http://www.w3.org/2000/svg" xmlns:xlink="http://www.w3.org/1999/xlink" x="0px"
   y="0px" width="480px" height="720px" viewBox="0 0 480 720" xml:space="preserve">
-<line fill="none" stroke="#000000" stroke-width="3" stroke-miterlimit="10" x1="106.429" y1="501.524" x2="106.429" y2="205.133"/>
-<line fill="none" stroke="#000000" stroke-width="3" stroke-miterlimit="10" x1="106.429" y1="205.691" x2="204" y2="110"/>
+<text transform="matrix(1 0 0 1 178.1465 48.4893)" font-family="'KozGoPr6N-Regular-83pv-RKSJ-H'" font-size="18" id="word_0">中央図書館3F</text>
+<path id="wall" d="m220,80 l-120,120 v250" fill="none" stroke="black" stroke-width="3"/>
+
 <g id="on">
- <rect x="178.146" y="32.649" fill="none" width="142.195" height="25.974"/>
- <text transform="matrix(1 0 0 1 178.1465 48.4893)" font-family="'KozGoPr6N-Regular-83pv-RKSJ-H'" font-size="18">中央図書館３F</text>
   <image id="pc_1_on" overflow="visible" width="51" height="26" xlink:href="on.jpg"  transform="matrix(0.55 0 0 0.8889 154.5454 212.0737)" style="display:none" />
   <image id="pc_2_on" overflow="visible" width="51" height="26" xlink:href="on.jpg"  transform="matrix(0.55 0 0 0.8889 194.2891 212.0737)" style="display:none" />
   <image id="pc_3_on" overflow="visible" width="51" height="26" xlink:href="on.jpg"  transform="matrix(0.55 0 0 0.8889 234.291 212.0737)" style="display:none" />
