@@ -26,12 +26,17 @@ if (locale == en) {
   document.getElementById('japanese_words').style.display = 'none';
   document.getElementById('english_words').style.display = '';
 }
+function undisplay_ajax_loader() {
+  document.getElementById('ajax_loader').style.display = 'none';
+  document.getElementById('pc_map').style.display = '';
+}
 if (is_msie) {
   var xdr = new XDomainRequest();
   xdr.onload = function() {
     seats = jQuery.parseJSON(xdr.responseText);
     set_room_name();
     set_pc_map();
+    undisplay_ajax_loader();
   }
   xdr.open("get", url, true);
   xdr.send(null);
@@ -40,6 +45,7 @@ if (is_msie) {
     seats = data;
     set_room_name();
     set_pc_map();
+    undisplay_ajax_loader();
   });
 }
 function turn_on(pc_id) {
