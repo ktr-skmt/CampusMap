@@ -3,6 +3,10 @@
 <!DOCTYPE svg PUBLIC "-//W3C//DTD SVG 1.1//EN" "http://www.w3.org/Graphics/SVG/1.1/DTD/svg11.dtd">
 <svg version="1.1" id="レイヤー_1" xmlns="http://www.w3.org/2000/svg" xmlns:xlink="http://www.w3.org/1999/xlink" x="0px"
   y="0px" width="480px" height="720px" viewBox="0 0 480 720" xml:space="preserve">
+<g id="ajax_loader">
+  <image xlink:href="ajax-loader.gif" width="32" height="32" x="100" y="100"/>
+</g>
+<g id="pc_map" style="display:none">
 <rect x="30.46" y="49.132" fill="#FFFFFF" stroke="#000000" stroke-width="4" stroke-miterlimit="10" width="419.079" height="654.558"/>
 <rect x="166.325" y="21.559" fill="none" width="145.455" height="27.273"/>
 <rect x="403.909" y="160.231" fill="none" width="31.168" height="18.182"/>
@@ -231,7 +235,7 @@
   <image id="pc_c51_off" overflow="visible" width="51" height="26" xlink:href="off.jpg"  transform="matrix(0.5257 0 0 0.9474 394.2598 118.4556)" />
   <image id="pc_c52_off" overflow="visible" width="51" height="26" xlink:href="off.jpg"  transform="matrix(0.5257 0 0 0.9474 394.2617 84.1509)" />
 </g>
-
+</g>
 <script xlink:href="http://ajax.googleapis.com/ajax/libs/jquery/1.7.2/jquery.min.js" />
 <script xlink:href="innersvg.js" />
 <script xlink:href="roomCD.js" />

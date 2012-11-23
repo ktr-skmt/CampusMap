@@ -3,8 +3,17 @@
 <!DOCTYPE svg PUBLIC "-//W3C//DTD SVG 1.1//EN" "http://www.w3.org/Graphics/SVG/1.1/DTD/svg11.dtd">
 <svg version="1.1" id="レイヤー_1" xmlns="http://www.w3.org/2000/svg" xmlns:xlink="http://www.w3.org/1999/xlink" x="0px"
   y="0px" width="480px" height="720px" viewBox="0 0 480 720" xml:space="preserve">
+<g id="ajax_loader">
+  <image xlink:href="ajax-loader.gif" width="32" height="32" x="100" y="100"/>
+</g>
+<g id="pc_map" style="display:none">
 <text transform="matrix(1 0 0 1 164.7139 53.5391)" font-family="'KozGoPr6N-Regular-83pv-RKSJ-H'" font-size="18" id="room_id" />
-<text transform="matrix(1 0 0 1 420 160)" font-family="'KozGoPr6N-Regular-83pv-RKSJ-H'" font-size="14" id="word_0">入口</text>
+<g id="japanese_words">
+  <text transform="matrix(1 0 0 1 420 160)" font-family="'KozGoPr6N-Regular-83pv-RKSJ-H'" font-size="14">入口</text>
+</g>
+<g id="english_words" style="display:none">
+  <text transform="matrix(1 0 0 1 420 160)" font-family="'KozGoPr6N-Regular-83pv-RKSJ-H'" font-size="14">Entrance</text>
+</g>
 <path id="wall" d="m440,120 v-30 h-400 v400 h400 v-300" fill="none" stroke="black" stroke-width="3"/>
 <g id="on">
   <image id="pc_1_on" overflow="visible" width="52" height="26" xlink:href="on.jpg"  transform="matrix(0.7041 0 0 0.7206 61.4888 363.9121)" style="display:none" />
@@ -15,7 +24,6 @@
   <image id="pc_6_on" overflow="visible" width="52" height="26" xlink:href="on.jpg"  transform="matrix(0.7041 0 0 0.7206 298.0244 363.3535)" style="display:none" />
   <image id="pc_7_on" overflow="visible" width="52" height="26" xlink:href="on.jpg"  transform="matrix(0.7041 0 0 0.7206 339.0244 363.3535)" style="display:none" />
   <image id="pc_8_on" overflow="visible" width="52" height="26" xlink:href="on.jpg"  transform="matrix(0.7041 0 0 0.7206 381.8994 363.3535)" style="display:none" />
-
   <image id="pc_16_on" overflow="visible" width="52" height="26" xlink:href="on.jpg"  transform="matrix(0.7041 0 0 0.7206 61.8989 339.353)" style="display:none" />
   <image id="pc_15_on" overflow="visible" width="52" height="26" xlink:href="on.jpg"  transform="matrix(0.7041 0 0 0.7206 106.9541 339.353)" style="display:none" />
   <image id="pc_14_on" overflow="visible" width="52" height="26" xlink:href="on.jpg"  transform="matrix(0.7041 0 0 0.7206 147.9541 339.353)" style="display:none" />
@@ -24,7 +32,6 @@
   <image id="pc_11_on" overflow="visible" width="52" height="26" xlink:href="on.jpg"  transform="matrix(0.7041 0 0 0.7206 299.0244 339.353)" style="display:none" />
   <image id="pc_10_on" overflow="visible" width="52" height="26" xlink:href="on.jpg"  transform="matrix(0.7041 0 0 0.7206 340.0244 339.353)" style="display:none" />
   <image id="pc_9_on" overflow="visible" width="52" height="26" xlink:href="on.jpg"  transform="matrix(0.7041 0 0 0.7206 382.8994 339.353)" style="display:none" />
-
   <image id="pc_17_on" overflow="visible" width="52" height="26" xlink:href="on.jpg"  transform="matrix(0.7041 0 0 0.7206 60.249 292.5229)" style="display:none" />
   <image id="pc_18_on" overflow="visible" width="52" height="26" xlink:href="on.jpg"  transform="matrix(0.7041 0 0 0.7206 105.3042 292.5229)" style="display:none" />
   <image id="pc_19_on" overflow="visible" width="52" height="26" xlink:href="on.jpg"  transform="matrix(0.7041 0 0 0.7206 146.3042 292.5229)" style="display:none" />
@@ -33,7 +40,6 @@
   <image id="pc_22_on" overflow="visible" width="52" height="26" xlink:href="on.jpg"  transform="matrix(0.7041 0 0 0.7206 295.7842 291.9648)" style="display:none" />
   <image id="pc_23_on" overflow="visible" width="52" height="26" xlink:href="on.jpg"  transform="matrix(0.7041 0 0 0.7206 336.7842 291.9648)" style="display:none" />
   <image id="pc_24_on" overflow="visible" width="52" height="26" xlink:href="on.jpg"  transform="matrix(0.7041 0 0 0.7206 379.6592 291.9648)" style="display:none" />
-
   <image id="pc_32_on" overflow="visible" width="52" height="26" xlink:href="on.jpg"  transform="matrix(0.7041 0 0 0.7206 60.6582 267.9644)" style="display:none" />
   <image id="pc_31_on" overflow="visible" width="52" height="26" xlink:href="on.jpg"  transform="matrix(0.7041 0 0 0.7206 105.7139 267.9644)" style="display:none" />
   <image id="pc_30_on" overflow="visible" width="52" height="26" xlink:href="on.jpg"  transform="matrix(0.7041 0 0 0.7206 146.7139 267.9644)" style="display:none" />
@@ -42,14 +48,12 @@
   <image id="pc_27_on" overflow="visible" width="52" height="26" xlink:href="on.jpg"  transform="matrix(0.7041 0 0 0.7206 296.7842 267.9644)" style="display:none" />
   <image id="pc_26_on" overflow="visible" width="52" height="26" xlink:href="on.jpg"  transform="matrix(0.7041 0 0 0.7206 337.7842 267.9644)" style="display:none" />
   <image id="pc_25_on" overflow="visible" width="52" height="26" xlink:href="on.jpg"  transform="matrix(0.7041 0 0 0.7206 380.6592 267.9644)" style="display:none" />
-
   <image id="pc_33_on" overflow="visible" width="52" height="26" xlink:href="on.jpg"  transform="matrix(0.7041 0 0 0.7206 60.6582 213.9648)" style="display:none" />
   <image id="pc_34_on" overflow="visible" width="52" height="26" xlink:href="on.jpg"  transform="matrix(0.7041 0 0 0.7206 105.7139 213.9648)" style="display:none" />
   <image id="pc_35_on" overflow="visible" width="52" height="26" xlink:href="on.jpg"  transform="matrix(0.7041 0 0 0.7206 146.7139 213.9648)" style="display:none" />
   <image id="pc_36_on" overflow="visible" width="52" height="26" xlink:href="on.jpg"  transform="matrix(0.7041 0 0 0.7206 189.5889 213.9648)" style="display:none" />
   <image id="pc_37_on" overflow="visible" width="52" height="26" xlink:href="on.jpg"  transform="matrix(0.7041 0 0 0.7206 234.8389 213.9648)" style="display:none" />
   <image id="pc_38_on" overflow="visible" width="52" height="26" xlink:href="on.jpg"  transform="matrix(0.7041 0 0 0.7206 278.7139 213.9648)" style="display:none" />
-
   <image id="pc_44_on" overflow="visible" width="52" height="26" xlink:href="on.jpg"  transform="matrix(0.7041 0 0 0.7206 60.8887 189.9644)" style="display:none" />
   <image id="pc_43_on" overflow="visible" width="52" height="26" xlink:href="on.jpg"  transform="matrix(0.7041 0 0 0.7206 105.9448 189.9644)" style="display:none" />
   <image id="pc_42_on" overflow="visible" width="52" height="26" xlink:href="on.jpg"  transform="matrix(0.7041 0 0 0.7206 146.9448 189.9644)" style="display:none" />
@@ -57,7 +61,6 @@
   <image id="pc_40_on" overflow="visible" width="52" height="26" xlink:href="on.jpg"  transform="matrix(0.7041 0 0 0.7206 235.0698 189.9644)" style="display:none" />
   <image id="pc_39_on" overflow="visible" width="52" height="26" xlink:href="on.jpg"  transform="matrix(0.7041 0 0 0.7206 278.9453 189.9644)" style="display:none" />
 </g>
-
 <g id="off">
   <image id="pc_1_off" overflow="visible" width="48" height="23" xlink:href="off.jpg"  transform="matrix(0.7187 0 0 0.7341 63 364.9424)" />
   <image id="pc_2_off" overflow="visible" width="48" height="23" xlink:href="off.jpg"  transform="matrix(0.7187 0 0 0.7341 107 364.9424)" />
@@ -67,7 +70,6 @@
   <image id="pc_6_off" overflow="visible" width="48" height="23" xlink:href="off.jpg"  transform="matrix(0.7187 0 0 0.7341 299 365.501)" />
   <image id="pc_7_off" overflow="visible" width="48" height="23" xlink:href="off.jpg"  transform="matrix(0.7187 0 0 0.7341 341.25 365.501)" />
   <image id="pc_8_off" overflow="visible" width="48" height="23" xlink:href="off.jpg"  transform="matrix(0.7187 0 0 0.7341 384.5 365.501)" />
-
   <image id="pc_16_off" overflow="visible" width="48" height="23" xlink:href="off.jpg"  transform="matrix(0.7187 0 0 0.7341 62.25 340.9424)" />
   <image id="pc_15_off" overflow="visible" width="48" height="23" xlink:href="off.jpg"  transform="matrix(0.7187 0 0 0.7341 106.25 340.9424)" />
   <image id="pc_14_off" overflow="visible" width="48" height="23" xlink:href="off.jpg"  transform="matrix(0.7187 0 0 0.7341 148.5 340.9424)" />
@@ -76,7 +78,6 @@
   <image id="pc_11_off" overflow="visible" width="48" height="23" xlink:href="off.jpg"  transform="matrix(0.7187 0 0 0.7341 298.25 341.5)" />
   <image id="pc_10_off" overflow="visible" width="48" height="23" xlink:href="off.jpg"  transform="matrix(0.7187 0 0 0.7341 340.5 341.5)" />
   <image id="pc_9_off" overflow="visible" width="48" height="23" xlink:href="off.jpg"  transform="matrix(0.7187 0 0 0.7341 383.75 341.5)" />
-
   <image id="pc_17_off" overflow="visible" width="48" height="23" xlink:href="off.jpg"  transform="matrix(0.7187 0 0 0.7341 62.375 292.8906)" />
   <image id="pc_18_off" overflow="visible" width="48" height="23" xlink:href="off.jpg"  transform="matrix(0.7187 0 0 0.7341 105.375 292.8906)" />
   <image id="pc_19_off" overflow="visible" width="48" height="23" xlink:href="off.jpg"  transform="matrix(0.7187 0 0 0.7341 147.625 292.8906)" />
@@ -85,7 +86,6 @@
   <image id="pc_22_off" overflow="visible" width="48" height="23" xlink:href="off.jpg"  transform="matrix(0.7187 0 0 0.7341 297.375 293.4487)" />
   <image id="pc_23_off" overflow="visible" width="48" height="23" xlink:href="off.jpg"  transform="matrix(0.7187 0 0 0.7341 339.625 293.4487)" />
   <image id="pc_24_off" overflow="visible" width="48" height="23" xlink:href="off.jpg"  transform="matrix(0.7187 0 0 0.7341 382.875 293.4487)" />
-
   <image id="pc_32_off" overflow="visible" width="48" height="23" xlink:href="off.jpg"  transform="matrix(0.7187 0 0 0.7341 61.625 268.8901)" />
   <image id="pc_31_off" overflow="visible" width="48" height="23" xlink:href="off.jpg"  transform="matrix(0.7187 0 0 0.7341 105.625 268.8901)" />
   <image id="pc_30_off" overflow="visible" width="48" height="23" xlink:href="off.jpg"  transform="matrix(0.7187 0 0 0.7341 147.875 268.8901)" />
@@ -94,14 +94,12 @@
   <image id="pc_27_off" overflow="visible" width="48" height="23" xlink:href="off.jpg"  transform="matrix(0.7187 0 0 0.7341 297.625 269.4482)" />
   <image id="pc_26_off" overflow="visible" width="48" height="23" xlink:href="off.jpg"  transform="matrix(0.7187 0 0 0.7341 339.875 269.4482)" />
   <image id="pc_25_off" overflow="visible" width="48" height="23" xlink:href="off.jpg"  transform="matrix(0.7187 0 0 0.7341 383.125 269.4482)" />
-
   <image id="pc_33_off" overflow="visible" width="48" height="23" xlink:href="off.jpg"  transform="matrix(0.7187 0 0 0.7341 61.75 214.8906)" />
   <image id="pc_34_off" overflow="visible" width="48" height="23" xlink:href="off.jpg"  transform="matrix(0.7187 0 0 0.7341 105.75 214.8906)" />
   <image id="pc_35_off" overflow="visible" width="48" height="23" xlink:href="off.jpg"  transform="matrix(0.7187 0 0 0.7341 148 214.8906)" />
   <image id="pc_36_off" overflow="visible" width="48" height="23" xlink:href="off.jpg"  transform="matrix(0.7187 0 0 0.7341 191.25 214.8906)" />
   <image id="pc_37_off" overflow="visible" width="48" height="23" xlink:href="off.jpg"  transform="matrix(0.7187 0 0 0.7341 236.75 214.8906)" />
   <image id="pc_38_off" overflow="visible" width="48" height="23" xlink:href="off.jpg"  transform="matrix(0.7187 0 0 0.7341 279.75 214.8906)" />
-
   <image id="pc_44_off" overflow="visible" width="48" height="23" xlink:href="off.jpg"  transform="matrix(0.7187 0 0 0.7341 62 190.8901)" />
   <image id="pc_43_off" overflow="visible" width="48" height="23" xlink:href="off.jpg"  transform="matrix(0.7187 0 0 0.7341 106 190.8901)" />
   <image id="pc_42_off" overflow="visible" width="48" height="23" xlink:href="off.jpg"  transform="matrix(0.7187 0 0 0.7341 148.25 190.8901)" />
@@ -109,8 +107,8 @@
   <image id="pc_40_off" overflow="visible" width="48" height="23" xlink:href="off.jpg"  transform="matrix(0.7187 0 0 0.7341 237 190.8901)" />
   <image id="pc_39_off" overflow="visible" width="48" height="23" xlink:href="off.jpg"  transform="matrix(0.7187 0 0 0.7341 280 190.8901)" />
 </g>
+</g>
 <script xlink:href="http://ajax.googleapis.com/ajax/libs/jquery/1.7.2/jquery.min.js" />
 <script xlink:href="innersvg.js" />
 <script xlink:href="room.js" />
-<script xlink:href="roomT.js" />
 </svg>

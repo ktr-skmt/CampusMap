@@ -3,6 +3,16 @@
 <!DOCTYPE svg PUBLIC "-//W3C//DTD SVG 1.1//EN" "http://www.w3.org/Graphics/SVG/1.1/DTD/svg11.dtd">
 <svg version="1.1" xmlns="http://www.w3.org/2000/svg" xmlns:xlink="http://www.w3.org/1999/xlink" x="0px" y="0px" width="480px"
 	 height="720px" viewBox="0 0 480 720" enable-background="new 0 0 480 720" xml:space="preserve">
+<g id="ajax_loader">
+  <image xlink:href="ajax-loader.gif" width="32" height="32" x="100" y="100"/>
+</g>
+<g id="pc_map" style="display:none">
+<g id="japanese_words">
+  <text transform="matrix(1 0 0 1 223.9097 633.0684)" fofft-family="'KozGoPr6N-Regular-83pv-RKSJ-H'" fofft-size="14">入口</text>
+</g>
+<g id="english_words" style="display:none">
+  <text transform="matrix(1 0 0 1 223.9097 633.0684)" fofft-family="'KozGoPr6N-Regular-83pv-RKSJ-H'" fofft-size="14">Entrance</text>
+</g>
 <rect x="217.941" y="641.637" fill="#FFFFFF" stroke="#FFFFFF" stroke-miterlimit="10" width="42.224" height="12.274"/>
 <rect x="31.513" y="107.381" fill="#FFFFFF" stroke="#000000" stroke-width="4" stroke-miterlimit="10" width="419.079" height="547.395"/>
 <rect x="217.5" y="639.5" fill="#FFFFFF" width="41" height="20"/>
@@ -116,11 +126,6 @@
   <image id="pc_51_off" overflow="visible" width="53" height="43" xlink:href="off.jpg"  transform="matrix(0.5214 0 0 0.3446 368.1914 497.9365)" />
   <image id="pc_52_off" overflow="visible" width="53" height="43" xlink:href="off.jpg"  transform="matrix(0.5417 0 0 0.3446 404.7549 498.6201)" />
 </g>
-<g id="japanese_words">
-  <text transform="matrix(1 0 0 1 223.9097 633.0684)" fofft-family="'KozGoPr6N-Regular-83pv-RKSJ-H'" fofft-size="14">入口</text>
-</g>
-<g id="english_words" style="display:none">
-  <text transform="matrix(1 0 0 1 223.9097 633.0684)" fofft-family="'KozGoPr6N-Regular-83pv-RKSJ-H'" fofft-size="14">Entrance</text>
 </g>
 <script xlink:href="http://ajax.googleapis.com/ajax/libs/jquery/1.7.2/jquery.min.js"/>
 <script xlink:href="innersvg.js"/>

@@ -3,6 +3,10 @@
 <!DOCTYPE svg PUBLIC "-//W3C//DTD SVG 1.1//EN" "http://www.w3.org/Graphics/SVG/1.1/DTD/svg11.dtd">
 <svg version="1.1" xmlns="http://www.w3.org/2000/svg" xmlns:xlink="http://www.w3.org/1999/xlink" x="0px" y="0px" width="480px"
 	 height="720px" viewBox="0 0 480 720" enable-background="new 0 0 480 720" xml:space="preserve">
+<g id="ajax_loader">
+  <image xlink:href="ajax-loader.gif" width="32" height="32" x="100" y="100"/>
+</g>
+<g id="pc_map" style="display:none">
 <g id="レイヤー_1">
   <rect x="181.415" y="24.156" fill="none" width="142.857" height="27.272"/>
   <text transform="matrix(1 0 0 1 181.415 39.9961)" font-family="'KozGoPr6N-Regular-83pv-RKSJ-H'" font-size="18" id="room_id"/>
@@ -40,6 +44,7 @@
   <image id="pc_3_off" overflow="visible" width="51" height="26" xlink:href="off.jpg"  transform="matrix(0 0.8 -1 0 100 289.438)"/>
   <image id="pc_2_off" overflow="visible" width="51" height="26" xlink:href="off.jpg"  transform="matrix(0 0.8 -1 0 100 368.4375)"/>
   <image id="pc_1_off" overflow="visible" width="51" height="26" xlink:href="off.jpg"  transform="matrix(0 0.8 -1 0 100 441.4375)"/>
+</g>
 </g>
 <script xlink:href="http://ajax.googleapis.com/ajax/libs/jquery/1.7.2/jquery.min.js"/>
 <script xlink:href="innersvg.js"/>
