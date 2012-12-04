@@ -110,6 +110,12 @@
   <image id="pc_33_on" overflow="visible" width="51" height="26" xlink:href="on.jpg"  transform="matrix(0.55 0 0 0.8889 351.2607 493.252)" style="display:none"/>
   <image id="pc_34_on" overflow="visible" width="51" height="26" xlink:href="on.jpg"  transform="matrix(0.55 0 0 0.8889 311.1748 142.353)"  style="display:none"/>
 </g>
+<g id="japanese_words">
+  <a xlink:href="map.svg"><text fill="blue" transform="matrix(1 0 0 1 30 30)" font-family="'KozGoPr6N-Regular-83pv-RKSJ-H'" font-size="14">キャンパスマップ</text></a>
+</g>
+<g id="english_words" style="display:none">
+  <a xlink:href="map.svg"><text fill="blue" transform="matrix(1 0 0 1 30 30)" font-family="'KozGoPr6N-Regular-83pv-RKSJ-H'" font-size="14">Campus Map</text></a>
+</g>
 </g>
 <script xlink:href="http://ajax.googleapis.com/ajax/libs/jquery/1.7.2/jquery.min.js" />
 <script xlink:href="innersvg.js" />

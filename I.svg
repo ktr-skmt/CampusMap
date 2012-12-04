@@ -36,9 +36,11 @@
 </g>
 <text transform="matrix(1 0 0 1 84.5068 48.4893)" font-family="'KozGoPr6N-Regular-83pv-RKSJ-H'" font-size="18" id="room_id" />
 <g id="japanese_words">
+  <a xlink:href="map.svg"><text fill="blue" transform="matrix(1 0 0 1 30 30)" font-family="'KozGoPr6N-Regular-83pv-RKSJ-H'" font-size="14">キャンパスマップ</text></a>
   <text transform="matrix(1 0 0 1 50 450)" font-family="'KozGoPr6N-Regular-83pv-RKSJ-H'" font-size="14">入口</text>
 </g>
 <g id="english_words" style="display:none">
+  <a xlink:href="map.svg"><text fill="blue" transform="matrix(1 0 0 1 30 30)" font-family="'KozGoPr6N-Regular-83pv-RKSJ-H'" font-size="14">Campus Map</text></a>
   <text transform="matrix(1 0 0 1 50 450)" font-family="'KozGoPr6N-Regular-83pv-RKSJ-H'" font-size="14">Entrance</text>
 </g>
 <path id="wall" d="m60,400 v-320 h360 v500 h-360 v-100" fill="none" stroke="black" stroke-width="3"/>

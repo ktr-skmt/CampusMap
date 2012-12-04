@@ -41,11 +41,13 @@
 <rect x="446.046" y="151.14" fill="#FFFFFF" stroke="#FFFFFF" stroke-miterlimit="10" width="12.987" height="36.363"/>
 <rect x="405.601" y="594.886" fill="none" width="31.168" height="18.183"/>
 <g id="japanese_words">
+  <a xlink:href="map.svg"><text fill="blue" transform="matrix(1 0 0 1 30 30)" font-family="'KozGoPr6N-Regular-83pv-RKSJ-H'" font-size="14">キャンパスマップ</text></a>
   <text transform="matrix(1 0 0 1 166.3242 36.9414)" font-family="'KozGoPr6N-Regular-83pv-RKSJ-H'" font-size="18">ＰＣ教室ＣＤ</text>
   <text transform="matrix(1 0 0 1 405.6016 595)" font-family="'KozGoPr6N-Regular-83pv-RKSJ-H'" font-size="14">入口</text>
   <text transform="matrix(1 0 0 1 403.9102 172.5518)" font-family="'KozGoPr6N-Regular-83pv-RKSJ-H'" font-size="14">入口</text>
 </g>
 <g id="english_words" style="display:none">
+  <a xlink:href="map.svg"><text fill="blue" transform="matrix(1 0 0 1 30 30)" font-family="'KozGoPr6N-Regular-83pv-RKSJ-H'" font-size="14">Campus Map</text></a>
   <text transform="matrix(1 0 0 1 166.3242 36.9414)" font-family="'KozGoPr6N-Regular-83pv-RKSJ-H'" font-size="18">Machine Shop CD</text>
   <text transform="matrix(1 0 0 1 405.6016 595)" font-family="'KozGoPr6N-Regular-83pv-RKSJ-H'" font-size="14">Entrance</text>
   <text transform="matrix(1 0 0 1 403.9102 172.5518)" font-family="'KozGoPr6N-Regular-83pv-RKSJ-H'" font-size="14">Entrance</text>

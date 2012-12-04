@@ -16,9 +16,11 @@
   <rect x="23.468" y="529.351" fill="#FFFFFF" stroke="#FFFFFF" stroke-miterlimit="10" width="20.779" height="58.441"/>
 </g>
 <g id="japanese_words">
+  <a xlink:href="map.svg"><text fill="blue" transform="matrix(1 0 0 1 30 30)" font-family="'KozGoPr6N-Regular-83pv-RKSJ-H'" font-size="14">キャンパスマップ</text></a>
   <text transform="matrix(1 0 0 1 58.5332 557.9043)" font-family="'KozGoPr6N-Regular-83pv-RKSJ-H'" font-size="14">入口</text>
 </g>
 <g id="english_words" style="display:none">
+  <a xlink:href="map.svg"><text fill="blue" transform="matrix(1 0 0 1 30 30)" font-family="'KozGoPr6N-Regular-83pv-RKSJ-H'" font-size="14">Campus Map</text></a>
   <text transform="matrix(1 0 0 1 58.5332 557.9043)" font-family="'KozGoPr6N-Regular-83pv-RKSJ-H'" font-size="14">Entrance</text>
 </g>
 <g id="on">

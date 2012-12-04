@@ -36,10 +36,12 @@
 </g>
 <text transform="matrix(1 0 0 1 175.416 43.4346)" font-family="'KozGoPr6N-Regular-83pv-RKSJ-H'" font-size="18" id="room_id" />
 <g id="japanese_words">
-  <text transform="matrix(1 0 0 1 344.248 587.0068)" font-family="'KozGoPr6N-Regular-83pv-RKSJ-H'" font-size="14" id="word_0">入口</text>
+  <a xlink:href="map.svg"><text fill="blue" transform="matrix(1 0 0 1 30 30)" font-family="'KozGoPr6N-Regular-83pv-RKSJ-H'" font-size="14">キャンパスマップ</text></a>
+  <a xlink:href="P-1.svg"><text fill="blue" transform="matrix(1 0 0 1 320 567)" font-family="'KozGoPr6N-Regular-83pv-RKSJ-H'" font-size="14">↓2F ＰＣプラザ</text></a>
 </g>
 <g id="english_words" style="display:none">
-  <text transform="matrix(1 0 0 1 344.248 587.0068)" font-family="'KozGoPr6N-Regular-83pv-RKSJ-H'" font-size="14">Entrance</text>
+  <a xlink:href="map.svg"><text fill="blue" transform="matrix(1 0 0 1 30 30)" font-family="'KozGoPr6N-Regular-83pv-RKSJ-H'" font-size="14">Campus Map</text></a>
+  <a xlink:href="P-1.svg"><text fill="blue" transform="matrix(1 0 0 1 320 567)" font-family="'KozGoPr6N-Regular-83pv-RKSJ-H'" font-size="14">↓2F PC Plaza</text></a>
 </g>
 <path id="wall" d="m400,580 h40 v-500 h-400 v500 h280" fill="none" stroke="black" stroke-width="3"/>
 <g id="on">

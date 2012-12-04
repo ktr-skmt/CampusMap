@@ -45,6 +45,12 @@
   <image id="pc_15_off" overflow="visible" width="48" height="23" xlink:href="off.jpg"  transform="matrix(0.5952 0 0 0.9474 233.3506 359.8975)" />
   <image id="pc_16_off" overflow="visible" width="48" height="23" xlink:href="off.jpg"  transform="matrix(0.5952 0 0 0.9474 269.0352 359.8975)" />
 </g>
+<g id="japanese_words">
+  <a xlink:href="map.svg"><text fill="blue" transform="matrix(1 0 0 1 30 30)" font-family="'KozGoPr6N-Regular-83pv-RKSJ-H'" font-size="14">キャンパスマップ</text></a>
+</g>
+<g id="english_words" style="display:none">
+  <a xlink:href="map.svg"><text fill="blue" transform="matrix(1 0 0 1 30 30)" font-family="'KozGoPr6N-Regular-83pv-RKSJ-H'" font-size="14">Campus Map</text></a>
+</g>
 </g>
 <script xlink:href="http://ajax.googleapis.com/ajax/libs/jquery/1.7.2/jquery.min.js" />
 <script xlink:href="innersvg.js" />

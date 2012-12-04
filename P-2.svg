@@ -18,12 +18,14 @@
   <rect x="291.585" y="558.08" fill="#FFFFFF" width="55.497" height="14.999"/>
 </g>
 <g id="japanese_words">
-  <text transform="matrix(1 0 0 1 313.3145 598.7822)" font-family="'HiraMinPro-W3-83pv-RKSJ-H'" font-size="18">↓図書館２F</text>
-  <text transform="matrix(1 0 0 1 54.4307 89.6035)" font-family="'HiraMinPro-W3-83pv-RKSJ-H'" font-size="18" glyph-orientation-vertical="0" writing-mode="tb">↓２F　ＰＣプラザ</text>
+  <a xlink:href="map.svg"><text fill="blue" transform="matrix(1 0 0 1 30 30)" font-family="'KozGoPr6N-Regular-83pv-RKSJ-H'" font-size="14">キャンパスマップ</text></a>
+  <text transform="matrix(1 0 0 1 313.3145 598.7822)" font-family="'HiraMinPro-W3-83pv-RKSJ-H'" font-size="18">↓中央図書館２F</text>
+  <a xlink:href="P-1.svg"><text fill="blue" transform="matrix(1 0 0 1 54.4307 89.6035)" font-family="'HiraMinPro-W3-83pv-RKSJ-H'" font-size="18" glyph-orientation-vertical="0" writing-mode="tb">↓２F　ＰＣプラザ</text></a>
 </g>
 <g id="english_words" style="display:none">
+  <a xlink:href="map.svg"><text fill="blue" transform="matrix(1 0 0 1 30 30)" font-family="'KozGoPr6N-Regular-83pv-RKSJ-H'" font-size="14">Campus Map</text></a>
   <text transform="matrix(1 0 0 1 313.3145 598.7822)" font-family="'HiraMinPro-W3-83pv-RKSJ-H'" font-size="18">↓Library 2F</text>
-  <text transform="matrix(1 0 0 1 54.4307 89.6035)" font-family="'HiraMinPro-W3-83pv-RKSJ-H'" font-size="18" glyph-orientation-vertical="0" writing-mode="tb">↓2F PC Plaza</text>
+  <a xlink:href="P-1.svg"><text fill="blue" transform="matrix(1 0 0 1 54.4307 89.6035)" font-family="'HiraMinPro-W3-83pv-RKSJ-H'" font-size="18" glyph-orientation-vertical="0" writing-mode="tb">↓2F PC Plaza</text></a>
 </g>
 <g id="on">
   <image overflow="visible" width="50" height="31" id="pc__on" xlink:href="on.jpg"  transform="matrix(0.8907 0 0 0.69 317 106.6152)" style="display:none"/>

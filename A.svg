@@ -34,13 +34,6 @@
   <rect x="0" y="320" stroke="#000000" fill="none" width="400" height="75"/>
   <rect x="0" y="400" stroke="#000000" fill="none" width="400" height="75"/>
 </g>
-
-<g id="japanese_words">
-  <text transform="matrix(1 0 0 1 223.9097 633.0684)" fofft-family="'KozGoPr6N-Regular-83pv-RKSJ-H'" fofft-size="14">入口</text>
-</g>
-<g id="english_words" style="display:none">
-  <text transform="matrix(1 0 0 1 223.9097 633.0684)" fofft-family="'KozGoPr6N-Regular-83pv-RKSJ-H'" fofft-size="14">Entrance</text>
-</g>
 <rect x="217.941" y="641.637" fill="#FFFFFF" stroke="#FFFFFF" stroke-miterlimit="10" width="42.224" height="12.274"/>
 <rect x="31.513" y="107.381" fill="#FFFFFF" stroke="#000000" stroke-width="4" stroke-miterlimit="10" width="419.079" height="547.395"/>
 <rect x="217.5" y="639.5" fill="#FFFFFF" width="41" height="20"/>
@@ -99,6 +92,7 @@
   <image id="pc_50_on" overflow="visible" width="53" height="43" xlink:href="on.jpg"  transform="matrix(0.5417 0 0 0.3133 332.627 498.3037)" style="display:none"/>
   <image id="pc_51_on" overflow="visible" width="53" height="43" xlink:href="on.jpg"  transform="matrix(0.5214 0 0 0.3446 368.1914 497.9365)" style="display:none"/>
   <image id="pc_52_on" overflow="visible" width="53" height="43" xlink:href="on.jpg"  transform="matrix(0.5417 0 0 0.3446 404.7549 498.6201)" style="display:none"/>
+  <image id="pc_53_on" overflow="visible" width="53" height="43" xlink:href="on.jpg"  transform="matrix(0.5417 0 0 0.3446 248.6543 129.7085)" style="display:none"/>
 </g>
 <g id="off">
   <image id="pc_1_off" overflow="visible" width="53" height="43" xlink:href="off.jpg"  transform="matrix(0.5417 0 0 0.3446 58.6133 151.0552)" />
@@ -153,6 +147,17 @@
   <image id="pc_50_off" overflow="visible" width="53" height="43" xlink:href="off.jpg"  transform="matrix(0.5417 0 0 0.3133 332.627 498.3037)" />
   <image id="pc_51_off" overflow="visible" width="53" height="43" xlink:href="off.jpg"  transform="matrix(0.5214 0 0 0.3446 368.1914 497.9365)" />
   <image id="pc_52_off" overflow="visible" width="53" height="43" xlink:href="off.jpg"  transform="matrix(0.5417 0 0 0.3446 404.7549 498.6201)" />
+  <image id="pc_53_off" overflow="visible" width="53" height="43" xlink:href="off.jpg"  transform="matrix(0.5417 0 0 0.3446 248.6543 129.7085)" />
+</g>
+<g id="japanese_words">
+  <a xlink:href="map.svg"><text fill="blue" transform="matrix(1 0 0 1 30 30)" font-family="'KozGoPr6N-Regular-83pv-RKSJ-H'" font-size="14">キャンパスマップ</text></a>
+  <text transform="matrix(1 0 0 1 223.9097 633.0684)" font-family="'KozGoPr6N-Regular-83pv-RKSJ-H'" font-size="14">入口</text>
+  <a xlink:href="B.svg"><text fill="blue" transform="matrix(1 0 0 1 350 600)" font-family="'KozGoPr6N-Regular-83pv-RKSJ-H'" font-size="14">ＰＣ教室Ｂ→</text></a>
+</g>
+<g id="english_words" style="display:none">
+  <a xlink:href="map.svg"><text fill="blue" transform="matrix(1 0 0 1 30 30)" font-family="'KozGoPr6N-Regular-83pv-RKSJ-H'" font-size="14">Campus Map</text></a>
+  <text transform="matrix(1 0 0 1 223.9097 633.0684)" font-family="'KozGoPr6N-Regular-83pv-RKSJ-H'" font-size="14">Entrance</text>
+  <a xlink:href="B.svg"><text fill="blue" transform="matrix(1 0 0 1 350 600)" font-family="'KozGoPr6N-Regular-83pv-RKSJ-H'" font-size="14">Machine Shop B→</text></a>
 </g>
 </g>
 <script xlink:href="http://ajax.googleapis.com/ajax/libs/jquery/1.7.2/jquery.min.js"/>
