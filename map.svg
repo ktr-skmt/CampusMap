@@ -111,7 +111,7 @@
 <text transform="matrix(1 0 0 1 80 50)" fill="#FFFFFF" stroke="#FFFFFF" stroke-width="4" stroke-linecap="round" stroke-linejoin="round" font-family="'KozGoPro-Bold-83pv-RKSJ-H'" font-size="24">Shimane: YNU PC 2</text>
 <text transform="matrix(1 0 0 1 80 50)" fill="#FFFFFF" stroke="#000000" font-family="'KozGoPro-Bold-83pv-RKSJ-H'" font-size="24">Shimane: YNU PC 2</text>
 <g id="japanese_words" transform="translate(75,75)">
-  <text transform="matrix(1 0 0 1 200 0)" font-family="'KozGoPro-Bold-83pv-RKSJ-H'" font-size="12"><tspan fill="#000000">日本語・</tspan><a xlink:href="map.svg?locale=en"><tspan fill="#0000FF">English</tspan></a></text>
+<!--  <text transform="matrix(1 0 0 1 200 0)" font-family="'KozGoPro-Bold-83pv-RKSJ-H'" font-size="12"><tspan fill="#000000">日本語・</tspan><a xlink:href="map.svg?locale=en"><tspan fill="#0000FF">English</tspan></a></text>-->
   <text transform="matrix(1 0 0 1 10 580)" font-family="'KozGoPro-Bold-83pv-RKSJ-H'" font-size="12">スマートフォンのホーム画面への追加方法</text>
   <text transform="matrix(1 0 0 1 10 600)" font-family="'KozGoPro-Bold-83pv-RKSJ-H'" font-size="12">・<a xlink:href="android.html"><tspan fill="#0000FF">for Android</tspan></a></text>
   <text transform="matrix(1 0 0 1 10 620)" font-family="'KozGoPro-Bold-83pv-RKSJ-H'" font-size="12">・<a xlink:href="ios.html"><tspan fill="#0000FF">for iOS (iPhone, iPad and iPod touch)</tspan></a></text>
@@ -149,7 +149,7 @@
   <text transform="matrix(1 0 0 1 127.405 23.9648)" font-family="'KozGoPr6N-Regular-83pv-RKSJ-H'" font-size="12">ローソン</text>
 </g>
 <g id="english_words" transform="translate(75,75)" style="display:none">
-  <text transform="matrix(1 0 0 1 200 0)" font-family="'KozGoPro-Bold-83pv-RKSJ-H'" font-size="12"><a xlink:href="map.svg?locale=ja"><tspan fill="#0000FF">日本語</tspan></a><tspan fill="#000000">・English</tspan></text>
+<!--  <text transform="matrix(1 0 0 1 200 0)" font-family="'KozGoPro-Bold-83pv-RKSJ-H'" font-size="12"><a xlink:href="map.svg?locale=ja"><tspan fill="#0000FF">日本語</tspan></a><tspan fill="#000000">・English</tspan></text>-->
   <text transform="matrix(1 0 0 1 10 580)" font-family="'KozGoPro-Bold-83pv-RKSJ-H'" font-size="12">How to put this app on your smartphone's home screen</text>
   <text transform="matrix(1 0 0 1 10 600)" font-family="'KozGoPro-Bold-83pv-RKSJ-H'" font-size="12">・<a xlink:href="android_en.html"><tspan fill="#0000FF">for Android</tspan></a></text>
   <text transform="matrix(1 0 0 1 10 620)" font-family="'KozGoPro-Bold-83pv-RKSJ-H'" font-size="12">・<a xlink:href="ios_en.html"><tspan fill="#0000FF">for iOS (iPhone, iPad and iPod touch)</tspan></a></text>

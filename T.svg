@@ -2,7 +2,7 @@
 <!-- Generator: Adobe Illustrator 16.0.0, SVG Export Plug-In . SVG Version: 6.00 Build 0)  -->
 <!DOCTYPE svg PUBLIC "-//W3C//DTD SVG 1.1//EN" "http://www.w3.org/Graphics/SVG/1.1/DTD/svg11.dtd">
 <svg version="1.1" xmlns="http://www.w3.org/2000/svg" xmlns:xlink="http://www.w3.org/1999/xlink" x="0px" y="0px" width="480px"
-	 height="1000px" viewBox="0 0 480 1000" enable-background="new 0 0 480 1000" xml:space="preserve">
+	 height="1300px" viewBox="0 0 480 1300" enable-background="new 0 0 480 1300" xml:space="preserve">
 <g id="ajax_loader">
   <image xlink:href="ajax-loader.gif" width="32" height="32" x="100" y="100"/>
 </g>
@@ -22,16 +22,16 @@
   <text transform="matrix(1 0 0 1 58.5332 557.9043)" font-family="'KozGoPr6N-Regular-83pv-RKSJ-H'" font-size="14">Entrance</text>
 </g>
 <g id="on">
-  <image id="pc_1_on" overflow="visible" width="51" height="26" xlink:href="on.jpg"  transform="matrix(0 0.8 -1 0 70.6406 441.0518)" style="display:none"/>
-  <image id="pc_2_on" overflow="visible" width="51" height="26" xlink:href="on.jpg"  transform="matrix(0 0.8 -1 0 70.6406 366.0518)" style="display:none"/>
-  <image id="pc_3_on" overflow="visible" width="51" height="26" xlink:href="on.jpg"  transform="matrix(0 0.8 -1 0 69.6406 291.0518)" style="display:none"/>
-  <image id="pc_4_on" overflow="visible" width="51" height="26" xlink:href="on.jpg"  transform="matrix(0 0.8 -1 0 69.6406 216.0518)" style="display:none"/>
-  <image id="pc_5_on" overflow="visible" width="51" height="26" xlink:href="on.jpg"  transform="matrix(0 0.8 -1 0 69.6406 141.0518)" style="display:none"/>
-  <image id="pc_10_on" overflow="visible" width="51" height="26" xlink:href="on.jpg"  transform="matrix(0.8 0 0 1 381.2207 97.0518)" style="display:none"/>
-  <image id="pc_9_on" overflow="visible" width="51" height="26" xlink:href="on.jpg"  transform="matrix(0.8 0 0 1 314.9863 97.0518)" style="display:none"/>
-  <image id="pc_8_on" overflow="visible" width="51" height="26" xlink:href="on.jpg"  transform="matrix(0.8 0 0 1 250.0527 97.0518)" style="display:none"/>
-  <image id="pc_7_on" overflow="visible" width="51" height="26" xlink:href="on.jpg"  transform="matrix(0.8 0 0 1 186.415 97.0518)" style="display:none"/>
-  <image id="pc_6_on" overflow="visible" width="51" height="26" xlink:href="on.jpg"  transform="matrix(0.8 0 0 1 119.3765 97.0518)" style="display:none"/>
+  <image id="pc_6_on" overflow="visible" width="51" height="26" xlink:href="on.jpg"  transform="matrix(0.8 0 0 1 118.3765 97.0518)" style="display:none"/>
+  <image id="pc_7_on" overflow="visible" width="51" height="26" xlink:href="on.jpg"  transform="matrix(0.8 0 0 1 186.3765 97.0518)" style="display:none"/>
+  <image id="pc_8_on" overflow="visible" width="51" height="26" xlink:href="on.jpg"  transform="matrix(0.8 0 0 1 250.0527 96.3906)" style="display:none"/>
+  <image id="pc_9_on" overflow="visible" width="51" height="26" xlink:href="on.jpg"  transform="matrix(0.8 0 0 1 314.9863 96.3906)" style="display:none"/>
+  <image id="pc_10_on" overflow="visible" width="51" height="26" xlink:href="on.jpg"  transform="matrix(0.8 0 0 1 381.2207 96.3906)" style="display:none"/>
+  <image id="pc_5_on" overflow="visible" width="51" height="26" xlink:href="on.jpg"  transform="matrix(0 0.8 -1 0 100 140.438)" style="display:none"/>
+  <image id="pc_4_on" overflow="visible" width="51" height="26" xlink:href="on.jpg"  transform="matrix(0 0.8 -1 0 100 215.438)" style="display:none"/>
+  <image id="pc_3_on" overflow="visible" width="51" height="26" xlink:href="on.jpg"  transform="matrix(0 0.8 -1 0 100 289.438)" style="display:none"/>
+  <image id="pc_2_on" overflow="visible" width="51" height="26" xlink:href="on.jpg"  transform="matrix(0 0.8 -1 0 100 368.4375)" style="display:none"/>
+  <image id="pc_1_on" overflow="visible" width="51" height="26" xlink:href="on.jpg"  transform="matrix(0 0.8 -1 0 100 441.4375)" style="display:none"/>
 </g>
 <g id="off">
   <image id="pc_6_off" overflow="visible" width="51" height="26" xlink:href="off.jpg"  transform="matrix(0.8 0 0 1 118.3765 97.0518)"/>

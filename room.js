@@ -4,10 +4,13 @@ var base_url = 'http://pcavil.itsc.ynu.ac.jp/api.php?',
     locale = 'ja',
     en = 'en',
     room_name = "room_name",
-    room_id = location.href;
+    room_id = location.href,
+    timetable_id = "&timetable=this_today",
+    room_ids4class_use = ['A', 'B', 'E', 'F', 'G', 'H', 'I', 'J', 'K', 'L', 'M', 'N', 'O'];
 room_id = room_id.substring(room_id.lastIndexOf("/") + 1, room_id.length);
 room_id = room_id.substring(0, room_id.indexOf("."));
-var url = base_url + 'room=' + room_id;
+var can_use_this4class = jQuery.inArray(room_id, room_ids4class_use) >= 0,
+    url = base_url + 'room=' + room_id;
 if (document.cookie) {
   var cookies = document.cookie.split("; ");
   for (var i = 0; i < cookies.length; i++) {
@@ -36,17 +39,51 @@ if (is_msie) {
     seats = jQuery.parseJSON(xdr.responseText);
     set_room_name();
     set_pc_map();
-    undisplay_ajax_loader();
+    if (!can_use_this4class) undisplay_ajax_loader();
   }
   xdr.open("get", url, true);
   xdr.send(null);
+  if (can_use_this4class) {
+    xdr = new XDomainRequest();
+    xdr.onload = function() {
+      set_timetable(jQuery.parseJSON(xdr.responseText));
+      undisplay_ajax_loader();
+    }
+    xdr.open("get", url + timetable_id, true);
+    xdr.send(null);
+  }
 } else {
   jQuery.getJSON(url, function (data) {
     seats = data;
     set_room_name();
     set_pc_map();
-    undisplay_ajax_loader();
+    if (!can_use_this4class) undisplay_ajax_loader();
   });
+  if (can_use_this4class) {
+    jQuery.getJSON(url + timetable_id, function (data) {
+      set_timetable(data);
+      undisplay_ajax_loader();
+    });
+  }
+}
+function set_timetable(timetable) {
+  var w = (new Date()).getDay(),
+      youbi = ['日', '月', '火', '水', '木', '金', '土'],
+      weekday = ['Sun', 'Mon', 'Tues', 'Wednes', 'Thurs', 'Fri', 'Satur'];
+  if (locale == en) document.getElementById('timetable_name').innerSVG = weekday[w] + "day's Timetable";
+  else document.getElementById('timetable_name').innerSVG = youbi[w] + "曜日の時間割";
+  for (var i = 1; i < 7; i++) {
+    var period_name = i + "限",
+        period_id = period_name;
+    if (i == 6) period_id = "夜間";
+    var today_timetable = timetable[period_id][0];
+    if (typeof today_timetable != "undefined") {
+      document.getElementById('subject_' + i).innerSVG = today_timetable['subject'];
+      document.getElementById('lecturer_' + i).innerSVG = today_timetable['lecturer'] + ' ' + today_timetable['date'];
+    }
+    if (locale == en) period_name = "Period " + i;
+    document.getElementById('period_' + i).innerSVG = period_name;
+  }
 }
 function turn_on(pc_id) {
   var id = 'pc_' + pc_id + '_';
