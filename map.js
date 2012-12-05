@@ -143,7 +143,11 @@ function get_contents(id, data, locale) {
       if (id == roomE) {
         contents = new Array("講義のみ使用可能です。", "");
       } else {
-        contents = open_mode_contents("空席", seats[id][available_seats], seats[id][total_seats], data[id][available_still]);
+        if (id == 'C') {
+          contents = open_mode_contents("空席", seats[id][available_seats] + seats['D'][available_seats], seats[id][total_seats] + seats['D'][total_seats], data[id][available_still]);
+        } else {
+          contents = open_mode_contents("空席", seats[id][available_seats], seats[id][total_seats], data[id][available_still]);
+        }
       }
     }
     break;
