@@ -27,10 +27,10 @@
 </g>
 <g id="english_words" style="display:none">
   <a xlink:href="map.svg"><text fill="blue" transform="matrix(1 0 0 1 30 30)" font-family="'KozGoPr6N-Regular-83pv-RKSJ-H'" font-size="14">←Campus Map</text></a>
-  <a xlink:href="CD.svg"><text fill="blue" transform="matrix(1 0 0 1 52.8203 119.6074)" font-family="'KozGoPr6N-Regular-83pv-RKSJ-H'" font-size="18">←Machine Shop CD</text></a>
-  <text transform="matrix(1 0 0 1 52.8203 139.6074)" fill="#040000" font-family="'KozGoPr6N-Regular-83pv-RKSJ-H'" font-size="18">6:00pm-9:00pm Open</text>
-  <a xlink:href="F.svg"><text fill="blue" transform="matrix(1 0 0 1 54.1577 523.8545)" font-family="'KozGoPr6N-Regular-83pv-RKSJ-H'" font-size="18" letter-spacing="3">←Machine Shop F</text></a>
-  <a xlink:href="P-2.svg"><text fill="blue" transform="matrix(1 0 0 1 220 113.8545)" font-family="'KozGoPr6N-Regular-83pv-RKSJ-H'" font-size="18" letter-spacing="3">Refresh Room→</text></a>
+  <a xlink:href="CD.svg"><text fill="blue" transform="matrix(1 0 0 1 40 119.6074)" font-family="'KozGoPr6N-Regular-83pv-RKSJ-H'" font-size="18">←Machine Shop CD</text></a>
+  <text transform="matrix(1 0 0 1 40 139.6074)" fill="#040000" font-family="'KozGoPr6N-Regular-83pv-RKSJ-H'" font-size="18">6:00pm-9:00pm Open</text>
+  <a xlink:href="F.svg"><text fill="blue" transform="matrix(1 0 0 1 40 523.8545)" font-family="'KozGoPr6N-Regular-83pv-RKSJ-H'" font-size="18" letter-spacing="3">←Machine Shop F</text></a>
+  <a xlink:href="P-2.svg"><text fill="blue" transform="matrix(1 0 0 1 250 113.8345)" font-family="'KozGoPr6N-Regular-83pv-RKSJ-H'" font-size="18" letter-spacing="3">Refresh Room→</text></a>
   <text fill="#040000" transform="matrix(1 0 0 1 180 560)" font-family="'KozGoPr6N-Regular-83pv-RKSJ-H'" font-size="18" letter-spacing="3">Library 2F→</text>
 </g>
 <g id="off">
