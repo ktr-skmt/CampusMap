@@ -28,14 +28,14 @@
   <a xlink:href="P-1.svg"><text fill="blue" transform="matrix(1 0 0 1 54.4307 89.6035)" font-family="'HiraMinPro-W3-83pv-RKSJ-H'" font-size="18" glyph-orientation-vertical="0" writing-mode="tb">↓2F PC Plaza</text></a>
 </g>
 <g id="on">
-  <image overflow="visible" width="50" height="31" id="pc__on" xlink:href="on.jpg"  transform="matrix(0.8907 0 0 0.69 317 106.6152)" style="display:none"/>
-  <image overflow="visible" width="50" height="31" id="pc__on" xlink:href="on.jpg"  transform="matrix(0.8907 0 0 0.69 233.5713 106.6152)" style="display:none"/>
-  <image overflow="visible" width="50" height="31" id="pc__on" xlink:href="on.jpg"  transform="matrix(0.8907 0 0 0.69 146 106.6152)" style="display:none"/>
+  <image overflow="visible" width="50" height="31" id="pc_66_on" xlink:href="on.jpg"  transform="matrix(0.8907 0 0 0.69 317 106.6152)" style="display:none"/>
+  <image overflow="visible" width="50" height="31" id="pc_67_on" xlink:href="on.jpg"  transform="matrix(0.8907 0 0 0.69 233.5713 106.6152)" style="display:none"/>
+  <image overflow="visible" width="50" height="31" id="pc_68_on" xlink:href="on.jpg"  transform="matrix(0.8907 0 0 0.69 146 106.6152)" style="display:none"/>
 </g>
 <g id="off">
-  <image overflow="visible" width="47" height="31" id="pc__off" xlink:href="off.jpg"  transform="matrix(0.9476 0 0 0.6876 317 106.6528)"/>
-  <image overflow="visible" width="47" height="31" id="pc__off" xlink:href="off.jpg"  transform="matrix(0.9476 0 0 0.6876 233.5713 106.6528)"/>
-  <image overflow="visible" width="47" height="31" id="pc__off" xlink:href="off.jpg"  transform="matrix(0.9476 0 0 0.6876 146 106.6528)"/>
+  <image overflow="visible" width="47" height="31" id="pc_66_off" xlink:href="off.jpg"  transform="matrix(0.9476 0 0 0.6876 317 106.6528)"/>
+  <image overflow="visible" width="47" height="31" id="pc_67_off" xlink:href="off.jpg"  transform="matrix(0.9476 0 0 0.6876 233.5713 106.6528)"/>
+  <image overflow="visible" width="47" height="31" id="pc_68_off" xlink:href="off.jpg"  transform="matrix(0.9476 0 0 0.6876 146 106.6528)"/>
 </g>
 </g>
 <script xlink:href="http://ajax.googleapis.com/ajax/libs/jquery/1.7.2/jquery.min.js"/>

@@ -38,7 +38,7 @@ if (is_msie) {
   xdr.onload = function() {
     seats = jQuery.parseJSON(xdr.responseText);
     set_room_name();
-    set_pc_map();
+    set_pc_map(room_id);
     if (!can_use_this4class) undisplay_ajax_loader();
   }
   xdr.open("get", url, true);
@@ -56,7 +56,7 @@ if (is_msie) {
   jQuery.getJSON(url, function (data) {
     seats = data;
     set_room_name();
-    set_pc_map();
+    set_pc_map(room_id);
     if (!can_use_this4class) undisplay_ajax_loader();
   });
   if (can_use_this4class) {
@@ -90,10 +90,14 @@ function turn_on(pc_id) {
   document.getElementById(id + 'on').style.display = '';
   document.getElementById(id + 'off').style.display = 'none';
 }
-function set_pc_map() {
+function set_pc_map(room_id) {
+  if (room_id == 'P-2') set_pc(66);
+  else set_pc(1);
+}
+function set_pc(start) {
   var num_total_seats = seats['total_seats'],
       ids = seats['pc_id'];
-  for (var pc_id = 1; pc_id <= num_total_seats; pc_id++) {
+  for (var pc_id = start; pc_id < start + num_total_seats; pc_id++) {
     for (var id in ids) {
       if (ids[id] == pc_id) turn_on(pc_id);
     }
