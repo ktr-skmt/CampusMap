@@ -227,7 +227,7 @@ function set_data2map (data) {
       contents = get_contents(id, data, locale);
     }
     document.getElementById(id + '_content_0').innerSVG = contents[0];
-    document.getElementById(id + '_content_1').innerSVG = contents[1]
+    document.getElementById(id + '_content_1').innerSVG = contents[1];
     document.getElementById(id + '_more').innerSVG = more;
   }
 }
