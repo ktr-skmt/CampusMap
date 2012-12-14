@@ -34,12 +34,12 @@
   <rect x="0" y="320" stroke="#000000" fill="none" width="400" height="75"/>
   <rect x="0" y="400" stroke="#000000" fill="none" width="400" height="75"/>
 </g>
-  <rect x="169.073" y="32.649" fill="none" width="176.909" height="25.974"/>
-  <text transform="matrix(1 0 0 1 169.0732 48.0312)" font-family="'KozGoPr6N-Regular-83pv-RKSJ-H'" font-size="18" id="room_id"/>
-  <rect x="62.429" y="91.688" fill="none" stroke="#000000" stroke-width="3" stroke-miterlimit="10" width="366.233" height="507.792"/>
-  <rect x="54.636" y="486.961" fill="#FFFFFF" stroke="#FFFFFF" stroke-miterlimit="10" width="16.883" height="40.26"/>
-  <rect x="98.517" y="518.13" fill="none" width="31.168" height="18.183"/>
-  <rect x="199.078" y="148.832" fill="none" width="128.571" height="15.584"/>
+<rect x="169.073" y="32.649" fill="none" width="176.909" height="25.974"/>
+<a xlink:href="O.svg"><text fill="#0000FF" transform="matrix(1 0 0 1 169.0732 48.0312)" font-family="'KozGoPr6N-Regular-83pv-RKSJ-H'" font-size="18" id="room_id"/></a>
+<rect x="62.429" y="91.688" fill="none" stroke="#000000" stroke-width="3" stroke-miterlimit="10" width="366.233" height="507.792"/>
+<rect x="54.636" y="486.961" fill="#FFFFFF" stroke="#FFFFFF" stroke-miterlimit="10" width="16.883" height="40.26"/>
+<rect x="98.517" y="518.13" fill="none" width="31.168" height="18.183"/>
+<rect x="199.078" y="148.832" fill="none" width="128.571" height="15.584"/>
 <g id="japanese_words">
   <a xlink:href="map.svg"><text fill="blue" transform="matrix(1 0 0 1 30 30)" font-family="'KozGoPr6N-Regular-83pv-RKSJ-H'" font-size="14">キャンパスマップ</text></a>
   <text transform="matrix(1 0 0 1 98.5166 530.4502)" font-family="'KozGoPr6N-Regular-83pv-RKSJ-H'" font-size="14">入口</text>

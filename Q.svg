@@ -7,7 +7,7 @@
   <image xlink:href="ajax-loader.gif" width="32" height="32" x="100" y="100"/>
 </g>
 <g id="pc_map" style="display:none">
-<text transform="matrix(1 0 0 1 178.1465 48.4893)" font-family="'KozGoPr6N-Regular-83pv-RKSJ-H'" font-size="18" id="room_id" />
+<a xlink:href="Q.svg"><text fill="#0000FF" transform="matrix(1 0 0 1 178.1465 48.4893)" font-family="'KozGoPr6N-Regular-83pv-RKSJ-H'" font-size="18" id="room_id" /></a>
 <path id="wall" d="m220,80 l-120,120 v250" fill="none" stroke="black" stroke-width="3"/>
 <g id="on">
   <image id="pc_1_on" overflow="visible" width="51" height="26" xlink:href="on.jpg"  transform="matrix(0.55 0 0 0.8889 154.5454 212.0737)" style="display:none" />

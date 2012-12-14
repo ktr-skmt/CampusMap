@@ -9,7 +9,7 @@
 <g id="pc_map" style="display:none">
 <g id="レイヤー_1">
   <rect x="167.527" y="20.264" fill="none" width="176.625" height="27.273"/>
-  <text transform="matrix(1 0 0 1 167.5273 36.1045)" font-family="'HiraMinPro-W3-83pv-RKSJ-H'" font-size="18" id="room_id"/>
+  <a xlink:href="P-2.svg"><text fill="#0000FF" transform="matrix(1 0 0 1 167.5273 36.1045)" font-family="'HiraMinPro-W3-83pv-RKSJ-H'" font-size="18" id="room_id"/></a>
   <polygon fill="none" points="421.688,610.216 315.245,610.216 310.643,582.942 417.086,582.942 	"/>
   <rect x="85.598" y="60.537" fill="none" stroke="#000000" stroke-width="3" stroke-miterlimit="10" width="340.483" height="505.043"/>
   <rect x="573.074" y="562.58" fill="none" stroke="#000000" stroke-miterlimit="10" width="0" height="3"/>

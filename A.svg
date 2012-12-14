@@ -38,7 +38,7 @@
 <rect x="31.513" y="107.381" fill="#FFFFFF" stroke="#000000" stroke-width="4" stroke-miterlimit="10" width="419.079" height="547.395"/>
 <rect x="217.5" y="639.5" fill="#FFFFFF" width="41" height="20"/>
 <rect x="166.326" y="23.533" fill="none" width="145.454" height="27.273"/>
-<text transform="matrix(1 0 0 1 185.9922 37.6982)" font-family="'KozGoPr6N-Regular-83pv-RKSJ-H'" font-size="18" id="room_id"/>
+<a xlink:href="A.svg"><text fill="#0000FF" transform="matrix(1 0 0 1 185.9922 37.6982)" font-family="'KozGoPr6N-Regular-83pv-RKSJ-H'" font-size="18" id="room_id"/></a>
 <g id="on">
   <image id="pc_1_on" overflow="visible" width="53" height="43" xlink:href="on.jpg"  transform="matrix(0.5417 0 0 0.3446 58.6133 151.0552)" style="display:none"/>
   <image id="pc_2_on" overflow="visible" width="53" height="43" xlink:href="on.jpg"  transform="matrix(0.5214 0 0 0.28 94.1777 150.5137)" style="display:none"/>

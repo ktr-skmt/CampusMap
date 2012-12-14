@@ -34,7 +34,7 @@
   <rect x="0" y="320" stroke="#000000" fill="none" width="400" height="75"/>
   <rect x="0" y="400" stroke="#000000" fill="none" width="400" height="75"/>
 </g>
-<text transform="matrix(1 0 0 1 175.416 43.4346)" font-family="'KozGoPr6N-Regular-83pv-RKSJ-H'" font-size="18" id="room_id" />
+<a xlink:href="F.svg"><text fill="#0000FF" transform="matrix(1 0 0 1 175.416 43.4346)" font-family="'KozGoPr6N-Regular-83pv-RKSJ-H'" font-size="18" id="room_id" /></a>
 <g id="japanese_words">
   <a xlink:href="map.svg"><text fill="blue" transform="matrix(1 0 0 1 30 30)" font-family="'KozGoPr6N-Regular-83pv-RKSJ-H'" font-size="14">キャンパスマップ</text></a>
   <a xlink:href="P-1.svg"><text fill="blue" transform="matrix(1 0 0 1 320 567)" font-family="'KozGoPr6N-Regular-83pv-RKSJ-H'" font-size="14">↓2F ＰＣプラザ</text></a>

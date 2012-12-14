@@ -7,16 +7,16 @@
   <image xlink:href="ajax-loader.gif" width="32" height="32" x="100" y="100"/>
 </g>
 <g id="pc_map" style="display:none">
-  <rect x="24.117" y="491.039" fill="#FFFFFF" stroke="#FFFFFF" stroke-miterlimit="10" width="16.883" height="40.26"/>
-  <rect x="444.701" y="92.273" fill="#FFFFFF" stroke="#FFFFFF" stroke-miterlimit="10" width="16.883" height="40.26"/>
   <rect x="31.26" y="51.429" fill="none" stroke="#000000" stroke-width="3" stroke-miterlimit="10" width="422.078" height="638.961"/>
   <rect x="24.117" y="86.494" fill="#FFFFFF" stroke="#FFFFFF" stroke-miterlimit="10" width="16.883" height="40.26"/>
   <image id="pc__" overflow="visible" width="51" height="26" xlink:href="on.jpg"  transform="matrix(0.5167 0 0 0.5392 60.2168 69.8755)" style="display:none" />
   <line stroke="#000000" stroke-width="3" stroke-miterlimit="10" x1="453.338" y1="137.454" x2="315.676" y2="690.701"/>
   <rect x="335.611" y="554.611" transform="matrix(0.9702 0.2422 -0.2422 0.9702 149.434 -66.2137)" fill="#FFFFFF" stroke="#FFFFFF" stroke-miterlimit="10" width="16.883" height="40.26"/>
-  <rect x="450.739" y="127.064" fill="#FFFFFF" width="25.975" height="570.131"/>
+  <rect x="450.739" y="151" fill="#FFFFFF" width="25.975" height="570.131"/>
   <rect x="318.272" y="686.805" fill="#FFFFFF" width="157.143" height="12.987"/>
-  <text transform="matrix(1 0 0 1 195.2881 37.9961)" fill="#040000" font-family="'KozGoPr6N-Regular-83pv-RKSJ-H'" font-size="18" id="room_id"/>
+  <rect x="24.117" y="491.039" fill="#FFFFFF" stroke="#FFFFFF" stroke-miterlimit="10" width="16.883" height="40.26"/>
+  <rect x="444.701" y="92.273" fill="#FFFFFF" stroke="#FFFFFF" stroke-miterlimit="10" width="16.883" height="40.26"/>
+  <a xlink:href="P-1.svg"><text fill="#0000FF" transform="matrix(1 0 0 1 195.2881 37.9961)" fill="#040000" font-family="'KozGoPr6N-Regular-83pv-RKSJ-H'" font-size="18" id="room_id"/></a>
 <g id="japanese_words">
   <a xlink:href="map.svg"><text fill="blue" transform="matrix(1 0 0 1 30 30)" font-family="'KozGoPr6N-Regular-83pv-RKSJ-H'" font-size="14">キャンパスマップ</text></a>
   <a xlink:href="CD.svg"><text fill="blue" transform="matrix(1 0 0 1 52.8203 119.6074)" font-family="'KozGoPr6N-Regular-83pv-RKSJ-H'" font-size="18">←CD教室</text></a>
