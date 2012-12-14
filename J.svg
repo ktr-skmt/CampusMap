@@ -38,7 +38,7 @@
 <rect x="138.417" y="32.052" fill="none" width="264.455" height="27.273"/>
 <rect x="376.416" y="622.909" fill="none" width="31.168" height="18.182"/>
 <rect x="367.56" y="596.608" fill="#FFFCFB" width="48.054" height="12.985"/>
-<a xlink:href="J.svg"><text transform="matrix(1 0 0 1 138.416 47.4346)" font-family="'KozGoPr6N-Regular-83pv-RKSJ-H'" font-size="18" id="room_id"/></a>
+<a xlink:href="J.svg"><text fill="#0000FF" transform="matrix(1 0 0 1 138.416 47.4346)" font-family="'KozGoPr6N-Regular-83pv-RKSJ-H'" font-size="18" id="room_id"/></a>
 <g id="japanese_words">
   <a xlink:href="map.svg"><text fill="blue" transform="matrix(1 0 0 1 30 30)" font-family="'KozGoPr6N-Regular-83pv-RKSJ-H'" font-size="14">キャンパスマップ</text></a>
   <text transform="matrix(1 0 0 1 376.416 635.2295)" font-family="'KozGoPr6N-Regular-83pv-RKSJ-H'" font-size="14">入口</text>

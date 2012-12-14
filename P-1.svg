@@ -16,7 +16,7 @@
   <rect x="318.272" y="686.805" fill="#FFFFFF" width="157.143" height="12.987"/>
   <rect x="24.117" y="491.039" fill="#FFFFFF" stroke="#FFFFFF" stroke-miterlimit="10" width="16.883" height="40.26"/>
   <rect x="444.701" y="92.273" fill="#FFFFFF" stroke="#FFFFFF" stroke-miterlimit="10" width="16.883" height="40.26"/>
-  <a xlink:href="P-1.svg"><text fill="#0000FF" transform="matrix(1 0 0 1 195.2881 37.9961)" fill="#040000" font-family="'KozGoPr6N-Regular-83pv-RKSJ-H'" font-size="18" id="room_id"/></a>
+  <a xlink:href="P-1.svg"><text fill="#0000FF" transform="matrix(1 0 0 1 195.2881 37.9961)" font-family="'KozGoPr6N-Regular-83pv-RKSJ-H'" font-size="18" id="room_id"/></a>
 <g id="japanese_words">
   <a xlink:href="map.svg"><text fill="blue" transform="matrix(1 0 0 1 30 30)" font-family="'KozGoPr6N-Regular-83pv-RKSJ-H'" font-size="14">キャンパスマップ</text></a>
   <a xlink:href="CD.svg"><text fill="blue" transform="matrix(1 0 0 1 52.8203 119.6074)" font-family="'KozGoPr6N-Regular-83pv-RKSJ-H'" font-size="18">←CD教室</text></a>
