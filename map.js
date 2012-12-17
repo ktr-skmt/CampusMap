@@ -19,6 +19,7 @@ if (document.cookie) {
     }
   }
 }
+//locale == en;
 if (locale == en) {
   document.getElementById('japanese_words').style.display = 'none';
   document.getElementById('english_words').style.display = '';

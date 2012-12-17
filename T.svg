@@ -9,7 +9,7 @@
 <g id="pc_map" style="display:none">
 <g id="レイヤー_1">
   <rect x="181.415" y="24.156" fill="none" width="142.857" height="27.272"/>
-  <a xlink:href="T.svg"><text fill="#0000FF" transform="matrix(1 0 0 1 181.415 39.9961)" font-family="'KozGoPr6N-Regular-83pv-RKSJ-H'" font-size="18" id="room_id"/></a>
+  <a xlink:href="T.svg"><text fill="#0000FF" transform="matrix(1 0 0 1 100 50)" font-family="'KozGoPr6N-Regular-83pv-RKSJ-H'" font-size="18" id="room_id"/></a>
   <rect x="58.533" y="545.584" fill="none" width="31.168" height="18.182"/>
   <rect x="36.455" y="65.714" fill="none" stroke="#000000" stroke-width="3" stroke-miterlimit="10" width="415.584" height="549.35"/>
   <rect x="32.208" y="608.57" fill="#FFFFFF" stroke="#FFFFFF" stroke-miterlimit="10" width="427.624" height="12.987"/>

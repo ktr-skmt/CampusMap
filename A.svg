@@ -157,7 +157,7 @@
 <g id="english_words" style="display:none">
   <a xlink:href="map.svg"><text fill="blue" transform="matrix(1 0 0 1 30 30)" font-family="'KozGoPr6N-Regular-83pv-RKSJ-H'" font-size="14">Campus Map</text></a>
   <text transform="matrix(1 0 0 1 223.9097 633.0684)" font-family="'KozGoPr6N-Regular-83pv-RKSJ-H'" font-size="14">Entrance</text>
-  <a xlink:href="B.svg"><text fill="blue" transform="matrix(1 0 0 1 350 600)" font-family="'KozGoPr6N-Regular-83pv-RKSJ-H'" font-size="14">Machine Shop B→</text></a>
+  <a xlink:href="B.svg"><text fill="blue" transform="matrix(1 0 0 1 300 600)" font-family="'KozGoPr6N-Regular-83pv-RKSJ-H'" font-size="14">Machine Shop B→</text></a>
 </g>
 </g>
 <script xlink:href="http://ajax.googleapis.com/ajax/libs/jquery/1.7.2/jquery.min.js"/>

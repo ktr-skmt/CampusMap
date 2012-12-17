@@ -24,6 +24,7 @@ if (document.cookie) {
     }
   }
 }
+locale = en;
 if (locale == en) {
   room_name = "english_room_name";
   document.getElementById('japanese_words').style.display = 'none';
@@ -37,7 +38,7 @@ if (is_msie) {
   var xdr = new XDomainRequest();
   xdr.onload = function() {
     seats = jQuery.parseJSON(xdr.responseText);
-    set_room_name();
+    set_room_name(room_id);
     set_pc_map(room_id);
     if (!can_use_this4class) undisplay_ajax_loader();
   }
@@ -55,7 +56,7 @@ if (is_msie) {
 } else {
   jQuery.getJSON(url, function (data) {
     seats = data;
-    set_room_name();
+    set_room_name(room_id);
     set_pc_map(room_id);
     if (!can_use_this4class) undisplay_ajax_loader();
   });
@@ -103,6 +104,9 @@ function set_pc(start) {
     }
   }
 }
-function set_room_name() {
-  document.getElementById('room_id').innerSVG = seats[room_name];
+function set_room_name(room_id) {
+  var name = seats[room_name],
+      pc_room_name = {J:"Center for Educational Research &amp; Practices", N:"Seisan-tō Ⅰ 305", K:"Denjō-tō 1F Terminal Room", L:"Denjō-tō 3F Terminal Room 1", M:"Denjō-tō 3F Terminal Room 2"};
+  if (locale == en) for (var rn in pc_room_name) if (rn == room_id) name = pc_room_name[rn];
+  document.getElementById('room_id').innerSVG = name;
 }
