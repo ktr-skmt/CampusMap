@@ -157,6 +157,8 @@
   <image id="pc_c50_on" overflow="visible" width="51" height="26" xlink:href="on.jpg"  transform="matrix(0.5257 0 0 0.9474 340.4248 84.1509)" style="display:none" />
   <image id="pc_c51_on" overflow="visible" width="51" height="26" xlink:href="on.jpg"  transform="matrix(0.5257 0 0 0.9474 394.2598 118.4556)" style="display:none" />
   <image id="pc_c52_on" overflow="visible" width="51" height="26" xlink:href="on.jpg"  transform="matrix(0.5257 0 0 0.9474 394.2617 84.1509)" style="display:none" />
+  <image id="pc_d53_on" overflow="visible" width="51" height="26" xlink:href="on.jpg"  transform="matrix(0.5257 0 0 0.9474 34 522.8066)" style="display:none" />
+  <image id="pc_c53_on" overflow="visible" width="51" height="26" xlink:href="on.jpg"  transform="matrix(0.5257 0 0 0.9474 34 200.6636)" style="display:none" />
 </g>
 <g id="off">
   <image id="pc_d1_off" overflow="visible" width="51" height="26" xlink:href="off.jpg"  transform="matrix(0.5257 0 0 0.9474 60.9932 659.6289)" />
@@ -263,6 +265,8 @@
   <image id="pc_c50_off" overflow="visible" width="51" height="26" xlink:href="off.jpg"  transform="matrix(0.5257 0 0 0.9474 340.4248 84.1509)" />
   <image id="pc_c51_off" overflow="visible" width="51" height="26" xlink:href="off.jpg"  transform="matrix(0.5257 0 0 0.9474 394.2598 118.4556)" />
   <image id="pc_c52_off" overflow="visible" width="51" height="26" xlink:href="off.jpg"  transform="matrix(0.5257 0 0 0.9474 394.2617 84.1509)" />
+  <image id="pc_c53_off" overflow="visible" width="51" height="26" xlink:href="off.jpg"  transform="matrix(0.5257 0 0 0.9474 34 200.6636)" />
+  <image id="pc_d53_off" overflow="visible" width="51" height="26" xlink:href="off.jpg"  transform="matrix(0.5257 0 0 0.9474 34 522.8066)" />
 </g>
 </g>
 <script xlink:href="http://ajax.googleapis.com/ajax/libs/jquery/1.7.2/jquery.min.js" />
