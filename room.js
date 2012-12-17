@@ -24,7 +24,6 @@ if (document.cookie) {
     }
   }
 }
-locale = en;
 if (locale == en) {
   room_name = "english_room_name";
   document.getElementById('japanese_words').style.display = 'none';
