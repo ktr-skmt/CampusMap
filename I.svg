@@ -70,6 +70,7 @@
   <image id="pc_23_on" overflow="visible" width="51" height="26" xlink:href="on.jpg"  transform="matrix(0.6875 0 0 0.8889 351.2852 459.8652)" style="display:none" />
   <image id="pc_24_on" overflow="visible" width="51" height="26" xlink:href="on.jpg"  transform="matrix(0.6875 0 0 0.8889 303.8496 513.3672)" style="display:none" />
   <image id="pc_25_on" overflow="visible" width="51" height="26" xlink:href="on.jpg"  transform="matrix(0.6875 0 0 0.8889 351.2852 514.3672)" style="display:none" />
+  <image id="pc_26_on" overflow="visible" width="51" height="26" xlink:href="on.jpg"  transform="matrix(0.6875 0 0 0.8889 326 90)" style="display:none" />
 </g>
 <g id="off">
   <image id="pc_1_off" overflow="visible" width="48" height="23" xlink:href="off.jpg"  transform="matrix(0.7411 0 0 0.9474 96.4028 116.8496)" />
@@ -97,6 +98,7 @@
   <image id="pc_23_off" overflow="visible" width="48" height="23" xlink:href="off.jpg"  transform="matrix(0.7644 0 0 0.9474 351.2852 460.5273)" />
   <image id="pc_24_off" overflow="visible" width="48" height="23" xlink:href="off.jpg"  transform="matrix(0.7644 0 0 0.9474 301.4668 515.9629)" />
   <image id="pc_25_off" overflow="visible" width="48" height="23" xlink:href="off.jpg"  transform="matrix(0.7644 0 0 0.9474 351.2852 515.0273)" />
+  <image id="pc_26_off" overflow="visible" width="51" height="26" xlink:href="off.jpg"  transform="matrix(0.6875 0 0 0.8889 326 90)" />
 </g>
 </g>
 <script xlink:href="http://ajax.googleapis.com/ajax/libs/jquery/1.7.2/jquery.min.js" />

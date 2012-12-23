@@ -64,6 +64,7 @@
   <image id="pc_30_off" overflow="visible" width="53" height="40" xlink:href="off.jpg"  transform="matrix(0.5257 0 0 0.7783 274.6797 434.9189)"  />
   <image id="pc_17_off" overflow="visible" width="53" height="40" xlink:href="off.jpg"  transform="matrix(0.5257 0 0 0.7783 179.6797 485.9893)" />
   <image id="pc_18_off" overflow="visible" width="53" height="40" xlink:href="off.jpg"  transform="matrix(0.5257 0 0 0.7783 271.6797 155.9209)"  />
+  <image id="pc_34_off" overflow="visible" width="53" height="40" xlink:href="off.jpg"  transform="matrix(0.5257 0 0 0.7783 318.6797 101.9209)" />
   <image id="pc_19_off" overflow="visible" width="53" height="40" xlink:href="off.jpg"  transform="matrix(0.5257 0 0 0.7783 318.6797 156.9209)" />
   <image id="pc_31_off" overflow="visible" width="53" height="40" xlink:href="off.jpg"  transform="matrix(0.5257 0 0 0.7783 321.6797 435.9189)"  />
   <image id="pc_12_off" overflow="visible" width="53" height="40" xlink:href="off.jpg"  transform="matrix(0.5257 0 0 0.7783 132.6797 378.9189)"  />
@@ -99,6 +100,7 @@
   <image id="pc_30_on" overflow="visible" width="53" height="40" xlink:href="on.jpg"  transform="matrix(0.5257 0 0 0.7783 274.6797 434.9189)"  style="display:none"/>
   <image id="pc_17_on" overflow="visible" width="53" height="40" xlink:href="on.jpg"  transform="matrix(0.5257 0 0 0.7783 179.6797 485.9893)" style="display:none"/>
   <image id="pc_18_on" overflow="visible" width="53" height="40" xlink:href="on.jpg"  transform="matrix(0.5257 0 0 0.7783 271.6797 155.9209)"  style="display:none"/>
+  <image id="pc_34_on" overflow="visible" width="53" height="40" xlink:href="on.jpg"  transform="matrix(0.5257 0 0 0.7783 318.6797 101.9209)" style="display:none"/>
   <image id="pc_19_on" overflow="visible" width="53" height="40" xlink:href="on.jpg"  transform="matrix(0.5257 0 0 0.7783 318.6797 156.9209)" style="display:none"/>
   <image id="pc_31_on" overflow="visible" width="53" height="40" xlink:href="on.jpg"  transform="matrix(0.5257 0 0 0.7783 321.6797 435.9189)"  style="display:none"/>
   <image id="pc_12_on" overflow="visible" width="53" height="40" xlink:href="on.jpg"  transform="matrix(0.5257 0 0 0.7783 132.6797 378.9189)"  style="display:none"/>
