@@ -154,35 +154,28 @@ function get_contents(id, data, locale) {
     break;
   case 'closed':
     var pronoun = "", opening_time = "", closing_time = "", period = "";
+    function is_close_(time) {return (time == "") || (time == "12:am")}
+    function is_close(ot, ct) {return is_close_(ot) || is_close_(ct)}
+    if (is_afternoon()) {
+      opening_time = data[id][tomorrow_opening_time];
+      closing_time = data[id][tomorrow_closing_time];
+      if (locale == en) pronoun = "Tomorrow"; else pronoun = "明日";
+    } else {
+      opening_time = data[id][today_opening_time];
+      closing_time = data[id][today_closing_time];
+      if (locale == en) pronoun = "Today"; else pronoun = "今日";
+    }
     if (locale == en) {
-      if (is_afternoon()) {
-        pronoun = "Tomorrow";
-        opening_time = data[id][tomorrow_opening_time];
-        closing_time = data[id][tomorrow_closing_time];
-      } else {
-        pronoun = "Today";
-        opening_time = data[id][today_opening_time];
-        closing_time = data[id][today_closing_time];
-      }
       period = ".";
-      if ((opening_time == "") || (closing_time == "")) {
+      if (is_close(opening_time, closing_time)) {
         contents = new Array("Closed " + pronoun.toLowerCase() + period, "");
       } else {
         contents = closed_mode_contents(pronoun, "'s opening hours are ", opening_time, closing_time, period);
       }
     } else {
-      if (is_afternoon()) {
-        pronoun = "明日";
-        opening_time = data[id][tomorrow_opening_time];
-        closing_time = data[id][tomorrow_closing_time];
-      } else {
-        pronoun = "今日";
-        opening_time = data[id][today_opening_time];
-        closing_time = data[id][today_closing_time];
-      }
       period = "です。";
-      if ((opening_time == "") || (closing_time == "")) {
-        contents = new Array( pronoun + "は閉室" + period, "");
+      if (is_close(opening_time, closing_time)) {
+        contents = new Array(pronoun + "は閉室" + period, "");
       } else {
         contents = closed_mode_contents(pronoun, "の開館時間は", opening_time, closing_time, period);
       }
