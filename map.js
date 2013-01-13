@@ -28,6 +28,9 @@ function undisplay_ajax_loader() {
   document.getElementById('ajax_loader').style.display = 'none';
   document.getElementById('campus_map').style.display = '';
 }
+function overwriteAjaxLoader(error_message) {
+  document.getElementById('ajax_loader').innerSVG = error_message;
+}
 if (is_msie) {
   var xdr = new XDomainRequest();
   xdr.onload = function() {
@@ -35,6 +38,10 @@ if (is_msie) {
     colors = get_colors();
     set_colors();
     undisplay_ajax_loader();
+  }
+  xdr.onerror = function() {
+    if (locale == en) overwriteAjaxLoader('When you use this app through Internet Explorer, you need to allow XDomainRequest.');
+    else overwriteAjaxLoader('Internet Explorerをご利用の場合、XDomainRequestが利用できる環境でご使用ください。');
   }
   xdr.open("get", url, true);
   xdr.send(null);
