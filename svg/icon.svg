@@ -1,0 +1,38 @@
+<?xml version="1.0" encoding="utf-8"?>
+<!-- Generator: Adobe Illustrator 16.0.0, SVG Export Plug-In . SVG Version: 6.00 Build 0)  -->
+<!DOCTYPE svg PUBLIC "-//W3C//DTD SVG 1.1//EN" "http://www.w3.org/Graphics/SVG/1.1/DTD/svg11.dtd">
+<svg version="1.1" id="レイヤー_1" xmlns="http://www.w3.org/2000/svg" xmlns:xlink="http://www.w3.org/1999/xlink" x="0px" y="0px" width="480px" height="720px" viewBox="0 0 480 720" enable-background="new 0 0 480 720" xml:space="preserve">
+<defs>
+  <desc>style for dialogbox</desc>
+  <symbol id="bgbox">
+    <rect x="3" y="3" width="260" height="60" fill="black" opacity="0.3" rx="5" ry="5" stroke="black" stroke-width="2"/>
+    <rect x="0" y="0" width="260" height="60" fill="url(#box)" opacity="1" rx="5" ry="5" stroke="url(#frame)" stroke-width="2"/>
+  </symbol>
+  <text id="closeicon" x="242" y="16" font-size="15" fill="white" text-align="justify" >✕</text>
+  <linearGradient id="box" x1="0%" y1="0%" x2="0%" y2="100%">
+    <stop offset="0%" stop-color="#4488ff"/>
+    <stop offset="35%" stop-color="#4488ff"/>
+    <stop offset="35%" stop-color="white"/>
+    <stop offset="90%" stop-color="white"/>
+    <stop offset="100%" stop-color="#eeeeee"/>
+   </linearGradient>
+  <linearGradient id="frame" x1="0%" y1="0%" x2="100%" y2="100%">
+    <stop offset="20%" stop-color="#cccccc"/>
+    <stop offset="80%" stop-color="#666666"/>
+  </linearGradient>
+</defs>
+
+<style type="text/css"><![CDATA[
+  .roomname  { font-size: 15px; fill: white; }
+  .content   { font-size: 12px; fill: black; }
+  .to_detail { font-size: 12px; fill: blue; }
+]]></style>
+<g id="room" transform="translate(0,0)">
+  <rect x="4" y="4" width="100" height="80" fill="black" opacity="0.3" rx="5" ry="5" stroke="black" stroke-width="2"/>
+  <rect x="0" y="0" width="100" height="80" fill="url(#box)" opacity="1" rx="5" ry="5" stroke="url(#frame)" stroke-width="2"/>
+  <a xlink:href="A.svg"><text x="5" y="15" width="100" height="100" font-family="Verdana" font-size="15" fill="white" text-align="justify" id="_room_name">PC教室</text></a>
+  <a onclick="hide_id('A')"><text x="80" y="15" width="100" height="100" font-family="Verdana" font-size="15" fill="white" text-align="justify" >✕</text></a>
+  <text x="10" y="40" width="100" height="100" font-family="Verdana" font-size="12" fill="black" text-align="justify" id="_content">空席:<tspan fill="green" font-weight="bold">20</tspan>/23</text>
+  <text x="40" y="65" width="100" height="100" font-family="Verdana" font-size="12" fill="blue" text-align="justify">&gt;&gt;詳細</text>
+</g>
+</svg>

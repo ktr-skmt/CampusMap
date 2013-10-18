@@ -1,0 +1,30 @@
+<?xml version="1.0" encoding="utf-8"?>
+<!-- Generator: Adobe Illustrator 16.2.1, SVG Export Plug-In . SVG Version: 6.00 Build 0)  -->
+<!DOCTYPE svg PUBLIC "-//W3C//DTD SVG 1.1//EN" "http://www.w3.org/Graphics/SVG/1.1/DTD/svg11.dtd">
+<svg version="1.1" id="レイヤー_1" xmlns="http://www.w3.org/2000/svg" xmlns:xlink="http://www.w3.org/1999/xlink" x="0px"
+	 y="0px" width="480px" height="600px" viewBox="0 0 480 600" enable-background="new 0 0 480 600" xml:space="preserve">
+<g id="japanese_words">
+	<text transform="matrix(1 0 0 1 313.3105 575.5195)" font-family="'HiraMinPro-W3-83pv-RKSJ-H'" font-size="18">↓中央図書館２F</text>
+	
+		<text transform="matrix(1 0 0 1 54.4312 66.3389)" fill="#0000FF" font-family="'HiraMinPro-W3-83pv-RKSJ-H'" font-size="18" glyph-orientation-vertical="0" writing-mode="tb">↓２</text>
+	<text transform="matrix(1 0 0 1 47.5908 102.3389)" fill="#0000FF" font-family="'HiraMinPro-W3-83pv-RKSJ-H'" font-size="18">F</text>
+	
+		<text transform="matrix(1 0 0 1 54.4312 112.9951)" fill="#0000FF" font-family="'HiraMinPro-W3-83pv-RKSJ-H'" font-size="18" glyph-orientation-vertical="0" writing-mode="tb">　ＰＣプラザ</text>
+</g>
+<g id="english_words" display="none">
+	<text transform="matrix(1 0 0 1 313.3105 575.5195)" display="inline" font-family="'HiraMinPro-W3-83pv-RKSJ-H'" font-size="18">↓Library 2F</text>
+	
+		<text transform="matrix(1 0 0 1 54.4312 66.3389)" display="inline" fill="#0000FF" font-family="'HiraMinPro-W3-83pv-RKSJ-H'" font-size="18" glyph-orientation-vertical="0" writing-mode="tb">↓</text>
+	
+		<text transform="matrix(1 0 0 1 47.5908 84.3389)" display="inline" fill="#0000FF" font-family="'HiraMinPro-W3-83pv-RKSJ-H'" font-size="18">2F PC Plaza</text>
+</g>
+<rect id="pc_66_off" x="317" y="83.386" fill="#64C5E5" stroke="#64C5E5" stroke-miterlimit="10" width="44.537" height="21.316"/>
+<rect id="pc_67_off" x="233.57" y="83.386" fill="#64C5E5" stroke="#64C5E5" stroke-miterlimit="10" width="44.538" height="21.316"/>
+<rect id="pc_68_off" x="146" y="83.386" fill="#64C5E5" stroke="#64C5E5" stroke-miterlimit="10" width="44.537" height="21.316"/>
+<line fill="none" stroke="#000000" stroke-width="3" stroke-miterlimit="10" x1="85.598" y1="37.273" x2="426.078" y2="37.273"/>
+<line fill="none" stroke="#000000" stroke-width="3" stroke-miterlimit="10" x1="426.078" y1="35.75" x2="426.078" y2="543.812"/>
+<line fill="none" stroke="#000000" stroke-width="3" stroke-miterlimit="10" x1="426.078" y1="542.312" x2="347.077" y2="542.312"/>
+<line fill="none" stroke="#000000" stroke-width="3" stroke-miterlimit="10" x1="291.58" y1="542.319" x2="85.598" y2="542.312"/>
+<line fill="none" stroke="#000000" stroke-width="3" stroke-miterlimit="10" x1="85.598" y1="543.792" x2="85.598" y2="104.131"/>
+<line fill="none" stroke="#000000" stroke-width="3" stroke-miterlimit="10" x1="85.599" y1="57.341" x2="85.599" y2="35.792"/>
+</svg>

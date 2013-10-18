@@ -1,0 +1,27 @@
+<?xml version="1.0" encoding="utf-8"?>
+<!-- Generator: Adobe Illustrator 16.2.1, SVG Export Plug-In . SVG Version: 6.00 Build 0)  -->
+<!DOCTYPE svg PUBLIC "-//W3C//DTD SVG 1.1//EN" "http://www.w3.org/Graphics/SVG/1.1/DTD/svg11.dtd">
+<svg version="1.1" id="レイヤー_1" xmlns="http://www.w3.org/2000/svg" xmlns:xlink="http://www.w3.org/1999/xlink" x="0px"
+	 y="0px" width="480px" height="650px" viewBox="0 0 480 650" enable-background="new 0 0 480 650" xml:space="preserve">
+<g id="japanese_words">
+	<text transform="matrix(1 0 0 1 58.5332 536.9004)" font-family="'KozGoPr6N-Regular-83pv-RKSJ-H'" font-size="14">入口</text>
+</g>
+<g id="english_words" display="none">
+	
+		<text transform="matrix(1 0 0 1 58.5332 557.9004)" display="inline" font-family="'KozGoPr6N-Regular-83pv-RKSJ-H'" font-size="14">Entrance</text>
+</g>
+<rect id="pc_6_off" x="118.38" y="76.052" fill="#64C5E5" stroke="#64C5E5" stroke-miterlimit="10" width="40.8" height="26"/>
+<rect id="pc_7_off" x="185.18" y="76.052" fill="#64C5E5" stroke="#64C5E5" stroke-miterlimit="10" width="40.8" height="26"/>
+<rect id="pc_8_off" x="251.98" y="75.391" fill="#64C5E5" stroke="#64C5E5" stroke-miterlimit="10" width="40.799" height="26"/>
+<rect id="pc_9_off" x="318.78" y="75.391" fill="#64C5E5" stroke="#64C5E5" stroke-miterlimit="10" width="40.8" height="26"/>
+<rect id="pc_10_off" x="385.58" y="75.391" fill="#64C5E5" stroke="#64C5E5" stroke-miterlimit="10" width="40.8" height="26"/>
+<rect id="pc_5_off" x="74" y="119.44" fill="#64C5E5" stroke="#64C5E5" stroke-miterlimit="10" width="26" height="40.8"/>
+<rect id="pc_4_off" x="74" y="191.24" fill="#64C5E5" stroke="#64C5E5" stroke-miterlimit="10" width="26" height="40.8"/>
+<rect id="pc_3_off" x="74" y="263.04" fill="#64C5E5" stroke="#64C5E5" stroke-miterlimit="10" width="26" height="40.8"/>
+<rect id="pc_2_off" x="74" y="334.84" fill="#64C5E5" stroke="#64C5E5" stroke-miterlimit="10" width="26" height="40.801"/>
+<rect id="pc_1_off" x="74" y="406.641" fill="#64C5E5" stroke="#64C5E5" stroke-miterlimit="10" width="26" height="40.8"/>
+<line fill="none" stroke="#000000" stroke-width="3" stroke-miterlimit="10" x1="36.455" y1="43.188" x2="36.455" y2="508.35"/>
+<line fill="none" stroke="#000000" stroke-width="3" stroke-miterlimit="10" x1="36.455" y1="566.791" x2="36.455" y2="587.57"/>
+<line fill="none" stroke="#000000" stroke-width="3" stroke-miterlimit="10" x1="452.035" y1="587.57" x2="452.035" y2="43.208"/>
+<line fill="none" stroke="#000000" stroke-width="3" stroke-miterlimit="10" x1="452.035" y1="44.714" x2="36.455" y2="44.714"/>
+</svg>

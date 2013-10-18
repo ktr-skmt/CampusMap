@@ -1,0 +1,59 @@
+<?xml version="1.0" encoding="utf-8"?>
+<!-- Generator: Adobe Illustrator 16.0.0, SVG Export Plug-In . SVG Version: 6.00 Build 0)  -->
+<!DOCTYPE svg PUBLIC "-//W3C//DTD SVG 1.1//EN" "http://www.w3.org/Graphics/SVG/1.1/DTD/svg11.dtd">
+<svg version="1.1" id="レイヤー_1" xmlns="http://www.w3.org/2000/svg" xmlns:xlink="http://www.w3.org/1999/xlink" x="0px"
+	 y="0px" width="480px" height="1300px" viewBox="0 0 480 1300" enable-background="new 0 0 480 1300" xml:space="preserve">
+<g id="ajax_loader">
+  <image xlink:href="ajax-loader.gif" width="32" height="32" x="100" y="100"/>
+</g>
+<g id="pc_map" style="display:none">
+<rect x="198.404" y="32.649" fill="none" width="105.195" height="25.974"/>
+<a xlink:href="R.svg"><text fill="#0000FF" transform="matrix(1 0 0 1 100 48.4893)" font-family="'KozGoPr6N-Regular-83pv-RKSJ-H'" font-size="18" id="room_id" /></a>
+<rect x="62.429" y="91.688" fill="none" stroke="#000000" stroke-width="3" stroke-miterlimit="10" width="366.233" height="607.792"/>
+<rect x="53.987" y="680" fill="#FFFFFF" stroke="#FFFFFF" stroke-miterlimit="10" width="380" height="40.261"/>
+<rect x="93.403" y="549.48" fill="none" width="31.168" height="18.182"/>
+<g id="japanese_words">
+  <a xlink:href="map.svg"><text fill="blue" transform="matrix(1 0 0 1 30 30)" font-family="'KozGoPr6N-Regular-83pv-RKSJ-H'" font-size="14">キャンパスマップ</text></a>
+  <text transform="matrix(1 0 0 1 93.4033 680)" font-family="'KozGoPr6N-Regular-83pv-RKSJ-H'" font-size="14">入口</text>
+</g>
+<g id="english_words" style="display:none">
+  <a xlink:href="map.svg"><text fill="blue" transform="matrix(1 0 0 1 30 30)" font-family="'KozGoPr6N-Regular-83pv-RKSJ-H'" font-size="14">Campus Map</text></a>
+  <text transform="matrix(1 0 0 1 93.4033 680)" font-family="'KozGoPr6N-Regular-83pv-RKSJ-H'" font-size="14">Entrance</text>
+</g>
+<g id="on">
+  <image id="pc_1_on" overflow="visible" width="51" height="26" xlink:href="on.jpg"  transform="matrix(0.55 0 0 0.8889 365.2881 111.8057)" style="display:none" />
+  <image id="pc_2_on" overflow="visible" width="51" height="26" xlink:href="on.jpg"  transform="matrix(0.55 0 0 0.8889 365.2852 148.9688)" style="display:none" />
+  <image id="pc_3_on" overflow="visible" width="51" height="26" xlink:href="on.jpg"  transform="matrix(0.55 0 0 0.8889 365.2871 186.1328)" style="display:none" />
+  <image id="pc_4_on" overflow="visible" width="51" height="26" xlink:href="on.jpg"  transform="matrix(0.55 0 0 0.8889 365.2852 223.2969)" style="display:none" />
+  <image id="pc_5_on" overflow="visible" width="51" height="26" xlink:href="on.jpg"  transform="matrix(0.55 0 0 0.8889 365.2871 260.4609)" style="display:none" />
+  <image id="pc_6_on" overflow="visible" width="51" height="26" xlink:href="on.jpg"  transform="matrix(0.55 0 0 0.8889 365.2852 297.624)" style="display:none" />
+  <image id="pc_7_on" overflow="visible" width="51" height="26" xlink:href="on.jpg"  transform="matrix(0.55 0 0 0.8889 365.2852 362.1914)" style="display:none" />
+  <image id="pc_8_on" overflow="visible" width="51" height="26" xlink:href="on.jpg"  transform="matrix(0.55 0 0 0.8889 365.2871 399.3555)" style="display:none" />
+  <image id="pc_9_on" overflow="visible" width="51" height="26" xlink:href="on.jpg"  transform="matrix(0.55 0 0 0.8889 365.2852 436.5195)" style="display:none" />
+  <image id="pc_10_on" overflow="visible" width="51" height="26" xlink:href="on.jpg"  transform="matrix(0.55 0 0 0.8889 365.2852 473.6836)" style="display:none" />
+  <image id="pc_11_on" overflow="visible" width="51" height="26" xlink:href="on.jpg"  transform="matrix(0.55 0 0 0.8889 365.2871 510.8477)" style="display:none" />
+  <image id="pc_12_on" overflow="visible" width="51" height="26" xlink:href="on.jpg"  transform="matrix(0.55 0 0 0.8889 365.2871 548.0098)" style="display:none" />
+  <image id="pc_13_on" overflow="visible" width="51" height="26" xlink:href="on.jpg"  transform="matrix(0.55 0 0 0.8889 365.2871 586)" style="display:none" />
+  <image id="pc_14_on" overflow="visible" width="51" height="26" xlink:href="on.jpg"  transform="matrix(0.55 0 0 0.8889 365.2871 624)" style="display:none" />
+</g>
+<g id="off">
+  <image id="pc_1_off" overflow="visible" width="48" height="23" xlink:href="off.jpg"  transform="matrix(0.5952 0 0 0.9474 365.0264 112.4668)" />
+  <image id="pc_2_off" overflow="visible" width="48" height="23" xlink:href="off.jpg"  transform="matrix(0.5952 0 0 0.9474 365.0254 149.6299)" />
+  <image id="pc_3_off" overflow="visible" width="48" height="23" xlink:href="off.jpg"  transform="matrix(0.5952 0 0 0.9474 365.0264 186.7939)" />
+  <image id="pc_4_off" overflow="visible" width="48" height="23" xlink:href="off.jpg"  transform="matrix(0.5952 0 0 0.9474 365.0264 223.9575)" />
+  <image id="pc_5_off" overflow="visible" width="48" height="23" xlink:href="off.jpg"  transform="matrix(0.5952 0 0 0.9474 365.0264 261.1216)" />
+  <image id="pc_6_off" overflow="visible" width="48" height="23" xlink:href="off.jpg"  transform="matrix(0.5952 0 0 0.9474 365.0264 298.2852)" />
+  <image id="pc_7_off" overflow="visible" width="48" height="23" xlink:href="off.jpg"  transform="matrix(0.5952 0 0 0.9474 365.0273 362.8535)" />
+  <image id="pc_8_off" overflow="visible" width="48" height="23" xlink:href="off.jpg"  transform="matrix(0.5952 0 0 0.9474 365.0264 400.0156)" />
+  <image id="pc_9_off" overflow="visible" width="48" height="23" xlink:href="off.jpg"  transform="matrix(0.5952 0 0 0.9474 365.0273 437.1797)" />
+  <image id="pc_10_off" overflow="visible" width="48" height="23" xlink:href="off.jpg"  transform="matrix(0.5952 0 0 0.9474 365.0273 474.3438)" />
+  <image id="pc_11_off" overflow="visible" width="48" height="23" xlink:href="off.jpg"  transform="matrix(0.5952 0 0 0.9474 365.0273 511.5078)" />
+  <image id="pc_12_off" overflow="visible" width="48" height="23" xlink:href="off.jpg"  transform="matrix(0.5952 0 0 0.9474 365.0273 548.6719)" />
+  <image id="pc_13_off" overflow="visible" width="48" height="23" xlink:href="off.jpg"  transform="matrix(0.5952 0 0 0.9474 365.2871 586)" />
+  <image id="pc_14_off" overflow="visible" width="48" height="23" xlink:href="off.jpg"  transform="matrix(0.5952 0 0 0.9474 365.2871 624)" />
+</g>
+</g>
+<script xlink:href="http://ajax.googleapis.com/ajax/libs/jquery/1.7.2/jquery.min.js"/>
+<script xlink:href="innersvg.js"/>
+<script xlink:href="room.js"/>
+</svg>
